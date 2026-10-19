@@ -1,0 +1,3493 @@
+date,market,stage,plan,signups,active_users,churned_users,mrr_usd
+2026-01-01,Japan,Mature,Starter,78,26065,18,234584
+2026-01-01,Japan,Mature,Pro,39,12195,6,353668
+2026-01-01,Japan,Mature,Team,10,3784,2,298896
+2026-01-01,Korea,Growing,Starter,47,11177,9,100592
+2026-01-01,Korea,Growing,Pro,24,5228,5,151618
+2026-01-01,Korea,Growing,Team,7,1623,1,128205
+2026-01-01,India,Scaling,Starter,124,16166,22,145496
+2026-01-01,India,Scaling,Pro,68,7567,10,219455
+2026-01-01,India,Scaling,Team,19,2347,3,185449
+2026-01-01,Southeast Asia,Early,Starter,34,4042,7,36375
+2026-01-01,Southeast Asia,Early,Pro,18,1892,3,54865
+2026-01-01,Southeast Asia,Early,Team,6,587,1,46397
+2026-01-02,Japan,Mature,Starter,71,26091,13,234819
+2026-01-02,Japan,Mature,Pro,40,12211,6,354132
+2026-01-02,Japan,Mature,Team,12,3788,2,299260
+2026-01-02,Korea,Growing,Starter,45,11192,10,100724
+2026-01-02,Korea,Growing,Pro,24,5237,4,151885
+2026-01-02,Korea,Growing,Team,8,1626,1,128474
+2026-01-02,India,Scaling,Starter,118,16211,20,145900
+2026-01-02,India,Scaling,Pro,68,7597,8,220307
+2026-01-02,India,Scaling,Team,17,2354,3,185950
+2026-01-02,Southeast Asia,Early,Starter,33,4054,6,36485
+2026-01-02,Southeast Asia,Early,Pro,19,1898,4,55052
+2026-01-02,Southeast Asia,Early,Team,5,589,1,46535
+2026-01-03,Japan,Mature,Starter,56,26103,19,234925
+2026-01-03,Japan,Mature,Pro,24,12217,8,354283
+2026-01-03,Japan,Mature,Team,7,3790,2,299406
+2026-01-03,Korea,Growing,Starter,34,11201,9,100812
+2026-01-03,Korea,Growing,Pro,17,5243,4,152040
+2026-01-03,Korea,Growing,Team,5,1628,1,128612
+2026-01-03,India,Scaling,Starter,93,16243,19,146189
+2026-01-03,India,Scaling,Pro,41,7607,12,220613
+2026-01-03,India,Scaling,Team,15,2359,3,186365
+2026-01-03,Southeast Asia,Early,Starter,24,4061,6,36549
+2026-01-03,Southeast Asia,Early,Pro,11,1900,4,55112
+2026-01-03,Southeast Asia,Early,Team,4,590,1,46630
+2026-01-04,Japan,Mature,Starter,58,26116,19,235041
+2026-01-04,Japan,Mature,Pro,28,12226,6,354555
+2026-01-04,Japan,Mature,Team,7,3791,3,299473
+2026-01-04,Korea,Growing,Starter,37,11214,8,100923
+2026-01-04,Korea,Growing,Pro,19,5249,4,152227
+2026-01-04,Korea,Growing,Team,5,1630,1,128750
+2026-01-04,India,Scaling,Starter,83,16267,22,146402
+2026-01-04,India,Scaling,Pro,48,7624,10,221089
+2026-01-04,India,Scaling,Team,13,2363,3,186693
+2026-01-04,Southeast Asia,Early,Starter,29,4069,8,36621
+2026-01-04,Southeast Asia,Early,Pro,12,1904,3,55216
+2026-01-04,Southeast Asia,Early,Team,4,591,1,46725
+2026-01-05,Japan,Mature,Starter,69,26136,18,235220
+2026-01-05,Japan,Mature,Pro,35,12237,8,354882
+2026-01-05,Japan,Mature,Team,11,3795,2,299793
+2026-01-05,Korea,Growing,Starter,52,11234,8,101108
+2026-01-05,Korea,Growing,Pro,28,5261,4,152557
+2026-01-05,Korea,Growing,Team,8,1633,1,129019
+2026-01-05,India,Scaling,Starter,121,16306,27,146758
+2026-01-05,India,Scaling,Pro,62,7649,9,221817
+2026-01-05,India,Scaling,Team,18,2369,4,187159
+2026-01-05,Southeast Asia,Early,Starter,33,4079,8,36712
+2026-01-05,Southeast Asia,Early,Pro,17,1910,3,55400
+2026-01-05,Southeast Asia,Early,Team,6,594,1,46906
+2026-01-06,Japan,Mature,Starter,83,26163,18,235469
+2026-01-06,Japan,Mature,Pro,34,12250,6,355250
+2026-01-06,Japan,Mature,Team,10,3798,2,300070
+2026-01-06,Korea,Growing,Starter,48,11252,9,101265
+2026-01-06,Korea,Growing,Pro,25,5270,4,152840
+2026-01-06,Korea,Growing,Team,9,1636,2,129252
+2026-01-06,India,Scaling,Starter,119,16349,23,147140
+2026-01-06,India,Scaling,Pro,58,7669,12,222394
+2026-01-06,India,Scaling,Team,18,2375,4,187625
+2026-01-06,Southeast Asia,Early,Starter,38,4092,8,36828
+2026-01-06,Southeast Asia,Early,Pro,20,1918,3,55632
+2026-01-06,Southeast Asia,Early,Team,6,596,1,47088
+2026-01-07,Japan,Mature,Starter,81,26189,19,235699
+2026-01-07,Japan,Mature,Pro,35,12261,8,355576
+2026-01-07,Japan,Mature,Team,12,3803,2,300433
+2026-01-07,Korea,Growing,Starter,55,11274,8,101465
+2026-01-07,Korea,Growing,Pro,23,5279,4,153091
+2026-01-07,Korea,Growing,Team,7,1639,1,129477
+2026-01-07,India,Scaling,Starter,137,16399,25,147593
+2026-01-07,India,Scaling,Pro,64,7692,12,223067
+2026-01-07,India,Scaling,Team,21,2384,3,188300
+2026-01-07,Southeast Asia,Early,Starter,37,4105,7,36949
+2026-01-07,Southeast Asia,Early,Pro,17,1925,3,55816
+2026-01-07,Southeast Asia,Early,Team,5,598,1,47226
+2026-01-08,Japan,Mature,Starter,79,26215,17,235937
+2026-01-08,Japan,Mature,Pro,34,12271,9,355858
+2026-01-08,Japan,Mature,Team,11,3806,3,300674
+2026-01-08,Korea,Growing,Starter,61,11299,8,101695
+2026-01-08,Korea,Growing,Pro,24,5288,4,153358
+2026-01-08,Korea,Growing,Team,7,1642,1,129702
+2026-01-08,India,Scaling,Starter,149,16460,21,148142
+2026-01-08,India,Scaling,Pro,68,7719,10,223861
+2026-01-08,India,Scaling,Team,19,2391,3,188889
+2026-01-08,Southeast Asia,Early,Starter,36,4117,8,37055
+2026-01-08,Southeast Asia,Early,Pro,16,1930,3,55984
+2026-01-08,Southeast Asia,Early,Team,5,600,1,47364
+2026-01-09,Japan,Mature,Starter,83,26246,15,236213
+2026-01-09,Japan,Mature,Pro,39,12283,9,356219
+2026-01-09,Japan,Mature,Team,10,3810,2,300950
+2026-01-09,Korea,Growing,Starter,55,11321,9,101886
+2026-01-09,Korea,Growing,Pro,25,5297,5,153612
+2026-01-09,Korea,Growing,Team,9,1646,1,130014
+2026-01-09,India,Scaling,Starter,135,16508,26,148576
+2026-01-09,India,Scaling,Pro,65,7742,13,224521
+2026-01-09,India,Scaling,Team,19,2397,4,189399
+2026-01-09,Southeast Asia,Early,Starter,43,4135,6,37214
+2026-01-09,Southeast Asia,Early,Pro,19,1937,4,56172
+2026-01-09,Southeast Asia,Early,Team,5,601,1,47503
+2026-01-10,Japan,Mature,Starter,60,26263,16,236366
+2026-01-10,Japan,Mature,Pro,27,12291,7,356446
+2026-01-10,Japan,Mature,Team,7,3811,2,301097
+2026-01-10,Korea,Growing,Starter,38,11332,10,101984
+2026-01-10,Korea,Growing,Pro,18,5303,4,153783
+2026-01-10,Korea,Growing,Team,6,1648,1,130196
+2026-01-10,India,Scaling,Starter,87,16534,22,148809
+2026-01-10,India,Scaling,Pro,46,7755,12,224907
+2026-01-10,India,Scaling,Team,13,2401,4,189647
+2026-01-10,Southeast Asia,Early,Starter,25,4141,8,37265
+2026-01-10,Southeast Asia,Early,Pro,13,1940,4,56263
+2026-01-10,Southeast Asia,Early,Team,4,602,1,47598
+2026-01-11,Japan,Mature,Starter,55,26274,19,236467
+2026-01-11,Japan,Mature,Pro,24,12296,8,356597
+2026-01-11,Japan,Mature,Team,7,3813,2,301243
+2026-01-11,Korea,Growing,Starter,42,11346,9,102111
+2026-01-11,Korea,Growing,Pro,17,5307,5,153909
+2026-01-11,Korea,Growing,Team,6,1650,1,130378
+2026-01-11,India,Scaling,Starter,95,16562,25,149054
+2026-01-11,India,Scaling,Pro,49,7772,10,225398
+2026-01-11,India,Scaling,Team,13,2405,3,189975
+2026-01-11,Southeast Asia,Early,Starter,25,4147,7,37326
+2026-01-11,Southeast Asia,Early,Pro,14,1945,3,56399
+2026-01-11,Southeast Asia,Early,Team,3,603,1,47649
+2026-01-12,Japan,Mature,Starter,81,26306,13,236751
+2026-01-12,Japan,Mature,Pro,37,12310,7,356984
+2026-01-12,Japan,Mature,Team,10,3816,3,301440
+2026-01-12,Korea,Growing,Starter,47,11363,9,102263
+2026-01-12,Korea,Growing,Pro,24,5316,4,154176
+2026-01-12,Korea,Growing,Team,7,1653,1,130603
+2026-01-12,India,Scaling,Starter,150,16626,18,149634
+2026-01-12,India,Scaling,Pro,65,7799,9,226174
+2026-01-12,India,Scaling,Team,18,2411,4,190441
+2026-01-12,Southeast Asia,Early,Starter,38,4160,8,37442
+2026-01-12,Southeast Asia,Early,Pro,20,1952,4,56602
+2026-01-12,Southeast Asia,Early,Team,5,605,1,47787
+2026-01-13,Japan,Mature,Starter,69,26331,13,236976
+2026-01-13,Japan,Mature,Pro,36,12323,7,357355
+2026-01-13,Japan,Mature,Team,10,3818,3,301638
+2026-01-13,Korea,Growing,Starter,57,11386,8,102473
+2026-01-13,Korea,Growing,Pro,26,5327,4,154474
+2026-01-13,Korea,Growing,Team,8,1657,1,130871
+2026-01-13,India,Scaling,Starter,153,16689,21,150203
+2026-01-13,India,Scaling,Pro,61,7820,13,226770
+2026-01-13,India,Scaling,Team,18,2418,3,190986
+2026-01-13,Southeast Asia,Early,Starter,38,4174,7,37567
+2026-01-13,Southeast Asia,Early,Pro,17,1958,3,56786
+2026-01-13,Southeast Asia,Early,Team,6,607,1,47969
+2026-01-14,Japan,Mature,Starter,75,26355,17,237194
+2026-01-14,Japan,Mature,Pro,34,12334,7,357695
+2026-01-14,Japan,Mature,Team,10,3821,3,301835
+2026-01-14,Korea,Growing,Starter,60,11409,10,102680
+2026-01-14,Korea,Growing,Pro,23,5335,4,154725
+2026-01-14,Korea,Growing,Team,7,1659,1,131097
+2026-01-14,India,Scaling,Starter,121,16734,22,150604
+2026-01-14,India,Scaling,Pro,54,7837,12,227283
+2026-01-14,India,Scaling,Team,17,2424,3,191488
+2026-01-14,Southeast Asia,Early,Starter,39,4188,8,37688
+2026-01-14,Southeast Asia,Early,Pro,16,1964,3,56955
+2026-01-14,Southeast Asia,Early,Team,5,609,1,48107
+2026-01-15,Japan,Mature,Starter,83,26385,16,237461
+2026-01-15,Japan,Mature,Pro,34,12346,7,358034
+2026-01-15,Japan,Mature,Team,11,3825,2,302155
+2026-01-15,Korea,Growing,Starter,60,11432,10,102887
+2026-01-15,Korea,Growing,Pro,27,5345,5,155011
+2026-01-15,Korea,Growing,Team,7,1662,1,131322
+2026-01-15,India,Scaling,Starter,121,16777,23,150996
+2026-01-15,India,Scaling,Pro,65,7860,13,227943
+2026-01-15,India,Scaling,Team,18,2430,4,191954
+2026-01-15,Southeast Asia,Early,Starter,35,4200,7,37799
+2026-01-15,Southeast Asia,Early,Pro,17,1970,3,57139
+2026-01-15,Southeast Asia,Early,Team,6,611,1,48289
+2026-01-16,Japan,Mature,Starter,84,26412,19,237706
+2026-01-16,Japan,Mature,Pro,36,12358,8,358376
+2026-01-16,Japan,Mature,Team,10,3827,3,302353
+2026-01-16,Korea,Growing,Starter,49,11451,8,103058
+2026-01-16,Korea,Growing,Pro,27,5356,4,155325
+2026-01-16,Korea,Growing,Team,9,1666,1,131634
+2026-01-16,India,Scaling,Starter,136,16826,26,151435
+2026-01-16,India,Scaling,Pro,66,7885,11,228677
+2026-01-16,India,Scaling,Team,19,2436,4,192464
+2026-01-16,Southeast Asia,Early,Starter,42,4217,6,37953
+2026-01-16,Southeast Asia,Early,Pro,17,1977,3,57323
+2026-01-16,Southeast Asia,Early,Team,5,613,1,48427
+2026-01-17,Japan,Mature,Starter,53,26425,16,237824
+2026-01-17,Japan,Mature,Pro,27,12365,8,358575
+2026-01-17,Japan,Mature,Team,8,3829,3,302463
+2026-01-17,Korea,Growing,Starter,36,11461,10,103146
+2026-01-17,Korea,Growing,Pro,18,5362,4,155497
+2026-01-17,Korea,Growing,Team,6,1669,1,131815
+2026-01-17,India,Scaling,Starter,110,16867,20,151799
+2026-01-17,India,Scaling,Pro,51,7904,9,229229
+2026-01-17,India,Scaling,Team,12,2439,4,192669
+2026-01-17,Southeast Asia,Early,Starter,31,4228,6,38052
+2026-01-17,Southeast Asia,Early,Pro,11,1979,4,57382
+2026-01-17,Southeast Asia,Early,Team,4,614,1,48522
+2026-01-18,Japan,Mature,Starter,52,26435,19,237911
+2026-01-18,Japan,Mature,Pro,26,12371,8,358758
+2026-01-18,Japan,Mature,Team,9,3832,2,302696
+2026-01-18,Korea,Growing,Starter,38,11471,11,103235
+2026-01-18,Korea,Growing,Pro,18,5369,3,155697
+2026-01-18,Korea,Growing,Team,5,1670,1,131954
+2026-01-18,India,Scaling,Starter,109,16905,22,152141
+2026-01-18,India,Scaling,Pro,39,7915,11,229532
+2026-01-18,India,Scaling,Team,14,2444,3,193040
+2026-01-18,Southeast Asia,Early,Starter,27,4237,6,38132
+2026-01-18,Southeast Asia,Early,Pro,12,1982,3,57487
+2026-01-18,Southeast Asia,Early,Team,4,615,1,48617
+2026-01-19,Japan,Mature,Starter,69,26459,13,238135
+2026-01-19,Japan,Mature,Pro,34,12383,7,359097
+2026-01-19,Japan,Mature,Team,9,3834,3,302850
+2026-01-19,Korea,Growing,Starter,58,11494,8,103450
+2026-01-19,Korea,Growing,Pro,27,5379,5,155982
+2026-01-19,Korea,Growing,Team,8,1674,1,132222
+2026-01-19,India,Scaling,Starter,141,16961,21,152650
+2026-01-19,India,Scaling,Pro,68,7939,13,230240
+2026-01-19,India,Scaling,Team,19,2451,3,193629
+2026-01-19,Southeast Asia,Early,Starter,41,4251,8,38263
+2026-01-19,Southeast Asia,Early,Pro,17,1988,4,57642
+2026-01-19,Southeast Asia,Early,Team,6,618,1,48798
+2026-01-20,Japan,Mature,Starter,74,26482,18,238339
+2026-01-20,Japan,Mature,Pro,37,12395,8,359455
+2026-01-20,Japan,Mature,Team,11,3838,2,303170
+2026-01-20,Korea,Growing,Starter,50,11512,10,103608
+2026-01-20,Korea,Growing,Pro,24,5387,5,156220
+2026-01-20,Korea,Growing,Team,7,1677,1,132447
+2026-01-20,India,Scaling,Starter,135,17012,23,153111
+2026-01-20,India,Scaling,Pro,55,7959,11,230798
+2026-01-20,India,Scaling,Team,17,2457,3,194131
+2026-01-20,Southeast Asia,Early,Starter,38,4266,6,38397
+2026-01-20,Southeast Asia,Early,Pro,18,1994,4,57813
+2026-01-20,Southeast Asia,Early,Team,6,620,1,48980
+2026-01-21,Japan,Mature,Starter,70,26506,15,238551
+2026-01-21,Japan,Mature,Pro,34,12407,7,359794
+2026-01-21,Japan,Mature,Team,11,3842,2,303490
+2026-01-21,Korea,Growing,Starter,60,11535,10,103815
+2026-01-21,Korea,Growing,Pro,22,5394,5,156426
+2026-01-21,Korea,Growing,Team,9,1679,2,132680
+2026-01-21,India,Scaling,Starter,137,17061,27,153546
+2026-01-21,India,Scaling,Pro,65,7981,13,231458
+2026-01-21,India,Scaling,Team,21,2466,3,194806
+2026-01-21,Southeast Asia,Early,Starter,45,4283,8,38547
+2026-01-21,Southeast Asia,Early,Pro,18,1999,4,57984
+2026-01-21,Southeast Asia,Early,Team,6,622,1,49162
+2026-01-22,Japan,Mature,Starter,64,26528,13,238751
+2026-01-22,Japan,Mature,Pro,33,12417,8,360089
+2026-01-22,Japan,Mature,Team,9,3845,2,303723
+2026-01-22,Korea,Growing,Starter,52,11554,10,103982
+2026-01-22,Korea,Growing,Pro,22,5401,5,156632
+2026-01-22,Korea,Growing,Team,9,1683,1,132993
+2026-01-22,India,Scaling,Starter,154,17120,25,154084
+2026-01-22,India,Scaling,Pro,57,8001,12,232019
+2026-01-22,India,Scaling,Team,20,2474,3,195438
+2026-01-22,Southeast Asia,Early,Starter,43,4301,6,38706
+2026-01-22,Southeast Asia,Early,Pro,17,2005,4,58139
+2026-01-22,Southeast Asia,Early,Team,6,625,1,49343
+2026-01-23,Japan,Mature,Starter,83,26560,14,239036
+2026-01-23,Japan,Mature,Pro,38,12429,9,360434
+2026-01-23,Japan,Mature,Team,11,3849,2,304043
+2026-01-23,Korea,Growing,Starter,60,11579,8,104207
+2026-01-23,Korea,Growing,Pro,26,5411,4,156931
+2026-01-23,Korea,Growing,Team,9,1686,2,133226
+2026-01-23,India,Scaling,Starter,140,17175,22,154579
+2026-01-23,India,Scaling,Pro,68,8027,11,232784
+2026-01-23,India,Scaling,Team,17,2479,4,195861
+2026-01-23,Southeast Asia,Early,Starter,41,4316,7,38846
+2026-01-23,Southeast Asia,Early,Pro,16,2011,3,58307
+2026-01-23,Southeast Asia,Early,Team,6,627,1,49525
+2026-01-24,Japan,Mature,Starter,62,26578,16,239198
+2026-01-24,Japan,Mature,Pro,22,12434,7,360582
+2026-01-24,Japan,Mature,Team,8,3851,2,304233
+2026-01-24,Korea,Growing,Starter,43,11594,8,104348
+2026-01-24,Korea,Growing,Pro,20,5418,4,157134
+2026-01-24,Korea,Growing,Team,6,1688,2,133328
+2026-01-24,India,Scaling,Starter,99,17207,23,154862
+2026-01-24,India,Scaling,Pro,47,8042,11,233215
+2026-01-24,India,Scaling,Team,12,2482,4,196066
+2026-01-24,Southeast Asia,Early,Starter,27,4324,7,38917
+2026-01-24,Southeast Asia,Early,Pro,15,2016,3,58460
+2026-01-24,Southeast Asia,Early,Team,4,628,1,49620
+2026-01-25,Japan,Mature,Starter,56,26590,18,239314
+2026-01-25,Japan,Mature,Pro,22,12440,6,360759
+2026-01-25,Japan,Mature,Team,8,3853,2,304423
+2026-01-25,Korea,Growing,Starter,34,11605,8,104444
+2026-01-25,Korea,Growing,Pro,18,5423,5,157276
+2026-01-25,Korea,Growing,Team,6,1690,1,133510
+2026-01-25,India,Scaling,Starter,94,17233,26,155093
+2026-01-25,India,Scaling,Pro,53,8058,13,233683
+2026-01-25,India,Scaling,Team,13,2486,3,196394
+2026-01-25,Southeast Asia,Early,Starter,29,4333,7,38997
+2026-01-25,Southeast Asia,Early,Pro,12,2019,3,58564
+2026-01-25,Southeast Asia,Early,Team,5,630,1,49758
+2026-01-26,Japan,Mature,Starter,66,26610,17,239487
+2026-01-26,Japan,Mature,Pro,31,12451,6,361079
+2026-01-26,Japan,Mature,Team,12,3858,2,304786
+2026-01-26,Korea,Growing,Starter,48,11622,9,104601
+2026-01-26,Korea,Growing,Pro,25,5432,5,157529
+2026-01-26,Korea,Growing,Team,9,1694,1,133822
+2026-01-26,India,Scaling,Starter,149,17292,23,155624
+2026-01-26,India,Scaling,Pro,60,8082,9,234379
+2026-01-26,India,Scaling,Team,21,2495,3,197069
+2026-01-26,Southeast Asia,Early,Starter,46,4352,6,39171
+2026-01-26,Southeast Asia,Early,Pro,18,2026,3,58764
+2026-01-26,Southeast Asia,Early,Team,5,632,1,49896
+2026-01-27,Japan,Mature,Starter,76,26639,13,239747
+2026-01-27,Japan,Mature,Pro,31,12460,8,361341
+2026-01-27,Japan,Mature,Team,11,3862,2,305106
+2026-01-27,Korea,Growing,Starter,53,11643,8,104791
+2026-01-27,Korea,Growing,Pro,24,5441,4,157796
+2026-01-27,Korea,Growing,Team,9,1698,1,134134
+2026-01-27,India,Scaling,Starter,147,17347,25,156126
+2026-01-27,India,Scaling,Pro,63,8104,13,235007
+2026-01-27,India,Scaling,Team,17,2501,3,197571
+2026-01-27,Southeast Asia,Early,Starter,38,4367,6,39305
+2026-01-27,Southeast Asia,Early,Pro,17,2033,3,58948
+2026-01-27,Southeast Asia,Early,Team,5,633,1,50035
+2026-01-28,Japan,Mature,Starter,74,26664,15,239978
+2026-01-28,Japan,Mature,Pro,38,12474,7,361745
+2026-01-28,Japan,Mature,Team,9,3864,3,305260
+2026-01-28,Korea,Growing,Starter,51,11660,11,104944
+2026-01-28,Korea,Growing,Pro,22,5448,5,158002
+2026-01-28,Korea,Growing,Team,8,1701,1,134403
+2026-01-28,India,Scaling,Starter,140,17397,27,156576
+2026-01-28,India,Scaling,Pro,60,8125,12,235616
+2026-01-28,India,Scaling,Team,19,2507,4,198081
+2026-01-28,Southeast Asia,Early,Starter,42,4383,7,39450
+2026-01-28,Southeast Asia,Early,Pro,17,2038,4,59103
+2026-01-28,Southeast Asia,Early,Team,5,635,1,50173
+2026-01-29,Japan,Mature,Starter,68,26683,19,240143
+2026-01-29,Japan,Mature,Pro,39,12488,7,362164
+2026-01-29,Japan,Mature,Team,12,3869,2,305623
+2026-01-29,Korea,Growing,Starter,57,11684,8,105155
+2026-01-29,Korea,Growing,Pro,25,5458,4,158285
+2026-01-29,Korea,Growing,Team,8,1705,1,134671
+2026-01-29,India,Scaling,Starter,123,17444,21,156996
+2026-01-29,India,Scaling,Pro,58,8148,9,236280
+2026-01-29,India,Scaling,Team,18,2513,4,198547
+2026-01-29,Southeast Asia,Early,Starter,42,4397,9,39577
+2026-01-29,Southeast Asia,Early,Pro,17,2044,3,59288
+2026-01-29,Southeast Asia,Early,Team,5,637,1,50311
+2026-01-30,Japan,Mature,Starter,67,26704,15,240340
+2026-01-30,Japan,Mature,Pro,33,12500,7,362487
+2026-01-30,Japan,Mature,Team,12,3873,2,305987
+2026-01-30,Korea,Growing,Starter,56,11706,9,105351
+2026-01-30,Korea,Growing,Pro,28,5469,4,158615
+2026-01-30,Korea,Growing,Team,8,1708,1,134940
+2026-01-30,India,Scaling,Starter,147,17500,25,157499
+2026-01-30,India,Scaling,Pro,72,8176,11,237110
+2026-01-30,India,Scaling,Team,18,2520,3,199092
+2026-01-30,Southeast Asia,Early,Starter,35,4410,7,39687
+2026-01-30,Southeast Asia,Early,Pro,17,2051,3,59472
+2026-01-30,Southeast Asia,Early,Team,7,640,1,50536
+2026-01-31,Japan,Mature,Starter,59,26718,19,240461
+2026-01-31,Japan,Mature,Pro,25,12504,9,362625
+2026-01-31,Japan,Mature,Team,8,3875,3,306097
+2026-01-31,Korea,Growing,Starter,41,11717,11,105455
+2026-01-31,Korea,Growing,Pro,20,5475,5,158789
+2026-01-31,Korea,Growing,Team,6,1710,1,135122
+2026-01-31,India,Scaling,Starter,114,17537,26,157829
+2026-01-31,India,Scaling,Pro,48,8193,10,237585
+2026-01-31,India,Scaling,Team,14,2524,4,199384
+2026-01-31,Southeast Asia,Early,Starter,25,4415,8,39739
+2026-01-31,Southeast Asia,Early,Pro,14,2055,3,59608
+2026-01-31,Southeast Asia,Early,Team,4,641,1,50631
+2026-02-01,Japan,Mature,Starter,51,26730,16,240570
+2026-02-01,Japan,Mature,Pro,25,12511,7,362820
+2026-02-01,Japan,Mature,Team,8,3876,3,306208
+2026-02-01,Korea,Growing,Starter,35,11728,8,105556
+2026-02-01,Korea,Growing,Pro,18,5480,5,158932
+2026-02-01,Korea,Growing,Team,6,1713,1,135303
+2026-02-01,India,Scaling,Starter,105,17566,28,158097
+2026-02-01,India,Scaling,Pro,41,8204,11,237920
+2026-02-01,India,Scaling,Team,16,2530,3,199842
+2026-02-01,Southeast Asia,Early,Starter,27,4421,9,39792
+2026-02-01,Southeast Asia,Early,Pro,13,2059,4,59699
+2026-02-01,Southeast Asia,Early,Team,4,642,1,50726
+2026-02-02,Japan,Mature,Starter,73,26753,17,240778
+2026-02-02,Japan,Mature,Pro,31,12520,8,363083
+2026-02-02,Japan,Mature,Team,12,3881,2,306571
+2026-02-02,Korea,Growing,Starter,49,11746,9,105718
+2026-02-02,Korea,Growing,Pro,28,5492,4,159262
+2026-02-02,Korea,Growing,Team,7,1716,1,135528
+2026-02-02,India,Scaling,Starter,156,17630,22,158671
+2026-02-02,India,Scaling,Pro,59,8226,11,238542
+2026-02-02,India,Scaling,Team,21,2537,4,200439
+2026-02-02,Southeast Asia,Early,Starter,42,4437,7,39937
+2026-02-02,Southeast Asia,Early,Pro,16,2064,3,59868
+2026-02-02,Southeast Asia,Early,Team,6,644,1,50908
+2026-02-03,Japan,Mature,Starter,65,26773,16,240956
+2026-02-03,Japan,Mature,Pro,30,12531,6,363387
+2026-02-03,Japan,Mature,Team,12,3885,2,306935
+2026-02-03,Korea,Growing,Starter,58,11768,10,105915
+2026-02-03,Korea,Growing,Pro,22,5500,4,159497
+2026-02-03,Korea,Growing,Team,7,1718,1,135754
+2026-02-03,India,Scaling,Starter,118,17671,24,159039
+2026-02-03,India,Scaling,Pro,57,8247,10,239162
+2026-02-03,India,Scaling,Team,23,2546,4,201122
+2026-02-03,Southeast Asia,Early,Starter,47,4454,9,40088
+2026-02-03,Southeast Asia,Early,Pro,22,2072,4,60102
+2026-02-03,Southeast Asia,Early,Team,6,647,1,51089
+2026-02-04,Japan,Mature,Starter,68,26797,13,241175
+2026-02-04,Japan,Mature,Pro,33,12541,8,363682
+2026-02-04,Japan,Mature,Team,10,3889,2,307211
+2026-02-04,Korea,Growing,Starter,54,11788,10,106092
+2026-02-04,Korea,Growing,Pro,26,5509,5,159767
+2026-02-04,Korea,Growing,Team,8,1722,1,136022
+2026-02-04,India,Scaling,Starter,151,17725,29,159525
+2026-02-04,India,Scaling,Pro,71,8277,9,240033
+2026-02-04,India,Scaling,Team,20,2554,3,201754
+2026-02-04,Southeast Asia,Early,Starter,46,4472,8,40244
+2026-02-04,Southeast Asia,Early,Pro,17,2078,4,60258
+2026-02-04,Southeast Asia,Early,Team,6,649,1,51271
+2026-02-05,Japan,Mature,Starter,83,26828,15,241451
+2026-02-05,Japan,Mature,Pro,40,12555,8,364088
+2026-02-05,Japan,Mature,Team,12,3892,3,307496
+2026-02-05,Korea,Growing,Starter,57,11810,9,106293
+2026-02-05,Korea,Growing,Pro,24,5518,4,160034
+2026-02-05,Korea,Growing,Team,9,1726,1,136334
+2026-02-05,India,Scaling,Starter,145,17778,27,160000
+2026-02-05,India,Scaling,Pro,59,8296,13,240597
+2026-02-05,India,Scaling,Team,22,2563,3,202473
+2026-02-05,Southeast Asia,Early,Starter,40,4487,7,40379
+2026-02-05,Southeast Asia,Early,Pro,22,2087,3,60522
+2026-02-05,Southeast Asia,Early,Team,7,652,1,51496
+2026-02-06,Japan,Mature,Starter,69,26848,18,241631
+2026-02-06,Japan,Mature,Pro,30,12564,7,364363
+2026-02-06,Japan,Mature,Team,11,3895,3,307737
+2026-02-06,Korea,Growing,Starter,48,11829,8,106459
+2026-02-06,Korea,Growing,Pro,29,5530,4,160380
+2026-02-06,Korea,Growing,Team,9,1729,2,136567
+2026-02-06,India,Scaling,Starter,125,17826,21,160430
+2026-02-06,India,Scaling,Pro,60,8316,13,241177
+2026-02-06,India,Scaling,Team,19,2569,4,202983
+2026-02-06,Southeast Asia,Early,Starter,36,4498,8,40485
+2026-02-06,Southeast Asia,Early,Pro,17,2092,4,60677
+2026-02-06,Southeast Asia,Early,Team,5,654,1,51634
+2026-02-07,Japan,Mature,Starter,53,26862,15,241758
+2026-02-07,Japan,Mature,Pro,29,12573,7,364623
+2026-02-07,Japan,Mature,Team,7,3897,2,307883
+2026-02-07,Korea,Growing,Starter,43,11843,9,106591
+2026-02-07,Korea,Growing,Pro,18,5536,4,160551
+2026-02-07,Korea,Growing,Team,6,1731,1,136749
+2026-02-07,India,Scaling,Starter,98,17853,26,160681
+2026-02-07,India,Scaling,Pro,51,8334,10,241700
+2026-02-07,India,Scaling,Team,16,2575,3,203441
+2026-02-07,Southeast Asia,Early,Starter,32,4508,8,40572
+2026-02-07,Southeast Asia,Early,Pro,13,2095,4,60768
+2026-02-07,Southeast Asia,Early,Team,4,655,1,51729
+2026-02-08,Japan,Mature,Starter,61,26882,14,241934
+2026-02-08,Japan,Mature,Pro,28,12582,7,364866
+2026-02-08,Japan,Mature,Team,7,3899,2,308029
+2026-02-08,Korea,Growing,Starter,43,11859,8,106731
+2026-02-08,Korea,Growing,Pro,17,5541,5,160677
+2026-02-08,Korea,Growing,Team,5,1733,1,136887
+2026-02-08,India,Scaling,Starter,91,17884,20,160952
+2026-02-08,India,Scaling,Pro,40,8345,11,242019
+2026-02-08,India,Scaling,Team,13,2578,4,203690
+2026-02-08,Southeast Asia,Early,Starter,33,4519,7,40672
+2026-02-08,Southeast Asia,Early,Pro,13,2099,4,60859
+2026-02-08,Southeast Asia,Early,Team,4,656,1,51824
+2026-02-09,Japan,Mature,Starter,74,26907,15,242165
+2026-02-09,Japan,Mature,Pro,38,12596,7,365270
+2026-02-09,Japan,Mature,Team,10,3903,2,308305
+2026-02-09,Korea,Growing,Starter,49,11875,11,106875
+2026-02-09,Korea,Growing,Pro,24,5549,5,160915
+2026-02-09,Korea,Growing,Team,9,1737,1,137199
+2026-02-09,India,Scaling,Starter,128,17934,20,161405
+2026-02-09,India,Scaling,Pro,62,8369,11,242689
+2026-02-09,India,Scaling,Team,18,2585,3,204235
+2026-02-09,Southeast Asia,Early,Starter,41,4534,8,40803
+2026-02-09,Southeast Asia,Early,Pro,21,2107,3,61107
+2026-02-09,Southeast Asia,Early,Team,5,658,1,51962
+2026-02-10,Japan,Mature,Starter,69,26932,13,242390
+2026-02-10,Japan,Mature,Pro,36,12608,7,365641
+2026-02-10,Japan,Mature,Team,9,3906,2,308538
+2026-02-10,Korea,Growing,Starter,55,11895,10,107057
+2026-02-10,Korea,Growing,Pro,27,5559,5,161201
+2026-02-10,Korea,Growing,Team,9,1741,1,137511
+2026-02-10,India,Scaling,Starter,139,17982,28,161841
+2026-02-10,India,Scaling,Pro,74,8397,12,243522
+2026-02-10,India,Scaling,Team,21,2593,4,204831
+2026-02-10,Southeast Asia,Early,Starter,38,4546,9,40910
+2026-02-10,Southeast Asia,Early,Pro,18,2114,3,61307
+2026-02-10,Southeast Asia,Early,Team,7,661,1,52187
+2026-02-11,Japan,Mature,Starter,68,26951,19,242555
+2026-02-11,Japan,Mature,Pro,34,12620,7,365980
+2026-02-11,Japan,Mature,Team,9,3908,2,308771
+2026-02-11,Korea,Growing,Starter,48,11914,8,107223
+2026-02-11,Korea,Growing,Pro,23,5567,4,161452
+2026-02-11,Korea,Growing,Team,9,1745,1,137823
+2026-02-11,India,Scaling,Starter,131,18027,27,162247
+2026-02-11,India,Scaling,Pro,74,8428,10,244412
+2026-02-11,India,Scaling,Team,18,2600,3,205376
+2026-02-11,Southeast Asia,Early,Starter,46,4563,8,41066
+2026-02-11,Southeast Asia,Early,Pro,22,2123,3,61571
+2026-02-11,Southeast Asia,Early,Team,7,663,1,52413
+2026-02-12,Japan,Mature,Starter,86,26980,18,242819
+2026-02-12,Japan,Mature,Pro,37,12632,8,366338
+2026-02-12,Japan,Mature,Team,12,3913,2,309135
+2026-02-12,Korea,Growing,Starter,59,11937,9,107434
+2026-02-12,Korea,Growing,Pro,27,5578,4,161766
+2026-02-12,Korea,Growing,Team,9,1748,2,138056
+2026-02-12,India,Scaling,Starter,126,18068,29,162609
+2026-02-12,India,Scaling,Pro,73,8457,11,245257
+2026-02-12,India,Scaling,Team,22,2608,4,206016
+2026-02-12,Southeast Asia,Early,Starter,36,4577,6,41190
+2026-02-12,Southeast Asia,Early,Pro,19,2130,4,61758
+2026-02-12,Southeast Asia,Early,Team,7,666,1,52638
+2026-02-13,Japan,Mature,Starter,86,27014,13,243128
+2026-02-13,Japan,Mature,Pro,31,12643,6,366659
+2026-02-13,Japan,Mature,Team,9,3916,2,309368
+2026-02-13,Korea,Growing,Starter,54,11959,8,107629
+2026-02-13,Korea,Growing,Pro,22,5585,5,161972
+2026-02-13,Korea,Growing,Team,8,1751,1,138325
+2026-02-13,India,Scaling,Starter,135,18116,26,163044
+2026-02-13,India,Scaling,Pro,63,8480,12,245914
+2026-02-13,India,Scaling,Team,20,2615,4,206569
+2026-02-13,Southeast Asia,Early,Starter,43,4593,7,41340
+2026-02-13,Southeast Asia,Early,Pro,22,2138,4,61993
+2026-02-13,Southeast Asia,Early,Team,6,669,1,52819
+2026-02-14,Japan,Mature,Starter,57,27033,13,243293
+2026-02-14,Japan,Mature,Pro,23,12649,7,366822
+2026-02-14,Japan,Mature,Team,8,3918,2,309558
+2026-02-14,Korea,Growing,Starter,42,11972,10,107747
+2026-02-14,Korea,Growing,Pro,21,5593,4,162191
+2026-02-14,Korea,Growing,Team,6,1753,1,138507
+2026-02-14,India,Scaling,Starter,103,18144,29,163292
+2026-02-14,India,Scaling,Pro,45,8493,12,246284
+2026-02-14,India,Scaling,Team,15,2620,3,206984
+2026-02-14,Southeast Asia,Early,Starter,30,4603,7,41425
+2026-02-14,Southeast Asia,Early,Pro,12,2140,4,62069
+2026-02-14,Southeast Asia,Early,Team,5,670,1,52958
+2026-02-15,Japan,Mature,Starter,62,27052,15,243465
+2026-02-15,Japan,Mature,Pro,23,12653,9,366928
+2026-02-15,Japan,Mature,Team,9,3921,2,309791
+2026-02-15,Korea,Growing,Starter,42,11984,11,107856
+2026-02-15,Korea,Growing,Pro,17,5598,4,162346
+2026-02-15,Korea,Growing,Team,6,1755,2,138609
+2026-02-15,India,Scaling,Starter,99,18177,21,163593
+2026-02-15,India,Scaling,Pro,48,8509,10,246760
+2026-02-15,India,Scaling,Team,15,2625,3,207399
+2026-02-15,Southeast Asia,Early,Starter,28,4611,7,41501
+2026-02-15,Southeast Asia,Early,Pro,16,2146,3,62237
+2026-02-15,Southeast Asia,Early,Team,5,672,1,53096
+2026-02-16,Japan,Mature,Starter,83,27083,14,243750
+2026-02-16,Japan,Mature,Pro,33,12663,8,367223
+2026-02-16,Japan,Mature,Team,12,3925,3,310075
+2026-02-16,Korea,Growing,Starter,61,12008,10,108068
+2026-02-16,Korea,Growing,Pro,22,5605,5,162552
+2026-02-16,Korea,Growing,Team,7,1757,1,138835
+2026-02-16,India,Scaling,Starter,149,18238,21,164142
+2026-02-16,India,Scaling,Pro,60,8530,12,247369
+2026-02-16,India,Scaling,Team,20,2633,3,208031
+2026-02-16,Southeast Asia,Early,Starter,42,4626,8,41637
+2026-02-16,Southeast Asia,Early,Pro,18,2153,3,62437
+2026-02-16,Southeast Asia,Early,Team,6,674,1,53278
+2026-02-17,Japan,Mature,Starter,74,27108,16,243972
+2026-02-17,Japan,Mature,Pro,35,12673,9,367520
+2026-02-17,Japan,Mature,Team,10,3928,2,310351
+2026-02-17,Korea,Growing,Starter,49,12025,10,108221
+2026-02-17,Korea,Growing,Pro,29,5616,5,162870
+2026-02-17,Korea,Growing,Team,8,1761,1,139103
+2026-02-17,India,Scaling,Starter,140,18293,22,164637
+2026-02-17,India,Scaling,Pro,69,8555,13,248092
+2026-02-17,India,Scaling,Team,19,2640,4,208540
+2026-02-17,Southeast Asia,Early,Starter,46,4644,8,41792
+2026-02-17,Southeast Asia,Early,Pro,18,2160,3,62637
+2026-02-17,Southeast Asia,Early,Team,6,677,1,53459
+2026-02-18,Japan,Mature,Starter,81,27137,16,244229
+2026-02-18,Japan,Mature,Pro,38,12685,9,367865
+2026-02-18,Japan,Mature,Team,12,3933,2,310715
+2026-02-18,Korea,Growing,Starter,48,12039,12,108350
+2026-02-18,Korea,Growing,Pro,27,5626,5,163155
+2026-02-18,Korea,Growing,Team,9,1764,2,139336
+2026-02-18,India,Scaling,Starter,122,18333,27,164998
+2026-02-18,India,Scaling,Pro,71,8583,11,248906
+2026-02-18,India,Scaling,Team,23,2648,4,209224
+2026-02-18,Southeast Asia,Early,Starter,45,4660,8,41943
+2026-02-18,Southeast Asia,Early,Pro,23,2169,4,62888
+2026-02-18,Southeast Asia,Early,Team,6,679,1,53641
+2026-02-19,Japan,Mature,Starter,79,27165,15,244485
+2026-02-19,Japan,Mature,Pro,31,12693,9,368098
+2026-02-19,Japan,Mature,Team,10,3936,3,310912
+2026-02-19,Korea,Growing,Starter,49,12057,9,108512
+2026-02-19,Korea,Growing,Pro,26,5636,4,163454
+2026-02-19,Korea,Growing,Team,8,1766,2,139526
+2026-02-19,India,Scaling,Starter,132,18379,27,165408
+2026-02-19,India,Scaling,Pro,59,8603,12,249499
+2026-02-19,India,Scaling,Team,21,2656,4,209820
+2026-02-19,Southeast Asia,Early,Starter,46,4679,7,42108
+2026-02-19,Southeast Asia,Early,Pro,21,2176,4,63107
+2026-02-19,Southeast Asia,Early,Team,6,681,1,53823
+2026-02-20,Japan,Mature,Starter,70,27187,17,244679
+2026-02-20,Japan,Mature,Pro,33,12703,8,368393
+2026-02-20,Japan,Mature,Team,12,3940,2,311276
+2026-02-20,Korea,Growing,Starter,57,12080,8,108722
+2026-02-20,Korea,Growing,Pro,25,5646,4,163737
+2026-02-20,Korea,Growing,Team,8,1769,2,139715
+2026-02-20,India,Scaling,Starter,123,18420,26,165783
+2026-02-20,India,Scaling,Pro,63,8628,10,250213
+2026-02-20,India,Scaling,Team,18,2662,4,210286
+2026-02-20,Southeast Asia,Early,Starter,40,4692,9,42225
+2026-02-20,Southeast Asia,Early,Pro,19,2183,4,63294
+2026-02-20,Southeast Asia,Early,Team,7,684,1,54048
+2026-02-21,Japan,Mature,Starter,58,27204,14,244840
+2026-02-21,Japan,Mature,Pro,28,12712,7,368636
+2026-02-21,Japan,Mature,Team,8,3943,2,311465
+2026-02-21,Korea,Growing,Starter,39,12092,10,108825
+2026-02-21,Korea,Growing,Pro,19,5653,4,163924
+2026-02-21,Korea,Growing,Team,6,1770,2,139818
+2026-02-21,India,Scaling,Starter,111,18459,22,166135
+2026-02-21,India,Scaling,Pro,45,8643,10,250641
+2026-02-21,India,Scaling,Team,14,2667,3,210657
+2026-02-21,Southeast Asia,Early,Starter,27,4700,7,42296
+2026-02-21,Southeast Asia,Early,Pro,14,2186,4,63401
+2026-02-21,Southeast Asia,Early,Team,5,686,1,54186
+2026-02-22,Japan,Mature,Starter,56,27221,14,244991
+2026-02-22,Japan,Mature,Pro,25,12717,8,368803
+2026-02-22,Japan,Mature,Team,7,3943,3,311533
+2026-02-22,Korea,Growing,Starter,43,12105,10,108948
+2026-02-22,Korea,Growing,Pro,21,5659,5,164114
+2026-02-22,Korea,Growing,Team,6,1772,1,140000
+2026-02-22,India,Scaling,Starter,100,18492,22,166432
+2026-02-22,India,Scaling,Pro,53,8661,11,251168
+2026-02-22,India,Scaling,Team,16,2671,4,211037
+2026-02-22,Southeast Asia,Early,Starter,32,4710,7,42391
+2026-02-22,Southeast Asia,Early,Pro,13,2190,3,63522
+2026-02-22,Southeast Asia,Early,Team,5,688,1,54324
+2026-02-23,Japan,Mature,Starter,68,27240,19,245156
+2026-02-23,Japan,Mature,Pro,32,12727,8,369082
+2026-02-23,Japan,Mature,Team,10,3946,3,311730
+2026-02-23,Korea,Growing,Starter,54,12125,10,109125
+2026-02-23,Korea,Growing,Pro,27,5669,5,164400
+2026-02-23,Korea,Growing,Team,9,1775,2,140233
+2026-02-23,India,Scaling,Starter,130,18540,24,166859
+2026-02-23,India,Scaling,Pro,63,8686,10,251882
+2026-02-23,India,Scaling,Team,21,2679,4,211633
+2026-02-23,Southeast Asia,Early,Starter,49,4728,9,42552
+2026-02-23,Southeast Asia,Early,Pro,21,2199,3,63770
+2026-02-23,Southeast Asia,Early,Team,6,690,1,54506
+2026-02-24,Japan,Mature,Starter,71,27265,14,245382
+2026-02-24,Japan,Mature,Pro,39,12742,6,369530
+2026-02-24,Japan,Mature,Team,12,3951,2,312093
+2026-02-24,Korea,Growing,Starter,59,12147,10,109327
+2026-02-24,Korea,Growing,Pro,28,5679,5,164701
+2026-02-24,Korea,Growing,Team,8,1778,2,140423
+2026-02-24,India,Scaling,Starter,126,18582,27,167240
+2026-02-24,India,Scaling,Pro,72,8711,14,252625
+2026-02-24,India,Scaling,Team,21,2686,4,212230
+2026-02-24,Southeast Asia,Early,Starter,50,4747,9,42719
+2026-02-24,Southeast Asia,Early,Pro,20,2206,4,63973
+2026-02-24,Southeast Asia,Early,Team,6,692,1,54688
+2026-02-25,Japan,Mature,Starter,85,27292,19,245632
+2026-02-25,Japan,Mature,Pro,38,12756,7,369933
+2026-02-25,Japan,Mature,Team,11,3954,3,312334
+2026-02-25,Korea,Growing,Starter,60,12172,8,109552
+2026-02-25,Korea,Growing,Pro,25,5688,5,164955
+2026-02-25,Korea,Growing,Team,9,1781,1,140735
+2026-02-25,India,Scaling,Starter,163,18649,23,167840
+2026-02-25,India,Scaling,Pro,68,8738,11,253390
+2026-02-25,India,Scaling,Team,22,2695,4,212869
+2026-02-25,Southeast Asia,Early,Starter,47,4762,10,42862
+2026-02-25,Southeast Asia,Early,Pro,19,2212,4,64160
+2026-02-25,Southeast Asia,Early,Team,5,694,1,54826
+2026-02-26,Japan,Mature,Starter,81,27319,18,245871
+2026-02-26,Japan,Mature,Pro,31,12767,6,370253
+2026-02-26,Japan,Mature,Team,12,3958,2,312698
+2026-02-26,Korea,Growing,Starter,50,12188,12,109692
+2026-02-26,Korea,Growing,Pro,29,5699,5,165272
+2026-02-26,Korea,Growing,Team,8,1785,1,141003
+2026-02-26,India,Scaling,Starter,147,18701,29,168306
+2026-02-26,India,Scaling,Pro,61,8760,11,254044
+2026-02-26,India,Scaling,Team,18,2701,3,213415
+2026-02-26,Southeast Asia,Early,Starter,47,4779,9,43013
+2026-02-26,Southeast Asia,Early,Pro,24,2222,4,64426
+2026-02-26,Southeast Asia,Early,Team,5,696,1,54964
+2026-02-27,Japan,Mature,Starter,75,27346,14,246116
+2026-02-27,Japan,Mature,Pro,34,12777,9,370534
+2026-02-27,Japan,Mature,Team,12,3963,2,313061
+2026-02-27,Korea,Growing,Starter,54,12207,11,109860
+2026-02-27,Korea,Growing,Pro,29,5710,5,165590
+2026-02-27,Korea,Growing,Team,7,1788,1,141228
+2026-02-27,India,Scaling,Starter,148,18755,27,168796
+2026-02-27,India,Scaling,Pro,68,8788,10,254839
+2026-02-27,India,Scaling,Team,19,2708,4,213924
+2026-02-27,Southeast Asia,Early,Starter,50,4798,9,43180
+2026-02-27,Southeast Asia,Early,Pro,18,2228,3,64626
+2026-02-27,Southeast Asia,Early,Team,7,699,1,55189
+2026-02-28,Japan,Mature,Starter,58,27364,14,246277
+2026-02-28,Japan,Mature,Pro,26,12783,8,370717
+2026-02-28,Japan,Mature,Team,8,3965,2,313251
+2026-02-28,Korea,Growing,Starter,43,12220,10,109983
+2026-02-28,Korea,Growing,Pro,20,5717,4,165793
+2026-02-28,Korea,Growing,Team,5,1789,1,141367
+2026-02-28,India,Scaling,Starter,104,18781,31,169032
+2026-02-28,India,Scaling,Pro,52,8805,11,255349
+2026-02-28,India,Scaling,Team,16,2713,4,214303
+2026-02-28,Southeast Asia,Early,Starter,34,4808,8,43276
+2026-02-28,Southeast Asia,Early,Pro,17,2234,4,64782
+2026-02-28,Southeast Asia,Early,Team,4,700,1,55284
+2026-03-01,Japan,Mature,Starter,48,27372,19,246344
+2026-03-01,Japan,Mature,Pro,28,12792,7,370961
+2026-03-01,Japan,Mature,Team,8,3968,2,313440
+2026-03-01,Korea,Growing,Starter,37,12233,8,110094
+2026-03-01,Korea,Growing,Pro,16,5722,4,165932
+2026-03-01,Korea,Growing,Team,7,1792,1,141592
+2026-03-01,India,Scaling,Starter,113,18815,28,169339
+2026-03-01,India,Scaling,Pro,45,8819,11,255748
+2026-03-01,India,Scaling,Team,15,2718,3,214718
+2026-03-01,Southeast Asia,Early,Starter,31,4819,7,43367
+2026-03-01,Southeast Asia,Early,Pro,14,2238,4,64889
+2026-03-01,Southeast Asia,Early,Team,4,701,1,55379
+2026-03-02,Japan,Mature,Starter,80,27396,20,246560
+2026-03-02,Japan,Mature,Pro,31,12802,7,371252
+2026-03-02,Japan,Mature,Team,10,3971,2,313717
+2026-03-02,Korea,Growing,Starter,48,12250,9,110250
+2026-03-02,Korea,Growing,Pro,28,5733,4,166263
+2026-03-02,Korea,Growing,Team,9,1795,2,141825
+2026-03-02,India,Scaling,Starter,162,18881,24,169925
+2026-03-02,India,Scaling,Pro,73,8845,14,256506
+2026-03-02,India,Scaling,Team,23,2728,3,215480
+2026-03-02,Southeast Asia,Early,Starter,45,4836,7,43526
+2026-03-02,Southeast Asia,Early,Pro,21,2245,4,65108
+2026-03-02,Southeast Asia,Early,Team,6,703,1,55561
+2026-03-03,Japan,Mature,Starter,77,27424,14,246815
+2026-03-03,Japan,Mature,Pro,30,12811,7,371528
+2026-03-03,Japan,Mature,Team,10,3975,2,313993
+2026-03-03,Korea,Growing,Starter,62,12276,8,110485
+2026-03-03,Korea,Growing,Pro,29,5744,5,166580
+2026-03-03,Korea,Growing,Team,7,1798,1,142050
+2026-03-03,India,Scaling,Starter,132,18930,23,170371
+2026-03-03,India,Scaling,Pro,63,8866,14,257105
+2026-03-03,India,Scaling,Team,24,2737,4,216207
+2026-03-03,Southeast Asia,Early,Starter,45,4854,7,43686
+2026-03-03,Southeast Asia,Early,Pro,20,2251,5,65282
+2026-03-03,Southeast Asia,Early,Team,7,706,1,55786
+2026-03-04,Japan,Mature,Starter,79,27454,13,247089
+2026-03-04,Japan,Mature,Pro,30,12819,9,371745
+2026-03-04,Japan,Mature,Team,11,3979,2,314313
+2026-03-04,Korea,Growing,Starter,57,12299,9,110687
+2026-03-04,Korea,Growing,Pro,27,5755,4,166895
+2026-03-04,Korea,Growing,Team,9,1801,2,142283
+2026-03-04,India,Scaling,Starter,138,18984,22,170856
+2026-03-04,India,Scaling,Pro,65,8888,13,257765
+2026-03-04,India,Scaling,Team,21,2744,4,216804
+2026-03-04,Southeast Asia,Early,Starter,47,4873,7,43856
+2026-03-04,Southeast Asia,Early,Pro,19,2259,3,65498
+2026-03-04,Southeast Asia,Early,Team,7,709,1,56011
+2026-03-05,Japan,Mature,Starter,81,27479,20,247310
+2026-03-05,Japan,Mature,Pro,39,12832,8,372135
+2026-03-05,Japan,Mature,Team,13,3983,3,314641
+2026-03-05,Korea,Growing,Starter,61,12322,10,110898
+2026-03-05,Korea,Growing,Pro,25,5764,5,167149
+2026-03-05,Korea,Growing,Team,9,1805,1,142595
+2026-03-05,India,Scaling,Starter,146,19033,31,171300
+2026-03-05,India,Scaling,Pro,76,8919,11,258658
+2026-03-05,India,Scaling,Team,21,2752,4,217400
+2026-03-05,Southeast Asia,Early,Starter,47,4889,10,43998
+2026-03-05,Southeast Asia,Early,Pro,18,2264,4,65669
+2026-03-05,Southeast Asia,Early,Team,7,712,1,56236
+2026-03-06,Japan,Mature,Starter,83,27507,18,247559
+2026-03-06,Japan,Mature,Pro,33,12841,9,372401
+2026-03-06,Japan,Mature,Team,10,3986,2,314918
+2026-03-06,Korea,Growing,Starter,48,12337,11,111037
+2026-03-06,Korea,Growing,Pro,29,5776,4,167495
+2026-03-06,Korea,Growing,Team,9,1809,1,142907
+2026-03-06,India,Scaling,Starter,146,19091,23,171816
+2026-03-06,India,Scaling,Pro,76,8949,12,259522
+2026-03-06,India,Scaling,Team,22,2760,4,218040
+2026-03-06,Southeast Asia,Early,Starter,44,4906,7,44153
+2026-03-06,Southeast Asia,Early,Pro,21,2272,4,65888
+2026-03-06,Southeast Asia,Early,Team,6,714,1,56418
+2026-03-07,Japan,Mature,Starter,51,27521,14,247685
+2026-03-07,Japan,Mature,Pro,26,12847,9,372554
+2026-03-07,Japan,Mature,Team,8,3989,2,315107
+2026-03-07,Korea,Growing,Starter,41,12348,12,111132
+2026-03-07,Korea,Growing,Pro,19,5781,5,167653
+2026-03-07,Korea,Growing,Team,6,1810,2,143010
+2026-03-07,India,Scaling,Starter,92,19114,27,172028
+2026-03-07,India,Scaling,Pro,57,8969,11,260113
+2026-03-07,India,Scaling,Team,14,2765,3,218411
+2026-03-07,Southeast Asia,Early,Starter,31,4915,8,44235
+2026-03-07,Southeast Asia,Early,Pro,16,2278,3,66056
+2026-03-07,Southeast Asia,Early,Team,5,716,1,56556
+2026-03-08,Japan,Mature,Starter,47,27528,18,247756
+2026-03-08,Japan,Mature,Pro,24,12851,9,372676
+2026-03-08,Japan,Mature,Team,8,3990,3,315218
+2026-03-08,Korea,Growing,Starter,36,12359,9,111229
+2026-03-08,Korea,Growing,Pro,20,5788,4,167856
+2026-03-08,Korea,Growing,Team,6,1813,1,143191
+2026-03-08,India,Scaling,Starter,104,19144,27,172300
+2026-03-08,India,Scaling,Pro,53,8987,12,260610
+2026-03-08,India,Scaling,Team,13,2769,3,218739
+2026-03-08,Southeast Asia,Early,Starter,32,4925,8,44321
+2026-03-08,Southeast Asia,Early,Pro,15,2283,3,66208
+2026-03-08,Southeast Asia,Early,Team,5,718,1,56694
+2026-03-09,Japan,Mature,Starter,67,27546,19,247916
+2026-03-09,Japan,Mature,Pro,40,12866,7,373111
+2026-03-09,Japan,Mature,Team,12,3995,2,315581
+2026-03-09,Korea,Growing,Starter,62,12382,11,111437
+2026-03-09,Korea,Growing,Pro,30,5800,5,168190
+2026-03-09,Korea,Growing,Team,9,1817,1,143504
+2026-03-09,India,Scaling,Starter,133,19190,28,172706
+2026-03-09,India,Scaling,Pro,72,9014,12,261410
+2026-03-09,India,Scaling,Team,23,2778,4,219423
+2026-03-09,Southeast Asia,Early,Starter,52,4943,10,44488
+2026-03-09,Southeast Asia,Early,Pro,24,2292,4,66475
+2026-03-09,Southeast Asia,Early,Team,6,720,1,56876
+2026-03-10,Japan,Mature,Starter,78,27573,16,248158
+2026-03-10,Japan,Mature,Pro,31,12875,8,373374
+2026-03-10,Japan,Mature,Team,10,3998,2,315858
+2026-03-10,Korea,Growing,Starter,49,12398,11,111581
+2026-03-10,Korea,Growing,Pro,23,5808,4,168441
+2026-03-10,Korea,Growing,Team,7,1819,1,143729
+2026-03-10,India,Scaling,Starter,154,19247,27,173226
+2026-03-10,India,Scaling,Pro,76,9042,14,262217
+2026-03-10,India,Scaling,Team,24,2787,4,220149
+2026-03-10,Southeast Asia,Early,Starter,43,4959,8,44629
+2026-03-10,Southeast Asia,Early,Pro,20,2299,4,66678
+2026-03-10,Southeast Asia,Early,Team,6,722,1,57058
+2026-03-11,Japan,Mature,Starter,69,27596,15,248365
+2026-03-11,Japan,Mature,Pro,37,12887,8,373732
+2026-03-11,Japan,Mature,Team,12,4003,2,316221
+2026-03-11,Korea,Growing,Starter,50,12414,11,111729
+2026-03-11,Korea,Growing,Pro,26,5818,5,168710
+2026-03-11,Korea,Growing,Team,9,1823,1,144041
+2026-03-11,India,Scaling,Starter,148,19306,23,173751
+2026-03-11,India,Scaling,Pro,77,9070,14,263039
+2026-03-11,India,Scaling,Team,20,2794,4,220702
+2026-03-11,Southeast Asia,Early,Starter,51,4977,10,44792
+2026-03-11,Southeast Asia,Early,Pro,24,2308,4,66945
+2026-03-11,Southeast Asia,Early,Team,8,726,1,57326
+2026-03-12,Japan,Mature,Starter,77,27620,18,248584
+2026-03-12,Japan,Mature,Pro,32,12899,6,374068
+2026-03-12,Japan,Mature,Team,12,4006,3,316506
+2026-03-12,Korea,Growing,Starter,64,12439,11,111947
+2026-03-12,Korea,Growing,Pro,24,5826,5,168948
+2026-03-12,Korea,Growing,Team,8,1827,1,144309
+2026-03-12,India,Scaling,Starter,153,19366,24,174293
+2026-03-12,India,Scaling,Pro,62,9091,13,263651
+2026-03-12,India,Scaling,Team,24,2804,3,221508
+2026-03-12,Southeast Asia,Early,Starter,46,4993,9,44938
+2026-03-12,Southeast Asia,Early,Pro,22,2317,4,67180
+2026-03-12,Southeast Asia,Early,Team,6,728,1,57508
+2026-03-13,Japan,Mature,Starter,86,27651,17,248857
+2026-03-13,Japan,Mature,Pro,35,12909,9,374365
+2026-03-13,Japan,Mature,Team,12,4011,2,316869
+2026-03-13,Korea,Growing,Starter,55,12461,8,112147
+2026-03-13,Korea,Growing,Pro,22,5834,4,169183
+2026-03-13,Korea,Growing,Team,9,1831,1,144621
+2026-03-13,India,Scaling,Starter,144,19422,23,174798
+2026-03-13,India,Scaling,Pro,80,9121,14,264521
+2026-03-13,India,Scaling,Team,19,2810,4,222018
+2026-03-13,Southeast Asia,Early,Starter,39,5006,9,45050
+2026-03-13,Southeast Asia,Early,Pro,24,2326,4,67447
+2026-03-13,Southeast Asia,Early,Team,6,730,1,57690
+2026-03-14,Japan,Mature,Starter,50,27661,17,248951
+2026-03-14,Japan,Mature,Pro,22,12914,7,374513
+2026-03-14,Japan,Mature,Team,9,4013,3,317023
+2026-03-14,Korea,Growing,Starter,36,12469,12,112217
+2026-03-14,Korea,Growing,Pro,20,5841,4,169386
+2026-03-14,Korea,Growing,Team,5,1832,1,144760
+2026-03-14,India,Scaling,Starter,112,19452,32,175065
+2026-03-14,India,Scaling,Pro,54,9137,14,264976
+2026-03-14,India,Scaling,Team,16,2815,4,222397
+2026-03-14,Southeast Asia,Early,Starter,35,5017,8,45152
+2026-03-14,Southeast Asia,Early,Pro,14,2329,4,67554
+2026-03-14,Southeast Asia,Early,Team,4,731,1,57785
+2026-03-15,Japan,Mature,Starter,50,27674,15,249064
+2026-03-15,Japan,Mature,Pro,26,12921,8,374696
+2026-03-15,Japan,Mature,Team,8,4015,2,317213
+2026-03-15,Korea,Growing,Starter,38,12481,9,112325
+2026-03-15,Korea,Growing,Pro,20,5847,5,169560
+2026-03-15,Korea,Growing,Team,5,1834,1,144898
+2026-03-15,India,Scaling,Starter,113,19491,23,175417
+2026-03-15,India,Scaling,Pro,51,9153,12,265441
+2026-03-15,India,Scaling,Team,15,2819,4,222733
+2026-03-15,Southeast Asia,Early,Starter,34,5027,9,45239
+2026-03-15,Southeast Asia,Early,Pro,17,2335,4,67709
+2026-03-15,Southeast Asia,Early,Team,5,733,1,57923
+2026-03-16,Japan,Mature,Starter,80,27702,16,249316
+2026-03-16,Japan,Mature,Pro,33,12930,9,374961
+2026-03-16,Japan,Mature,Team,10,4019,2,317489
+2026-03-16,Korea,Growing,Starter,48,12495,12,112454
+2026-03-16,Korea,Growing,Pro,24,5855,5,169798
+2026-03-16,Korea,Growing,Team,7,1836,2,145044
+2026-03-16,India,Scaling,Starter,172,19562,23,176062
+2026-03-16,India,Scaling,Pro,61,9173,14,266008
+2026-03-16,India,Scaling,Team,21,2827,4,223329
+2026-03-16,Southeast Asia,Early,Starter,47,5044,8,45400
+2026-03-16,Southeast Asia,Early,Pro,21,2342,4,67928
+2026-03-16,Southeast Asia,Early,Team,7,736,1,58148
+2026-03-17,Japan,Mature,Starter,86,27730,19,249570
+2026-03-17,Japan,Mature,Pro,39,12943,8,375351
+2026-03-17,Japan,Mature,Team,12,4023,2,317853
+2026-03-17,Korea,Growing,Starter,55,12516,9,112645
+2026-03-17,Korea,Growing,Pro,29,5867,4,170144
+2026-03-17,Korea,Growing,Team,9,1840,1,145356
+2026-03-17,India,Scaling,Starter,151,19622,23,176602
+2026-03-17,India,Scaling,Pro,67,9199,11,266758
+2026-03-17,India,Scaling,Team,22,2836,3,224048
+2026-03-17,Southeast Asia,Early,Starter,40,5058,8,45526
+2026-03-17,Southeast Asia,Early,Pro,19,2349,4,68115
+2026-03-17,Southeast Asia,Early,Team,6,738,1,58330
+2026-03-18,Japan,Mature,Starter,81,27760,15,249836
+2026-03-18,Japan,Mature,Pro,36,12956,7,375723
+2026-03-18,Japan,Mature,Team,12,4027,3,318137
+2026-03-18,Korea,Growing,Starter,59,12537,12,112829
+2026-03-18,Korea,Growing,Pro,29,5878,5,170462
+2026-03-18,Korea,Growing,Team,7,1843,1,145581
+2026-03-18,India,Scaling,Starter,141,19671,29,177039
+2026-03-18,India,Scaling,Pro,67,9222,13,267450
+2026-03-18,India,Scaling,Team,20,2843,4,224601
+2026-03-18,Southeast Asia,Early,Starter,44,5075,8,45671
+2026-03-18,Southeast Asia,Early,Pro,19,2355,4,68302
+2026-03-18,Southeast Asia,Early,Team,7,741,1,58555
+2026-03-19,Japan,Mature,Starter,76,27785,16,250069
+2026-03-19,Japan,Mature,Pro,31,12966,7,376014
+2026-03-19,Japan,Mature,Team,11,4030,3,318378
+2026-03-19,Korea,Growing,Starter,60,12559,11,113027
+2026-03-19,Korea,Growing,Pro,26,5887,5,170732
+2026-03-19,Korea,Growing,Team,8,1846,1,145850
+2026-03-19,India,Scaling,Starter,144,19726,24,177536
+2026-03-19,India,Scaling,Pro,76,9251,13,268285
+2026-03-19,India,Scaling,Team,19,2850,4,225111
+2026-03-19,Southeast Asia,Early,Starter,47,5091,9,45823
+2026-03-19,Southeast Asia,Early,Pro,19,2361,5,68460
+2026-03-19,Southeast Asia,Early,Team,8,745,1,58823
+2026-03-20,Japan,Mature,Starter,65,27806,15,250255
+2026-03-20,Japan,Mature,Pro,33,12976,8,376308
+2026-03-20,Japan,Mature,Team,9,4033,2,318611
+2026-03-20,Korea,Growing,Starter,49,12575,11,113171
+2026-03-20,Korea,Growing,Pro,23,5895,5,170954
+2026-03-20,Korea,Growing,Team,8,1849,2,146039
+2026-03-20,India,Scaling,Starter,168,19794,25,178142
+2026-03-20,India,Scaling,Pro,68,9275,14,268963
+2026-03-20,India,Scaling,Team,20,2857,4,225664
+2026-03-20,Southeast Asia,Early,Starter,53,5113,8,46013
+2026-03-20,Southeast Asia,Early,Pro,19,2367,4,68647
+2026-03-20,Southeast Asia,Early,Team,6,747,1,59005
+2026-03-21,Japan,Mature,Starter,49,27816,17,250345
+2026-03-21,Japan,Mature,Pro,28,12984,8,376523
+2026-03-21,Japan,Mature,Team,7,4034,3,318678
+2026-03-21,Korea,Growing,Starter,38,12586,9,113278
+2026-03-21,Korea,Growing,Pro,22,5902,5,171159
+2026-03-21,Korea,Growing,Team,7,1851,1,146265
+2026-03-21,India,Scaling,Starter,109,19829,25,178457
+2026-03-21,India,Scaling,Pro,47,9289,11,269394
+2026-03-21,India,Scaling,Team,14,2860,4,225956
+2026-03-21,Southeast Asia,Early,Starter,39,5127,7,46143
+2026-03-21,Southeast Asia,Early,Pro,15,2371,4,68771
+2026-03-21,Southeast Asia,Early,Team,5,749,1,59143
+2026-03-22,Japan,Mature,Starter,49,27827,16,250443
+2026-03-22,Japan,Mature,Pro,26,12990,8,376706
+2026-03-22,Japan,Mature,Team,9,4036,3,318832
+2026-03-22,Korea,Growing,Starter,38,12598,9,113385
+2026-03-22,Korea,Growing,Pro,16,5907,4,171299
+2026-03-22,Korea,Growing,Team,5,1853,1,146403
+2026-03-22,India,Scaling,Starter,106,19858,29,178721
+2026-03-22,India,Scaling,Pro,48,9305,11,269841
+2026-03-22,India,Scaling,Team,16,2865,4,226335
+2026-03-22,Southeast Asia,Early,Starter,34,5138,8,46240
+2026-03-22,Southeast Asia,Early,Pro,14,2374,5,68849
+2026-03-22,Southeast Asia,Early,Team,4,750,1,59238
+2026-03-23,Japan,Mature,Starter,70,27849,17,250637
+2026-03-23,Japan,Mature,Pro,32,12999,8,376984
+2026-03-23,Japan,Mature,Team,10,4039,2,319109
+2026-03-23,Korea,Growing,Starter,64,12623,11,113603
+2026-03-23,Korea,Growing,Pro,23,5915,4,171549
+2026-03-23,Korea,Growing,Team,9,1856,2,146636
+2026-03-23,India,Scaling,Starter,159,19920,25,179283
+2026-03-23,India,Scaling,Pro,77,9336,11,270750
+2026-03-23,India,Scaling,Team,21,2873,4,226931
+2026-03-23,Southeast Asia,Early,Starter,44,5153,9,46377
+2026-03-23,Southeast Asia,Early,Pro,20,2381,4,69052
+2026-03-23,Southeast Asia,Early,Team,7,753,1,59463
+2026-03-24,Japan,Mature,Starter,74,27871,18,250841
+2026-03-24,Japan,Mature,Pro,34,13009,9,377265
+2026-03-24,Japan,Mature,Team,11,4043,2,319429
+2026-03-24,Korea,Growing,Starter,51,12643,8,113783
+2026-03-24,Korea,Growing,Pro,28,5926,5,171851
+2026-03-24,Korea,Growing,Team,7,1858,2,146782
+2026-03-24,India,Scaling,Starter,165,19986,25,179874
+2026-03-24,India,Scaling,Pro,78,9367,12,271646
+2026-03-24,India,Scaling,Team,24,2881,5,227579
+2026-03-24,Southeast Asia,Early,Starter,46,5168,10,46514
+2026-03-24,Southeast Asia,Early,Pro,22,2389,4,69287
+2026-03-24,Southeast Asia,Early,Team,7,756,1,59688
+2026-03-25,Japan,Mature,Starter,76,27896,17,251064
+2026-03-25,Japan,Mature,Pro,37,13022,7,377652
+2026-03-25,Japan,Mature,Team,12,4048,2,319792
+2026-03-25,Korea,Growing,Starter,58,12663,12,113963
+2026-03-25,Korea,Growing,Pro,28,5936,5,172153
+2026-03-25,Korea,Growing,Team,7,1861,1,147007
+2026-03-25,India,Scaling,Starter,144,20042,23,180380
+2026-03-25,India,Scaling,Pro,73,9395,12,272462
+2026-03-25,India,Scaling,Team,21,2888,4,228176
+2026-03-25,Southeast Asia,Early,Starter,42,5183,8,46650
+2026-03-25,Southeast Asia,Early,Pro,25,2399,4,69570
+2026-03-25,Southeast Asia,Early,Team,6,758,1,59870
+2026-03-26,Japan,Mature,Starter,87,27925,19,251324
+2026-03-26,Japan,Mature,Pro,36,13033,9,377966
+2026-03-26,Japan,Mature,Team,12,4052,3,320076
+2026-03-26,Korea,Growing,Starter,49,12679,10,114115
+2026-03-26,Korea,Growing,Pro,30,5948,5,172486
+2026-03-26,Korea,Growing,Team,9,1865,1,147319
+2026-03-26,India,Scaling,Starter,158,20106,23,180955
+2026-03-26,India,Scaling,Pro,68,9421,12,273199
+2026-03-26,India,Scaling,Team,21,2896,4,228772
+2026-03-26,Southeast Asia,Early,Starter,52,5202,10,46818
+2026-03-26,Southeast Asia,Early,Pro,20,2407,3,69802
+2026-03-26,Southeast Asia,Early,Team,8,761,1,60139
+2026-03-27,Japan,Mature,Starter,70,27949,14,251545
+2026-03-27,Japan,Mature,Pro,39,13047,8,378356
+2026-03-27,Japan,Mature,Team,11,4055,3,320317
+2026-03-27,Korea,Growing,Starter,64,12704,11,114333
+2026-03-27,Korea,Growing,Pro,28,5958,5,172788
+2026-03-27,Korea,Growing,Team,8,1867,2,147509
+2026-03-27,India,Scaling,Starter,169,20175,24,181576
+2026-03-27,India,Scaling,Pro,78,9449,15,274008
+2026-03-27,India,Scaling,Team,22,2905,3,229491
+2026-03-27,Southeast Asia,Early,Starter,43,5218,8,46958
+2026-03-27,Southeast Asia,Early,Pro,25,2416,5,70055
+2026-03-27,Southeast Asia,Early,Team,7,764,1,60364
+2026-03-28,Japan,Mature,Starter,47,27957,18,251615
+2026-03-28,Japan,Mature,Pro,22,13052,7,378504
+2026-03-28,Japan,Mature,Team,7,4056,2,320463
+2026-03-28,Korea,Growing,Starter,36,12713,10,114421
+2026-03-28,Korea,Growing,Pro,18,5963,5,172930
+2026-03-28,Korea,Growing,Team,6,1870,1,147691
+2026-03-28,India,Scaling,Starter,104,20205,27,181848
+2026-03-28,India,Scaling,Pro,53,9463,15,274418
+2026-03-28,India,Scaling,Team,16,2909,5,229791
+2026-03-28,Southeast Asia,Early,Starter,34,5225,11,47028
+2026-03-28,Southeast Asia,Early,Pro,14,2419,4,70163
+2026-03-28,Southeast Asia,Early,Team,5,766,1,60502
+2026-03-29,Japan,Mature,Starter,55,27972,16,251744
+2026-03-29,Japan,Mature,Pro,24,13058,7,378683
+2026-03-29,Japan,Mature,Team,7,4058,2,320610
+2026-03-29,Korea,Growing,Starter,40,12724,11,114520
+2026-03-29,Korea,Growing,Pro,21,5970,5,173120
+2026-03-29,Korea,Growing,Team,6,1871,2,147793
+2026-03-29,India,Scaling,Starter,111,20240,26,182163
+2026-03-29,India,Scaling,Pro,47,9478,11,274849
+2026-03-29,India,Scaling,Team,16,2914,4,230170
+2026-03-29,Southeast Asia,Early,Starter,32,5235,8,47114
+2026-03-29,Southeast Asia,Early,Pro,15,2423,5,70257
+2026-03-29,Southeast Asia,Early,Team,6,768,1,60684
+2026-03-30,Japan,Mature,Starter,65,27992,15,251930
+2026-03-30,Japan,Mature,Pro,31,13067,8,378946
+2026-03-30,Japan,Mature,Team,11,4062,2,320930
+2026-03-30,Korea,Growing,Starter,61,12747,11,114723
+2026-03-30,Korea,Growing,Pro,29,5981,5,173437
+2026-03-30,Korea,Growing,Team,8,1873,2,147983
+2026-03-30,India,Scaling,Starter,174,20307,29,182763
+2026-03-30,India,Scaling,Pro,82,9511,12,275809
+2026-03-30,India,Scaling,Team,21,2920,5,230688
+2026-03-30,Southeast Asia,Early,Starter,52,5255,9,47291
+2026-03-30,Southeast Asia,Early,Pro,21,2430,4,70476
+2026-03-30,Southeast Asia,Early,Team,6,770,1,60866
+2026-03-31,Japan,Mature,Starter,75,28018,16,252158
+2026-03-31,Japan,Mature,Pro,31,13076,8,379208
+2026-03-31,Japan,Mature,Team,11,4065,3,321171
+2026-03-31,Korea,Growing,Starter,51,12766,9,114894
+2026-03-31,Korea,Growing,Pro,26,5990,5,173707
+2026-03-31,Korea,Growing,Team,8,1876,2,148172
+2026-03-31,India,Scaling,Starter,154,20368,24,183310
+2026-03-31,India,Scaling,Pro,77,9542,11,276718
+2026-03-31,India,Scaling,Team,25,2930,4,231458
+2026-03-31,Southeast Asia,Early,Starter,54,5275,9,47477
+2026-03-31,Southeast Asia,Early,Pro,21,2438,4,70695
+2026-03-31,Southeast Asia,Early,Team,8,774,1,61134
+2026-04-01,Japan,Mature,Starter,76,28041,18,252372
+2026-04-01,Japan,Mature,Pro,33,13086,8,379503
+2026-04-01,Japan,Mature,Team,10,4068,3,321368
+2026-04-01,Korea,Growing,Starter,59,12787,12,115079
+2026-04-01,Korea,Growing,Pro,28,6000,5,174009
+2026-04-01,Korea,Growing,Team,8,1878,2,148362
+2026-04-01,India,Scaling,Starter,143,20416,30,183748
+2026-04-01,India,Scaling,Pro,62,9562,14,277301
+2026-04-01,India,Scaling,Team,22,2938,4,232098
+2026-04-01,Southeast Asia,Early,Starter,53,5296,8,47667
+2026-04-01,Southeast Asia,Early,Pro,20,2445,4,70898
+2026-04-01,Southeast Asia,Early,Team,8,777,1,61403
+2026-04-02,Japan,Mature,Starter,66,28059,19,252527
+2026-04-02,Japan,Mature,Pro,40,13101,7,379938
+2026-04-02,Japan,Mature,Team,10,4070,3,321566
+2026-04-02,Korea,Growing,Starter,54,12804,12,115238
+2026-04-02,Korea,Growing,Pro,24,6008,5,174246
+2026-04-02,Korea,Growing,Team,8,1880,2,148552
+2026-04-02,India,Scaling,Starter,155,20478,24,184299
+2026-04-02,India,Scaling,Pro,66,9588,10,278064
+2026-04-02,India,Scaling,Team,24,2947,4,232825
+2026-04-02,Southeast Asia,Early,Starter,47,5311,11,47801
+2026-04-02,Southeast Asia,Early,Pro,22,2452,5,71104
+2026-04-02,Southeast Asia,Early,Team,6,779,2,61505
+2026-04-03,Japan,Mature,Starter,68,28078,18,252702
+2026-04-03,Japan,Mature,Pro,35,13114,7,380293
+2026-04-03,Japan,Mature,Team,12,4074,3,321850
+2026-04-03,Korea,Growing,Starter,64,12830,9,115474
+2026-04-03,Korea,Growing,Pro,26,6019,4,174545
+2026-04-03,Korea,Growing,Team,10,1885,1,148907
+2026-04-03,India,Scaling,Starter,176,20543,31,184891
+2026-04-03,India,Scaling,Pro,62,9607,15,278617
+2026-04-03,India,Scaling,Team,24,2956,4,233552
+2026-04-03,Southeast Asia,Early,Starter,45,5326,10,47934
+2026-04-03,Southeast Asia,Early,Pro,23,2460,4,71354
+2026-04-03,Southeast Asia,Early,Team,7,781,1,61731
+2026-04-04,Japan,Mature,Starter,48,28084,20,252760
+2026-04-04,Japan,Mature,Pro,26,13119,9,380447
+2026-04-04,Japan,Mature,Team,7,4076,2,321996
+2026-04-04,Korea,Growing,Starter,40,12842,10,115582
+2026-04-04,Korea,Growing,Pro,20,6026,4,174748
+2026-04-04,Korea,Growing,Team,6,1887,1,149089
+2026-04-04,India,Scaling,Starter,104,20575,26,185172
+2026-04-04,India,Scaling,Pro,57,9628,11,279208
+2026-04-04,India,Scaling,Team,18,2962,4,234018
+2026-04-04,Southeast Asia,Early,Starter,36,5336,10,48022
+2026-04-04,Southeast Asia,Early,Pro,17,2465,5,71481
+2026-04-04,Southeast Asia,Early,Team,5,783,1,61869
+2026-04-05,Japan,Mature,Starter,59,28102,15,252917
+2026-04-05,Japan,Mature,Pro,23,13123,8,380581
+2026-04-05,Japan,Mature,Team,7,4078,2,322142
+2026-04-05,Korea,Growing,Starter,40,12855,9,115699
+2026-04-05,Korea,Growing,Pro,22,6033,5,174954
+2026-04-05,Korea,Growing,Team,7,1889,2,149235
+2026-04-05,India,Scaling,Starter,127,20614,31,185522
+2026-04-05,India,Scaling,Pro,54,9645,13,279692
+2026-04-05,India,Scaling,Team,14,2966,4,234310
+2026-04-05,Southeast Asia,Early,Starter,37,5348,8,48133
+2026-04-05,Southeast Asia,Early,Pro,18,2471,4,71652
+2026-04-05,Southeast Asia,Early,Team,5,784,2,61928
+2026-04-06,Japan,Mature,Starter,70,28124,16,253119
+2026-04-06,Japan,Mature,Pro,40,13136,9,380958
+2026-04-06,Japan,Mature,Team,11,4081,3,322383
+2026-04-06,Korea,Growing,Starter,52,12872,12,115848
+2026-04-06,Korea,Growing,Pro,23,6041,5,175176
+2026-04-06,Korea,Growing,Team,10,1893,2,149511
+2026-04-06,India,Scaling,Starter,150,20670,26,186030
+2026-04-06,India,Scaling,Pro,84,9680,11,280713
+2026-04-06,India,Scaling,Team,23,2975,4,234993
+2026-04-06,Southeast Asia,Early,Starter,46,5363,10,48271
+2026-04-06,Southeast Asia,Early,Pro,22,2479,4,71887
+2026-04-06,Southeast Asia,Early,Team,6,785,2,62031
+2026-04-07,Japan,Mature,Starter,87,28152,20,253370
+2026-04-07,Japan,Mature,Pro,36,13147,9,381272
+2026-04-07,Japan,Mature,Team,10,4084,2,322660
+2026-04-07,Korea,Growing,Starter,65,12898,10,116080
+2026-04-07,Korea,Growing,Pro,26,6051,4,175475
+2026-04-07,Korea,Growing,Team,9,1896,2,149745
+2026-04-07,India,Scaling,Starter,149,20723,29,186507
+2026-04-07,India,Scaling,Pro,76,9710,12,281577
+2026-04-07,India,Scaling,Team,24,2984,4,235720
+2026-04-07,Southeast Asia,Early,Starter,55,5385,9,48462
+2026-04-07,Southeast Asia,Early,Pro,21,2486,4,72106
+2026-04-07,Southeast Asia,Early,Team,6,787,1,62212
+2026-04-08,Japan,Mature,Starter,66,28171,18,253535
+2026-04-08,Japan,Mature,Pro,41,13163,7,381723
+2026-04-08,Japan,Mature,Team,9,4087,2,322893
+2026-04-08,Korea,Growing,Starter,66,12922,12,116298
+2026-04-08,Korea,Growing,Pro,30,6063,4,175837
+2026-04-08,Korea,Growing,Team,7,1897,2,149891
+2026-04-08,India,Scaling,Starter,155,20785,23,187067
+2026-04-08,India,Scaling,Pro,64,9732,13,282221
+2026-04-08,India,Scaling,Team,21,2991,4,236317
+2026-04-08,Southeast Asia,Early,Starter,45,5401,8,48613
+2026-04-08,Southeast Asia,Early,Pro,26,2496,5,72375
+2026-04-08,Southeast Asia,Early,Team,8,791,1,62481
+2026-04-09,Japan,Mature,Starter,87,28204,14,253839
+2026-04-09,Japan,Mature,Pro,33,13172,9,381988
+2026-04-09,Japan,Mature,Team,12,4091,3,323177
+2026-04-09,Korea,Growing,Starter,53,12939,12,116453
+2026-04-09,Korea,Growing,Pro,27,6073,5,176123
+2026-04-09,Korea,Growing,Team,8,1901,1,150159
+2026-04-09,India,Scaling,Starter,174,20855,26,187694
+2026-04-09,India,Scaling,Pro,73,9759,13,283008
+2026-04-09,India,Scaling,Team,22,2998,5,236878
+2026-04-09,Southeast Asia,Early,Starter,55,5423,9,48804
+2026-04-09,Southeast Asia,Early,Pro,25,2505,4,72658
+2026-04-09,Southeast Asia,Early,Team,6,793,1,62663
+2026-04-10,Japan,Mature,Starter,78,28231,16,254081
+2026-04-10,Japan,Mature,Pro,33,13182,8,382282
+2026-04-10,Japan,Mature,Team,11,4094,3,323418
+2026-04-10,Korea,Growing,Starter,60,12962,10,116660
+2026-04-10,Korea,Growing,Pro,25,6083,4,176406
+2026-04-10,Korea,Growing,Team,8,1904,1,150428
+2026-04-10,India,Scaling,Starter,136,20904,26,188133
+2026-04-10,India,Scaling,Pro,66,9782,13,283684
+2026-04-10,India,Scaling,Team,22,3008,3,237596
+2026-04-10,Southeast Asia,Early,Starter,56,5442,11,48982
+2026-04-10,Southeast Asia,Early,Pro,23,2514,4,72909
+2026-04-10,Southeast Asia,Early,Team,7,796,1,62888
+2026-04-11,Japan,Mature,Starter,48,28239,19,254148
+2026-04-11,Japan,Mature,Pro,22,13186,8,382401
+2026-04-11,Japan,Mature,Team,8,4096,2,323608
+2026-04-11,Korea,Growing,Starter,45,12975,12,116775
+2026-04-11,Korea,Growing,Pro,19,6088,5,176564
+2026-04-11,Korea,Growing,Team,7,1907,1,150653
+2026-04-11,India,Scaling,Starter,126,20944,29,188496
+2026-04-11,India,Scaling,Pro,45,9795,12,284054
+2026-04-11,India,Scaling,Team,16,3013,3,238055
+2026-04-11,Southeast Asia,Early,Starter,37,5453,10,49075
+2026-04-11,Southeast Asia,Early,Pro,18,2519,5,73051
+2026-04-11,Southeast Asia,Early,Team,6,797,2,62991
+2026-04-12,Japan,Mature,Starter,56,28255,14,254299
+2026-04-12,Japan,Mature,Pro,24,13190,9,382523
+2026-04-12,Japan,Mature,Team,7,4097,3,323675
+2026-04-12,Korea,Growing,Starter,40,12989,8,116901
+2026-04-12,Korea,Growing,Pro,19,6094,5,176722
+2026-04-12,Korea,Growing,Team,6,1908,2,150756
+2026-04-12,India,Scaling,Starter,116,20981,27,188827
+2026-04-12,India,Scaling,Pro,57,9815,11,284644
+2026-04-12,India,Scaling,Team,14,3017,4,238347
+2026-04-12,Southeast Asia,Early,Starter,37,5463,10,49168
+2026-04-12,Southeast Asia,Early,Pro,16,2524,4,73190
+2026-04-12,Southeast Asia,Early,Team,5,799,1,63129
+2026-04-13,Japan,Mature,Starter,67,28273,19,254460
+2026-04-13,Japan,Mature,Pro,34,13201,8,382833
+2026-04-13,Japan,Mature,Team,10,4100,3,323872
+2026-04-13,Korea,Growing,Starter,62,13014,9,117126
+2026-04-13,Korea,Growing,Pro,26,6103,5,176991
+2026-04-13,Korea,Growing,Team,8,1911,2,150945
+2026-04-13,India,Scaling,Starter,136,21024,32,189212
+2026-04-13,India,Scaling,Pro,85,9846,16,285535
+2026-04-13,India,Scaling,Team,25,3027,4,239117
+2026-04-13,Southeast Asia,Early,Starter,47,5478,11,49302
+2026-04-13,Southeast Asia,Early,Pro,23,2531,5,73412
+2026-04-13,Southeast Asia,Early,Team,7,801,2,63275
+2026-04-14,Japan,Mature,Starter,75,28295,20,254651
+2026-04-14,Japan,Mature,Pro,36,13212,9,383147
+2026-04-14,Japan,Mature,Team,9,4102,3,324026
+2026-04-14,Korea,Growing,Starter,57,13034,11,117310
+2026-04-14,Korea,Growing,Pro,26,6113,4,177290
+2026-04-14,Korea,Growing,Team,7,1913,2,151091
+2026-04-14,India,Scaling,Starter,161,21078,34,189703
+2026-04-14,India,Scaling,Pro,85,9881,12,286543
+2026-04-14,India,Scaling,Team,26,3037,4,239931
+2026-04-14,Southeast Asia,Early,Starter,50,5498,8,49478
+2026-04-14,Southeast Asia,Early,Pro,26,2542,4,73711
+2026-04-14,Southeast Asia,Early,Team,7,803,2,63421
+2026-04-15,Japan,Mature,Starter,77,28323,14,254906
+2026-04-15,Japan,Mature,Pro,35,13223,8,383473
+2026-04-15,Japan,Mature,Team,10,4104,3,324224
+2026-04-15,Korea,Growing,Starter,62,13060,9,117536
+2026-04-15,Korea,Growing,Pro,24,6122,5,177528
+2026-04-15,Korea,Growing,Team,8,1915,2,151281
+2026-04-15,India,Scaling,Starter,166,21141,28,190273
+2026-04-15,India,Scaling,Pro,64,9901,15,287129
+2026-04-15,India,Scaling,Team,25,3047,4,240701
+2026-04-15,Southeast Asia,Early,Starter,51,5517,9,49649
+2026-04-15,Southeast Asia,Early,Pro,27,2552,5,73996
+2026-04-15,Southeast Asia,Early,Team,7,806,1,63646
+2026-04-16,Japan,Mature,Starter,71,28342,20,255078
+2026-04-16,Japan,Mature,Pro,33,13234,7,383796
+2026-04-16,Japan,Mature,Team,12,4108,3,324508
+2026-04-16,Korea,Growing,Starter,64,13085,10,117762
+2026-04-16,Korea,Growing,Pro,28,6133,4,177858
+2026-04-16,Korea,Growing,Team,9,1918,2,151514
+2026-04-16,India,Scaling,Starter,176,21208,30,190874
+2026-04-16,India,Scaling,Pro,70,9923,16,287781
+2026-04-16,India,Scaling,Team,21,3053,5,241219
+2026-04-16,Southeast Asia,Early,Starter,51,5537,8,49829
+2026-04-16,Southeast Asia,Early,Pro,27,2562,4,74311
+2026-04-16,Southeast Asia,Early,Team,8,808,2,63836
+2026-04-17,Japan,Mature,Starter,67,28363,16,255265
+2026-04-17,Japan,Mature,Pro,37,13247,8,384154
+2026-04-17,Japan,Mature,Team,13,4113,2,324915
+2026-04-17,Korea,Growing,Starter,65,13111,9,118003
+2026-04-17,Korea,Growing,Pro,23,6141,5,178080
+2026-04-17,Korea,Growing,Team,9,1921,2,151747
+2026-04-17,India,Scaling,Starter,181,21280,28,191518
+2026-04-17,India,Scaling,Pro,71,9951,12,288566
+2026-04-17,India,Scaling,Team,25,3063,4,241989
+2026-04-17,Southeast Asia,Early,Starter,55,5558,9,50021
+2026-04-17,Southeast Asia,Early,Pro,20,2568,5,74485
+2026-04-17,Southeast Asia,Early,Team,8,811,1,64105
+2026-04-18,Japan,Mature,Starter,51,28375,16,255374
+2026-04-18,Japan,Mature,Pro,29,13255,8,384385
+2026-04-18,Japan,Mature,Team,9,4116,2,325148
+2026-04-18,Korea,Growing,Starter,41,13124,10,118116
+2026-04-18,Korea,Growing,Pro,17,6145,5,178206
+2026-04-18,Korea,Growing,Team,5,1922,2,151806
+2026-04-18,India,Scaling,Starter,120,21316,30,191842
+2026-04-18,India,Scaling,Pro,55,9968,13,289066
+2026-04-18,India,Scaling,Team,17,3069,4,242412
+2026-04-18,Southeast Asia,Early,Starter,42,5573,8,50157
+2026-04-18,Southeast Asia,Early,Pro,19,2575,4,74672
+2026-04-18,Southeast Asia,Early,Team,6,814,1,64286
+2026-04-19,Japan,Mature,Starter,59,28389,18,255504
+2026-04-19,Japan,Mature,Pro,29,13263,8,384615
+2026-04-19,Japan,Mature,Team,8,4117,3,325259
+2026-04-19,Korea,Growing,Starter,46,13141,8,118272
+2026-04-19,Korea,Growing,Pro,22,6152,5,178412
+2026-04-19,Korea,Growing,Team,6,1923,2,151909
+2026-04-19,India,Scaling,Starter,129,21357,30,192211
+2026-04-19,India,Scaling,Pro,48,9980,14,289426
+2026-04-19,India,Scaling,Team,18,3074,4,242878
+2026-04-19,Southeast Asia,Early,Starter,37,5582,11,50241
+2026-04-19,Southeast Asia,Early,Pro,16,2579,5,74782
+2026-04-19,Southeast Asia,Early,Team,6,816,1,64468
+2026-04-20,Japan,Mature,Starter,85,28419,17,255771
+2026-04-20,Japan,Mature,Pro,33,13272,9,384881
+2026-04-20,Japan,Mature,Team,13,4122,2,325666
+2026-04-20,Korea,Growing,Starter,59,13162,12,118456
+2026-04-20,Korea,Growing,Pro,27,6161,6,178669
+2026-04-20,Korea,Growing,Team,8,1926,1,152178
+2026-04-20,India,Scaling,Starter,137,21401,31,192610
+2026-04-20,India,Scaling,Pro,82,10011,14,290328
+2026-04-20,India,Scaling,Team,20,3080,5,243352
+2026-04-20,Southeast Asia,Early,Starter,50,5602,8,50416
+2026-04-20,Southeast Asia,Early,Pro,26,2588,5,75052
+2026-04-20,Southeast Asia,Early,Team,8,818,2,64658
+2026-04-21,Japan,Mature,Starter,69,28440,17,255960
+2026-04-21,Japan,Mature,Pro,31,13282,7,385172
+2026-04-21,Japan,Mature,Team,10,4125,3,325863
+2026-04-21,Korea,Growing,Starter,65,13186,12,118670
+2026-04-21,Korea,Growing,Pro,30,6173,4,179031
+2026-04-21,Korea,Growing,Team,8,1930,1,152446
+2026-04-21,India,Scaling,Starter,164,21464,27,193179
+2026-04-21,India,Scaling,Pro,67,10036,12,291048
+2026-04-21,India,Scaling,Team,20,3087,4,243905
+2026-04-21,Southeast Asia,Early,Starter,51,5619,11,50570
+2026-04-21,Southeast Asia,Early,Pro,27,2598,5,75338
+2026-04-21,Southeast Asia,Early,Team,7,821,1,64883
+2026-04-22,Japan,Mature,Starter,68,28461,16,256153
+2026-04-22,Japan,Mature,Pro,37,13295,7,385559
+2026-04-22,Japan,Mature,Team,10,4127,3,326061
+2026-04-22,Korea,Growing,Starter,65,13212,9,118910
+2026-04-22,Korea,Growing,Pro,25,6183,4,179314
+2026-04-22,Korea,Growing,Team,9,1933,2,152679
+2026-04-22,India,Scaling,Starter,169,21525,32,193727
+2026-04-22,India,Scaling,Pro,74,10063,14,291823
+2026-04-22,India,Scaling,Team,26,3098,4,244718
+2026-04-22,Southeast Asia,Early,Starter,59,5641,10,50772
+2026-04-22,Southeast Asia,Early,Pro,23,2606,4,75588
+2026-04-22,Southeast Asia,Early,Team,7,823,2,65029
+2026-04-23,Japan,Mature,Starter,73,28482,20,256334
+2026-04-23,Japan,Mature,Pro,37,13308,7,385946
+2026-04-23,Japan,Mature,Team,13,4132,2,326467
+2026-04-23,Korea,Growing,Starter,62,13236,10,119127
+2026-04-23,Korea,Growing,Pro,25,6191,6,179539
+2026-04-23,Korea,Growing,Team,8,1935,2,152869
+2026-04-23,India,Scaling,Starter,183,21602,24,194417
+2026-04-23,India,Scaling,Pro,86,10096,14,292788
+2026-04-23,India,Scaling,Team,20,3105,4,245271
+2026-04-23,Southeast Asia,Early,Starter,50,5659,10,50929
+2026-04-23,Southeast Asia,Early,Pro,24,2615,5,75826
+2026-04-23,Southeast Asia,Early,Team,8,826,2,65218
+2026-04-24,Japan,Mature,Starter,84,28509,19,256579
+2026-04-24,Japan,Mature,Pro,38,13320,9,386292
+2026-04-24,Japan,Mature,Team,11,4137,2,326787
+2026-04-24,Korea,Growing,Starter,52,13253,12,119277
+2026-04-24,Korea,Growing,Pro,30,6203,4,179901
+2026-04-24,Korea,Growing,Team,8,1938,1,153138
+2026-04-24,India,Scaling,Starter,176,21674,25,195063
+2026-04-24,India,Scaling,Pro,65,10120,12,293477
+2026-04-24,India,Scaling,Team,21,3112,4,245868
+2026-04-24,Southeast Asia,Early,Starter,52,5677,10,51097
+2026-04-24,Southeast Asia,Early,Pro,25,2624,4,76109
+2026-04-24,Southeast Asia,Early,Team,9,829,1,65530
+2026-04-25,Japan,Mature,Starter,57,28522,18,256699
+2026-04-25,Japan,Mature,Pro,28,13327,9,386477
+2026-04-25,Japan,Mature,Team,8,4138,3,326898
+2026-04-25,Korea,Growing,Starter,46,13267,11,119405
+2026-04-25,Korea,Growing,Pro,17,6208,5,180028
+2026-04-25,Korea,Growing,Team,7,1941,1,153363
+2026-04-25,India,Scaling,Starter,112,21706,29,195357
+2026-04-25,India,Scaling,Pro,55,10137,13,293977
+2026-04-25,India,Scaling,Team,19,3118,5,246298
+2026-04-25,Southeast Asia,Early,Starter,37,5686,12,51172
+2026-04-25,Southeast Asia,Early,Pro,16,2629,4,76248
+2026-04-25,Southeast Asia,Early,Team,6,831,2,65633
+2026-04-26,Japan,Mature,Starter,60,28540,15,256861
+2026-04-26,Japan,Mature,Pro,25,13333,8,386644
+2026-04-26,Japan,Mature,Team,8,4140,2,327088
+2026-04-26,Korea,Growing,Starter,40,13280,9,119522
+2026-04-26,Korea,Growing,Pro,22,6215,5,180234
+2026-04-26,Korea,Growing,Team,7,1944,1,153588
+2026-04-26,India,Scaling,Starter,108,21735,31,195612
+2026-04-26,India,Scaling,Pro,58,10153,16,294438
+2026-04-26,India,Scaling,Team,16,3124,3,246757
+2026-04-26,Southeast Asia,Early,Starter,38,5696,11,51261
+2026-04-26,Southeast Asia,Early,Pro,18,2635,4,76419
+2026-04-26,Southeast Asia,Early,Team,6,833,1,65815
+2026-04-27,Japan,Mature,Starter,82,28571,14,257141
+2026-04-27,Japan,Mature,Pro,38,13346,7,387047
+2026-04-27,Japan,Mature,Team,10,4143,3,327285
+2026-04-27,Korea,Growing,Starter,61,13304,10,119734
+2026-04-27,Korea,Growing,Pro,28,6225,5,180535
+2026-04-27,Korea,Growing,Team,8,1948,1,153856
+2026-04-27,India,Scaling,Starter,181,21807,27,196265
+2026-04-27,India,Scaling,Pro,68,10175,15,295088
+2026-04-27,India,Scaling,Team,20,3130,5,247231
+2026-04-27,Southeast Asia,Early,Starter,51,5713,11,51414
+2026-04-27,Southeast Asia,Early,Pro,26,2644,5,76689
+2026-04-27,Southeast Asia,Early,Team,8,835,2,66004
+2026-04-28,Japan,Mature,Starter,78,28598,16,257383
+2026-04-28,Japan,Mature,Pro,40,13360,8,387453
+2026-04-28,Japan,Mature,Team,10,4146,2,327562
+2026-04-28,Korea,Growing,Starter,61,13328,9,119955
+2026-04-28,Korea,Growing,Pro,25,6235,4,180818
+2026-04-28,Korea,Growing,Team,8,1951,1,154125
+2026-04-28,India,Scaling,Starter,169,21868,32,196814
+2026-04-28,India,Scaling,Pro,84,10209,13,296051
+2026-04-28,India,Scaling,Team,27,3140,4,248088
+2026-04-28,Southeast Asia,Early,Starter,56,5733,11,51593
+2026-04-28,Southeast Asia,Early,Pro,22,2652,5,76895
+2026-04-28,Southeast Asia,Early,Team,8,839,1,66273
+2026-04-29,Japan,Mature,Starter,66,28614,20,257530
+2026-04-29,Japan,Mature,Pro,34,13371,8,387763
+2026-04-29,Japan,Mature,Team,12,4151,2,327925
+2026-04-29,Korea,Growing,Starter,65,13355,9,120196
+2026-04-29,Korea,Growing,Pro,30,6248,4,181180
+2026-04-29,Korea,Growing,Team,7,1954,1,154350
+2026-04-29,India,Scaling,Starter,180,21935,32,197417
+2026-04-29,India,Scaling,Pro,82,10241,13,296982
+2026-04-29,India,Scaling,Team,24,3150,4,248814
+2026-04-29,Southeast Asia,Early,Starter,46,5749,9,51739
+2026-04-29,Southeast Asia,Early,Pro,28,2662,5,77197
+2026-04-29,Southeast Asia,Early,Team,7,842,1,66498
+2026-04-30,Japan,Mature,Starter,80,28640,18,257764
+2026-04-30,Japan,Mature,Pro,36,13384,7,388135
+2026-04-30,Japan,Mature,Team,10,4154,2,328202
+2026-04-30,Korea,Growing,Starter,54,13374,11,120364
+2026-04-30,Korea,Growing,Pro,24,6256,5,181418
+2026-04-30,Korea,Growing,Team,8,1957,1,154619
+2026-04-30,India,Scaling,Starter,163,21994,31,197945
+2026-04-30,India,Scaling,Pro,68,10266,12,297718
+2026-04-30,India,Scaling,Team,24,3159,4,249541
+2026-04-30,Southeast Asia,Early,Starter,60,5772,10,51946
+2026-04-30,Southeast Asia,Early,Pro,23,2670,5,77418
+2026-04-30,Southeast Asia,Early,Team,8,844,2,66688
+2026-05-01,Japan,Mature,Starter,67,28660,17,257942
+2026-05-01,Japan,Mature,Pro,41,13397,9,388527
+2026-05-01,Japan,Mature,Team,12,4158,3,328486
+2026-05-01,Korea,Growing,Starter,64,13400,9,120600
+2026-05-01,Korea,Growing,Pro,27,6267,4,181733
+2026-05-01,Korea,Growing,Team,8,1960,2,154808
+2026-05-01,India,Scaling,Starter,157,22047,33,198425
+2026-05-01,India,Scaling,Pro,75,10296,11,298596
+2026-05-01,India,Scaling,Team,26,3168,5,250276
+2026-05-01,Southeast Asia,Early,Starter,48,5790,8,52112
+2026-05-01,Southeast Asia,Early,Pro,22,2678,4,77653
+2026-05-01,Southeast Asia,Early,Team,7,846,2,66834
+2026-05-02,Japan,Mature,Starter,59,28674,19,258063
+2026-05-02,Japan,Mature,Pro,24,13403,8,388678
+2026-05-02,Japan,Mature,Team,7,4160,2,328632
+2026-05-02,Korea,Growing,Starter,37,13410,10,120693
+2026-05-02,Korea,Growing,Pro,21,6274,4,181952
+2026-05-02,Korea,Growing,Team,7,1961,2,154955
+2026-05-02,India,Scaling,Starter,130,22088,31,198789
+2026-05-02,India,Scaling,Pro,55,10312,15,299038
+2026-05-02,India,Scaling,Team,18,3173,5,250663
+2026-05-02,Southeast Asia,Early,Starter,34,5799,10,52190
+2026-05-02,Southeast Asia,Early,Pro,18,2684,4,77824
+2026-05-02,Southeast Asia,Early,Team,6,847,2,66937
+2026-05-03,Japan,Mature,Starter,60,28691,16,258216
+2026-05-03,Japan,Mature,Pro,28,13409,9,388864
+2026-05-03,Japan,Mature,Team,8,4161,3,328743
+2026-05-03,Korea,Growing,Starter,42,13422,11,120802
+2026-05-03,Korea,Growing,Pro,17,6279,5,182078
+2026-05-03,Korea,Growing,Team,6,1963,2,155057
+2026-05-03,India,Scaling,Starter,102,22117,27,199051
+2026-05-03,India,Scaling,Pro,54,10324,17,299406
+2026-05-03,India,Scaling,Team,15,3176,5,250920
+2026-05-03,Southeast Asia,Early,Starter,43,5815,8,52331
+2026-05-03,Southeast Asia,Early,Pro,18,2689,4,77995
+2026-05-03,Southeast Asia,Early,Team,5,849,1,67075
+2026-05-04,Japan,Mature,Starter,88,28721,18,258490
+2026-05-04,Japan,Mature,Pro,37,13420,9,389193
+2026-05-04,Japan,Mature,Team,11,4164,3,328984
+2026-05-04,Korea,Growing,Starter,67,13447,12,121026
+2026-05-04,Korea,Growing,Pro,26,6287,6,182319
+2026-05-04,Korea,Growing,Team,9,1967,1,155369
+2026-05-04,India,Scaling,Starter,142,22160,35,199439
+2026-05-04,India,Scaling,Pro,72,10348,16,300091
+2026-05-04,India,Scaling,Team,21,3183,5,251437
+2026-05-04,Southeast Asia,Early,Starter,54,5836,8,52526
+2026-05-04,Southeast Asia,Early,Pro,27,2699,5,78281
+2026-05-04,Southeast Asia,Early,Team,8,851,2,67265
+2026-05-05,Japan,Mature,Starter,72,28746,15,258711
+2026-05-05,Japan,Mature,Pro,39,13436,6,389641
+2026-05-05,Japan,Mature,Team,12,4168,3,329268
+2026-05-05,Korea,Growing,Starter,68,13473,12,121254
+2026-05-05,Korea,Growing,Pro,30,6298,5,182652
+2026-05-05,Korea,Growing,Team,9,1970,2,155602
+2026-05-05,India,Scaling,Starter,181,22232,27,200092
+2026-05-05,India,Scaling,Pro,74,10376,13,300894
+2026-05-05,India,Scaling,Team,23,3191,4,252121
+2026-05-05,Southeast Asia,Early,Starter,60,5859,10,52733
+2026-05-05,Southeast Asia,Early,Pro,29,2710,5,78599
+2026-05-05,Southeast Asia,Early,Team,7,853,2,67411
+2026-05-06,Japan,Mature,Starter,83,28773,18,258960
+2026-05-06,Japan,Mature,Pro,35,13448,7,389996
+2026-05-06,Japan,Mature,Team,10,4170,3,329466
+2026-05-06,Korea,Growing,Starter,61,13496,10,121466
+2026-05-06,Korea,Growing,Pro,26,6308,5,182922
+2026-05-06,Korea,Growing,Team,10,1974,1,155958
+2026-05-06,India,Scaling,Starter,162,22292,30,200624
+2026-05-06,India,Scaling,Pro,74,10401,15,301639
+2026-05-06,India,Scaling,Team,23,3200,4,252804
+2026-05-06,Southeast Asia,Early,Starter,55,5880,10,52916
+2026-05-06,Southeast Asia,Early,Pro,23,2718,5,78821
+2026-05-06,Southeast Asia,Early,Team,8,857,1,67679
+2026-05-07,Japan,Mature,Starter,76,28800,15,259201
+2026-05-07,Japan,Mature,Pro,35,13458,9,390294
+2026-05-07,Japan,Mature,Team,12,4175,2,329829
+2026-05-07,Korea,Growing,Starter,63,13521,10,121688
+2026-05-07,Korea,Growing,Pro,31,6320,5,183271
+2026-05-07,Korea,Growing,Team,8,1977,2,156147
+2026-05-07,India,Scaling,Starter,190,22367,29,201303
+2026-05-07,India,Scaling,Pro,76,10426,17,302358
+2026-05-07,India,Scaling,Team,24,3208,5,253452
+2026-05-07,Southeast Asia,Early,Starter,60,5902,11,53114
+2026-05-07,Southeast Asia,Early,Pro,24,2726,5,79058
+2026-05-07,Southeast Asia,Early,Team,8,860,1,67948
+2026-05-08,Japan,Mature,Starter,85,28826,21,259433
+2026-05-08,Japan,Mature,Pro,37,13470,9,390623
+2026-05-08,Japan,Mature,Team,11,4179,2,330149
+2026-05-08,Korea,Growing,Starter,53,13541,9,121869
+2026-05-08,Korea,Growing,Pro,28,6330,5,183573
+2026-05-08,Korea,Growing,Team,9,1981,1,156460
+2026-05-08,India,Scaling,Starter,148,22418,30,201766
+2026-05-08,India,Scaling,Pro,86,10461,12,303382
+2026-05-08,India,Scaling,Team,25,3218,4,254222
+2026-05-08,Southeast Asia,Early,Starter,57,5921,12,53288
+2026-05-08,Southeast Asia,Early,Pro,26,2735,5,79328
+2026-05-08,Southeast Asia,Early,Team,8,862,2,68137
+2026-05-09,Japan,Mature,Starter,61,28842,17,259582
+2026-05-09,Japan,Mature,Pro,24,13475,8,390774
+2026-05-09,Japan,Mature,Team,8,4180,3,330259
+2026-05-09,Korea,Growing,Starter,42,13554,10,121987
+2026-05-09,Korea,Growing,Pro,19,6336,5,183731
+2026-05-09,Korea,Growing,Team,6,1982,2,156562
+2026-05-09,India,Scaling,Starter,118,22454,29,202089
+2026-05-09,India,Scaling,Pro,54,10478,13,303866
+2026-05-09,India,Scaling,Team,19,3224,4,254732
+2026-05-09,Southeast Asia,Early,Starter,40,5931,12,53378
+2026-05-09,Southeast Asia,Early,Pro,17,2740,5,79454
+2026-05-09,Southeast Asia,Early,Team,5,864,1,68276
+2026-05-10,Japan,Mature,Starter,63,28859,18,259732
+2026-05-10,Japan,Mature,Pro,29,13484,7,391033
+2026-05-10,Japan,Mature,Team,8,4182,3,330370
+2026-05-10,Korea,Growing,Starter,42,13566,11,122096
+2026-05-10,Korea,Growing,Pro,17,6339,6,183828
+2026-05-10,Korea,Growing,Team,6,1983,2,156665
+2026-05-10,India,Scaling,Starter,120,22485,35,202368
+2026-05-10,India,Scaling,Pro,61,10498,14,304433
+2026-05-10,India,Scaling,Team,17,3229,5,255075
+2026-05-10,Southeast Asia,Early,Starter,34,5942,8,53474
+2026-05-10,Southeast Asia,Early,Pro,19,2745,5,79612
+2026-05-10,Southeast Asia,Early,Team,6,867,1,68457
+2026-05-11,Japan,Mature,Starter,76,28883,18,259946
+2026-05-11,Japan,Mature,Pro,31,13492,9,391267
+2026-05-11,Japan,Mature,Team,10,4184,3,330568
+2026-05-11,Korea,Growing,Starter,55,13584,13,122252
+2026-05-11,Korea,Growing,Pro,25,6348,5,184082
+2026-05-11,Korea,Growing,Team,8,1987,1,156934
+2026-05-11,India,Scaling,Starter,177,22547,36,202920
+2026-05-11,India,Scaling,Pro,75,10524,15,305195
+2026-05-11,India,Scaling,Team,28,3239,5,255897
+2026-05-11,Southeast Asia,Early,Starter,60,5966,9,53690
+2026-05-11,Southeast Asia,Early,Pro,23,2754,4,79863
+2026-05-11,Southeast Asia,Early,Team,7,869,1,68683
+2026-05-12,Japan,Mature,Starter,78,28909,17,260179
+2026-05-12,Japan,Mature,Pro,32,13501,9,391516
+2026-05-12,Japan,Mature,Team,12,4189,2,330931
+2026-05-12,Korea,Growing,Starter,68,13610,11,122489
+2026-05-12,Korea,Growing,Pro,32,6360,5,184447
+2026-05-12,Korea,Growing,Team,10,1990,2,157210
+2026-05-12,India,Scaling,Starter,178,22614,31,203522
+2026-05-12,India,Scaling,Pro,80,10556,12,306123
+2026-05-12,India,Scaling,Team,25,3248,5,256588
+2026-05-12,Southeast Asia,Early,Starter,49,5984,9,53852
+2026-05-12,Southeast Asia,Early,Pro,24,2761,6,80072
+2026-05-12,Southeast Asia,Early,Team,8,872,2,68872
+2026-05-13,Japan,Mature,Starter,65,28929,16,260357
+2026-05-13,Japan,Mature,Pro,32,13508,10,391736
+2026-05-13,Japan,Mature,Team,11,4192,3,331172
+2026-05-13,Korea,Growing,Starter,64,13634,11,122707
+2026-05-13,Korea,Growing,Pro,24,6368,5,184685
+2026-05-13,Korea,Growing,Team,10,1994,2,157487
+2026-05-13,India,Scaling,Starter,177,22678,33,204102
+2026-05-13,India,Scaling,Pro,85,10591,12,307130
+2026-05-13,India,Scaling,Team,25,3257,5,257279
+2026-05-13,Southeast Asia,Early,Starter,61,6006,11,54054
+2026-05-13,Southeast Asia,Early,Pro,27,2771,5,80358
+2026-05-13,Southeast Asia,Early,Team,7,875,1,69097
+2026-05-14,Japan,Mature,Starter,83,28954,20,260588
+2026-05-14,Japan,Mature,Pro,37,13520,8,392094
+2026-05-14,Japan,Mature,Team,10,4195,3,331369
+2026-05-14,Korea,Growing,Starter,68,13663,9,122963
+2026-05-14,Korea,Growing,Pro,31,6380,5,185034
+2026-05-14,Korea,Growing,Team,8,1996,2,157676
+2026-05-14,India,Scaling,Starter,162,22731,36,204579
+2026-05-14,India,Scaling,Pro,69,10617,12,307883
+2026-05-14,India,Scaling,Team,23,3264,5,257884
+2026-05-14,Southeast Asia,Early,Starter,56,6025,12,54224
+2026-05-14,Southeast Asia,Early,Pro,24,2779,5,80595
+2026-05-14,Southeast Asia,Early,Team,8,877,2,69287
+2026-05-15,Japan,Mature,Starter,74,28975,20,260774
+2026-05-15,Japan,Mature,Pro,31,13529,9,392328
+2026-05-15,Japan,Mature,Team,12,4199,2,331733
+2026-05-15,Korea,Growing,Starter,58,13684,10,123160
+2026-05-15,Korea,Growing,Pro,26,6390,5,185304
+2026-05-15,Korea,Growing,Team,7,1998,2,157822
+2026-05-15,India,Scaling,Starter,182,22795,36,205156
+2026-05-15,India,Scaling,Pro,81,10648,13,308798
+2026-05-15,India,Scaling,Team,23,3273,4,258567
+2026-05-15,Southeast Asia,Early,Starter,63,6049,11,54437
+2026-05-15,Southeast Asia,Early,Pro,23,2787,5,80817
+2026-05-15,Southeast Asia,Early,Team,8,880,1,69556
+2026-05-16,Japan,Mature,Starter,62,28995,14,260955
+2026-05-16,Japan,Mature,Pro,27,13535,8,392527
+2026-05-16,Japan,Mature,Team,7,4201,2,331879
+2026-05-16,Korea,Growing,Starter,46,13698,12,123279
+2026-05-16,Korea,Growing,Pro,20,6396,5,185478
+2026-05-16,Korea,Growing,Team,6,1999,2,157925
+2026-05-16,India,Scaling,Starter,107,22829,25,205461
+2026-05-16,India,Scaling,Pro,57,10666,14,309301
+2026-05-16,India,Scaling,Team,17,3278,4,258990
+2026-05-16,Southeast Asia,Early,Starter,43,6063,9,54568
+2026-05-16,Southeast Asia,Early,Pro,17,2792,4,80972
+2026-05-16,Southeast Asia,Early,Team,6,883,1,69737
+2026-05-17,Japan,Mature,Starter,53,29009,15,261082
+2026-05-17,Japan,Mature,Pro,29,13543,8,392757
+2026-05-17,Japan,Mature,Team,7,4203,2,332025
+2026-05-17,Korea,Growing,Starter,47,13714,10,123422
+2026-05-17,Korea,Growing,Pro,19,6401,5,185636
+2026-05-17,Korea,Growing,Team,6,2001,1,158107
+2026-05-17,India,Scaling,Starter,117,22861,32,205752
+2026-05-17,India,Scaling,Pro,57,10683,14,309804
+2026-05-17,India,Scaling,Team,17,3283,5,259333
+2026-05-17,Southeast Asia,Early,Starter,40,6076,9,54685
+2026-05-17,Southeast Asia,Early,Pro,18,2797,5,81114
+2026-05-17,Southeast Asia,Early,Team,5,883,2,69796
+2026-05-18,Japan,Mature,Starter,86,29039,17,261355
+2026-05-18,Japan,Mature,Pro,31,13553,7,393049
+2026-05-18,Japan,Mature,Team,12,4207,2,332389
+2026-05-18,Korea,Growing,Starter,51,13730,12,123566
+2026-05-18,Korea,Growing,Pro,26,6411,5,185906
+2026-05-18,Korea,Growing,Team,8,2004,2,158296
+2026-05-18,India,Scaling,Starter,163,22918,33,206262
+2026-05-18,India,Scaling,Pro,74,10708,16,310520
+2026-05-18,India,Scaling,Team,23,3290,5,259938
+2026-05-18,Southeast Asia,Early,Starter,53,6096,9,54867
+2026-05-18,Southeast Asia,Early,Pro,24,2806,4,81381
+2026-05-18,Southeast Asia,Early,Team,9,886,2,70030
+2026-05-19,Japan,Mature,Starter,70,29060,18,261540
+2026-05-19,Japan,Mature,Pro,36,13564,9,393362
+2026-05-19,Japan,Mature,Team,11,4210,3,332630
+2026-05-19,Korea,Growing,Starter,67,13754,12,123790
+2026-05-19,Korea,Growing,Pro,30,6421,6,186210
+2026-05-19,Korea,Growing,Team,8,2006,2,158486
+2026-05-19,India,Scaling,Starter,179,22989,27,206905
+2026-05-19,India,Scaling,Pro,71,10732,15,311218
+2026-05-19,India,Scaling,Team,26,3300,5,260672
+2026-05-19,Southeast Asia,Early,Starter,62,6121,9,55093
+2026-05-19,Southeast Asia,Early,Pro,23,2815,4,81632
+2026-05-19,Southeast Asia,Early,Team,8,889,2,70219
+2026-05-20,Japan,Mature,Starter,69,29079,19,261710
+2026-05-20,Japan,Mature,Pro,35,13576,7,393717
+2026-05-20,Japan,Mature,Team,10,4214,2,332906
+2026-05-20,Korea,Growing,Starter,53,13773,11,123953
+2026-05-20,Korea,Growing,Pro,28,6431,5,186512
+2026-05-20,Korea,Growing,Team,8,2009,2,158675
+2026-05-20,India,Scaling,Starter,159,23050,27,207449
+2026-05-20,India,Scaling,Pro,85,10766,12,312226
+2026-05-20,India,Scaling,Team,23,3308,4,261356
+2026-05-20,Southeast Asia,Early,Starter,64,6145,12,55301
+2026-05-20,Southeast Asia,Early,Pro,30,2827,4,81995
+2026-05-20,Southeast Asia,Early,Team,8,891,2,70409
+2026-05-21,Japan,Mature,Starter,77,29107,14,261965
+2026-05-21,Japan,Mature,Pro,36,13586,10,394001
+2026-05-21,Japan,Mature,Team,9,4216,3,333060
+2026-05-21,Korea,Growing,Starter,62,13794,13,124143
+2026-05-21,Korea,Growing,Pro,28,6441,6,186785
+2026-05-21,Korea,Growing,Team,8,2011,2,158865
+2026-05-21,India,Scaling,Starter,158,23100,37,207898
+2026-05-21,India,Scaling,Pro,87,10800,14,313207
+2026-05-21,India,Scaling,Team,22,3316,4,261996
+2026-05-21,Southeast Asia,Early,Starter,50,6162,10,55459
+2026-05-21,Southeast Asia,Early,Pro,27,2838,4,82309
+2026-05-21,Southeast Asia,Early,Team,8,894,2,70598
+2026-05-22,Japan,Mature,Starter,79,29134,17,262203
+2026-05-22,Japan,Mature,Pro,31,13595,8,394264
+2026-05-22,Japan,Mature,Team,11,4220,2,333380
+2026-05-22,Korea,Growing,Starter,66,13818,12,124362
+2026-05-22,Korea,Growing,Pro,30,6452,5,187118
+2026-05-22,Korea,Growing,Team,9,2014,2,159098
+2026-05-22,India,Scaling,Starter,151,23156,27,208403
+2026-05-22,India,Scaling,Pro,71,10823,16,313876
+2026-05-22,India,Scaling,Team,23,3324,5,262600
+2026-05-22,Southeast Asia,Early,Starter,49,6180,9,55620
+2026-05-22,Southeast Asia,Early,Pro,24,2846,5,82547
+2026-05-22,Southeast Asia,Early,Team,7,895,2,70744
+2026-05-23,Japan,Mature,Starter,53,29147,16,262322
+2026-05-23,Japan,Mature,Pro,29,13603,8,394494
+2026-05-23,Japan,Mature,Team,8,4222,2,333570
+2026-05-23,Korea,Growing,Starter,40,13828,12,124452
+2026-05-23,Korea,Growing,Pro,20,6459,4,187321
+2026-05-23,Korea,Growing,Team,7,2016,2,159244
+2026-05-23,India,Scaling,Starter,105,23178,36,208598
+2026-05-23,India,Scaling,Pro,65,10844,15,314477
+2026-05-23,India,Scaling,Team,16,3329,4,262979
+2026-05-23,Southeast Asia,Early,Starter,45,6195,10,55753
+2026-05-23,Southeast Asia,Early,Pro,19,2853,4,82734
+2026-05-23,Southeast Asia,Early,Team,6,897,2,70847
+2026-05-24,Japan,Mature,Starter,57,29161,17,262451
+2026-05-24,Japan,Mature,Pro,24,13606,10,394587
+2026-05-24,Japan,Mature,Team,8,4225,2,333759
+2026-05-24,Korea,Growing,Starter,45,13841,12,124567
+2026-05-24,Korea,Growing,Pro,22,6465,6,187498
+2026-05-24,Korea,Growing,Team,7,2018,2,159390
+2026-05-24,India,Scaling,Starter,124,23216,30,208942
+2026-05-24,India,Scaling,Pro,62,10864,14,315060
+2026-05-24,India,Scaling,Team,20,3336,4,263532
+2026-05-24,Southeast Asia,Early,Starter,35,6202,12,55818
+2026-05-24,Southeast Asia,Early,Pro,19,2858,5,82892
+2026-05-24,Southeast Asia,Early,Team,6,898,2,70950
+2026-05-25,Japan,Mature,Starter,80,29189,16,262703
+2026-05-25,Japan,Mature,Pro,35,13619,7,394942
+2026-05-25,Japan,Mature,Team,13,4229,3,334087
+2026-05-25,Korea,Growing,Starter,63,13863,12,124771
+2026-05-25,Korea,Growing,Pro,32,6478,5,187863
+2026-05-25,Korea,Growing,Team,8,2020,2,159580
+2026-05-25,India,Scaling,Starter,163,23279,26,209515
+2026-05-25,India,Scaling,Pro,88,10901,12,316116
+2026-05-25,India,Scaling,Team,23,3345,4,264216
+2026-05-25,Southeast Asia,Early,Starter,55,6222,10,56001
+2026-05-25,Southeast Asia,Early,Pro,29,2869,5,83210
+2026-05-25,Southeast Asia,Early,Team,10,902,2,71226
+2026-05-26,Japan,Mature,Starter,86,29220,17,262976
+2026-05-26,Japan,Mature,Pro,35,13631,7,395298
+2026-05-26,Japan,Mature,Team,11,4232,3,334328
+2026-05-26,Korea,Growing,Starter,57,13885,10,124963
+2026-05-26,Korea,Growing,Pro,27,6487,6,188120
+2026-05-26,Korea,Growing,Team,8,2022,2,159770
+2026-05-26,India,Scaling,Starter,165,23342,28,210080
+2026-05-26,India,Scaling,Pro,74,10924,17,316803
+2026-05-26,India,Scaling,Team,28,3355,5,265037
+2026-05-26,Southeast Asia,Early,Starter,63,6247,10,56223
+2026-05-26,Southeast Asia,Early,Pro,24,2877,5,83447
+2026-05-26,Southeast Asia,Early,Team,9,906,1,71538
+2026-05-27,Japan,Mature,Starter,66,29235,21,263113
+2026-05-27,Japan,Mature,Pro,39,13644,8,395688
+2026-05-27,Japan,Mature,Team,10,4235,2,334604
+2026-05-27,Korea,Growing,Starter,62,13906,13,125153
+2026-05-27,Korea,Growing,Pro,27,6496,6,188377
+2026-05-27,Korea,Growing,Team,8,2026,1,160038
+2026-05-27,India,Scaling,Starter,147,23389,34,210501
+2026-05-27,India,Scaling,Pro,83,10958,12,317779
+2026-05-27,India,Scaling,Team,24,3363,5,265685
+2026-05-27,Southeast Asia,Early,Starter,58,6268,11,56411
+2026-05-27,Southeast Asia,Early,Pro,30,2890,4,83810
+2026-05-27,Southeast Asia,Early,Team,9,909,1,71850
+2026-05-28,Japan,Mature,Starter,84,29260,21,263340
+2026-05-28,Japan,Mature,Pro,35,13655,9,395985
+2026-05-28,Japan,Mature,Team,11,4239,3,334845
+2026-05-28,Korea,Growing,Starter,62,13927,13,125343
+2026-05-28,Korea,Growing,Pro,31,6509,4,188755
+2026-05-28,Korea,Growing,Team,8,2029,1,160307
+2026-05-28,India,Scaling,Starter,185,23453,38,211075
+2026-05-28,India,Scaling,Pro,84,10991,13,318742
+2026-05-28,India,Scaling,Team,29,3374,5,266550
+2026-05-28,Southeast Asia,Early,Starter,50,6284,11,56559
+2026-05-28,Southeast Asia,Early,Pro,30,2901,5,84143
+2026-05-28,Southeast Asia,Early,Team,9,912,2,72084
+2026-05-29,Japan,Mature,Starter,71,29278,21,263502
+2026-05-29,Japan,Mature,Pro,40,13670,7,396420
+2026-05-29,Japan,Mature,Team,13,4243,3,335173
+2026-05-29,Korea,Growing,Starter,52,13943,13,125483
+2026-05-29,Korea,Growing,Pro,26,6518,5,189025
+2026-05-29,Korea,Growing,Team,9,2032,2,160540
+2026-05-29,India,Scaling,Starter,164,23513,30,211617
+2026-05-29,India,Scaling,Pro,87,11024,15,319695
+2026-05-29,India,Scaling,Team,25,3384,4,267320
+2026-05-29,Southeast Asia,Early,Starter,49,6301,10,56712
+2026-05-29,Southeast Asia,Early,Pro,23,2910,4,84394
+2026-05-29,Southeast Asia,Early,Team,8,915,2,72273
+2026-05-30,Japan,Mature,Starter,60,29292,19,263628
+2026-05-30,Japan,Mature,Pro,29,13678,8,396650
+2026-05-30,Japan,Mature,Team,9,4245,3,335327
+2026-05-30,Korea,Growing,Starter,45,13954,13,125589
+2026-05-30,Korea,Growing,Pro,23,6526,5,189247
+2026-05-30,Korea,Growing,Team,7,2034,2,160686
+2026-05-30,India,Scaling,Starter,125,23550,32,211948
+2026-05-30,India,Scaling,Pro,53,11036,17,320047
+2026-05-30,India,Scaling,Team,21,3389,6,267759
+2026-05-30,Southeast Asia,Early,Starter,42,6315,9,56839
+2026-05-30,Southeast Asia,Early,Pro,20,2916,5,84568
+2026-05-30,Southeast Asia,Early,Team,6,916,2,72376
+2026-05-31,Japan,Mature,Starter,54,29302,20,263716
+2026-05-31,Japan,Mature,Pro,28,13684,9,396836
+2026-05-31,Japan,Mature,Team,7,4245,3,335394
+2026-05-31,Korea,Growing,Starter,39,13965,11,125683
+2026-05-31,Korea,Growing,Pro,18,6530,6,189360
+2026-05-31,Korea,Growing,Team,7,2036,2,160832
+2026-05-31,India,Scaling,Starter,135,23588,36,212292
+2026-05-31,India,Scaling,Pro,58,11051,17,320479
+2026-05-31,India,Scaling,Team,15,3394,4,268094
+2026-05-31,Southeast Asia,Early,Starter,48,6330,12,56968
+2026-05-31,Southeast Asia,Early,Pro,21,2923,5,84758
+2026-05-31,Southeast Asia,Early,Team,5,917,2,72435
+2026-06-01,Japan,Mature,Starter,67,29322,17,263894
+2026-06-01,Japan,Mature,Pro,37,13694,10,397136
+2026-06-01,Japan,Mature,Team,10,4248,3,335592
+2026-06-01,Korea,Growing,Starter,66,13992,9,125928
+2026-06-01,Korea,Growing,Pro,25,6538,5,189614
+2026-06-01,Korea,Growing,Team,10,2040,1,161188
+2026-06-01,India,Scaling,Starter,156,23643,31,212785
+2026-06-01,India,Scaling,Pro,74,11078,14,321253
+2026-06-01,India,Scaling,Team,29,3406,4,269038
+2026-06-01,Southeast Asia,Early,Starter,59,6351,11,57161
+2026-06-01,Southeast Asia,Early,Pro,30,2934,5,85092
+2026-06-01,Southeast Asia,Early,Team,9,921,1,72747
+2026-06-02,Japan,Mature,Starter,88,29352,18,264168
+2026-06-02,Japan,Mature,Pro,38,13707,8,397510
+2026-06-02,Japan,Mature,Team,12,4253,2,335955
+2026-06-02,Korea,Growing,Starter,53,14009,12,126083
+2026-06-02,Korea,Growing,Pro,25,6547,5,189867
+2026-06-02,Korea,Growing,Team,10,2045,1,161543
+2026-06-02,India,Scaling,Starter,153,23694,33,213246
+2026-06-02,India,Scaling,Pro,84,11109,15,322158
+2026-06-02,India,Scaling,Team,23,3413,5,269643
+2026-06-02,Southeast Asia,Early,Starter,52,6370,10,57329
+2026-06-02,Southeast Asia,Early,Pro,26,2944,4,85390
+2026-06-02,Southeast Asia,Early,Team,8,923,2,72937
+2026-06-03,Japan,Mature,Starter,77,29380,14,264423
+2026-06-03,Japan,Mature,Pro,31,13716,8,397773
+2026-06-03,Japan,Mature,Team,11,4256,3,336196
+2026-06-03,Korea,Growing,Starter,69,14034,13,126307
+2026-06-03,Korea,Growing,Pro,32,6560,5,190233
+2026-06-03,Korea,Growing,Team,9,2048,2,161776
+2026-06-03,India,Scaling,Starter,184,23764,31,213877
+2026-06-03,India,Scaling,Pro,84,11140,15,323063
+2026-06-03,India,Scaling,Team,26,3423,5,270378
+2026-06-03,Southeast Asia,Early,Starter,60,6394,9,57545
+2026-06-03,Southeast Asia,Early,Pro,30,2956,5,85724
+2026-06-03,Southeast Asia,Early,Team,8,926,2,73126
+2026-06-04,Japan,Mature,Starter,77,29409,14,264678
+2026-06-04,Japan,Mature,Pro,41,13730,9,398166
+2026-06-04,Japan,Mature,Team,10,4259,2,336473
+2026-06-04,Korea,Growing,Starter,69,14059,13,126532
+2026-06-04,Korea,Growing,Pro,30,6571,5,190566
+2026-06-04,Korea,Growing,Team,8,2050,2,161966
+2026-06-04,India,Scaling,Starter,173,23822,37,214401
+2026-06-04,India,Scaling,Pro,87,11171,17,323958
+2026-06-04,India,Scaling,Team,28,3434,4,271278
+2026-06-04,Southeast Asia,Early,Starter,53,6413,10,57717
+2026-06-04,Southeast Asia,Early,Pro,28,2966,5,86026
+2026-06-04,Southeast Asia,Early,Team,8,929,1,73395
+2026-06-05,Japan,Mature,Starter,88,29440,17,264961
+2026-06-05,Japan,Mature,Pro,39,13744,7,398585
+2026-06-05,Japan,Mature,Team,10,4263,2,336749
+2026-06-05,Korea,Growing,Starter,65,14083,12,126746
+2026-06-05,Korea,Growing,Pro,27,6581,5,190852
+2026-06-05,Korea,Growing,Team,9,2053,2,162199
+2026-06-05,India,Scaling,Starter,186,23892,33,215024
+2026-06-05,India,Scaling,Pro,86,11203,15,324894
+2026-06-05,India,Scaling,Team,23,3442,5,271882
+2026-06-05,Southeast Asia,Early,Starter,53,6430,12,57871
+2026-06-05,Southeast Asia,Early,Pro,26,2977,4,86324
+2026-06-05,Southeast Asia,Early,Team,9,932,2,73628
+2026-06-06,Japan,Mature,Starter,54,29450,20,265048
+2026-06-06,Japan,Mature,Pro,23,13750,7,398749
+2026-06-06,Japan,Mature,Team,7,4264,3,336816
+2026-06-06,Korea,Growing,Starter,38,14093,11,126835
+2026-06-06,Korea,Growing,Pro,20,6588,4,191055
+2026-06-06,Korea,Growing,Team,7,2055,2,162345
+2026-06-06,India,Scaling,Starter,118,23926,31,215330
+2026-06-06,India,Scaling,Pro,63,11221,17,325406
+2026-06-06,India,Scaling,Team,18,3447,4,272349
+2026-06-06,Southeast Asia,Early,Starter,41,6441,12,57966
+2026-06-06,Southeast Asia,Early,Pro,19,2982,5,86482
+2026-06-06,Southeast Asia,Early,Team,6,934,1,73810
+2026-06-07,Japan,Mature,Starter,55,29459,21,265131
+2026-06-07,Japan,Mature,Pro,27,13758,7,398976
+2026-06-07,Japan,Mature,Team,8,4265,3,336927
+2026-06-07,Korea,Growing,Starter,45,14105,13,126941
+2026-06-07,Korea,Growing,Pro,18,6594,4,191226
+2026-06-07,Korea,Growing,Team,7,2057,2,162491
+2026-06-07,India,Scaling,Starter,125,23956,38,215606
+2026-06-07,India,Scaling,Pro,60,11238,16,325899
+2026-06-07,India,Scaling,Team,19,3454,4,272858
+2026-06-07,Southeast Asia,Early,Starter,42,6453,11,58075
+2026-06-07,Southeast Asia,Early,Pro,19,2989,4,86669
+2026-06-07,Southeast Asia,Early,Team,5,935,2,73869
+2026-06-08,Japan,Mature,Starter,88,29488,19,265396
+2026-06-08,Japan,Mature,Pro,40,13770,10,399324
+2026-06-08,Japan,Mature,Team,12,4268,3,337212
+2026-06-08,Korea,Growing,Starter,65,14130,10,127172
+2026-06-08,Korea,Growing,Pro,28,6604,5,191528
+2026-06-08,Korea,Growing,Team,10,2060,2,162768
+2026-06-08,India,Scaling,Starter,199,24037,29,216330
+2026-06-08,India,Scaling,Pro,77,11262,18,326605
+2026-06-08,India,Scaling,Team,28,3465,4,273759
+2026-06-08,Southeast Asia,Early,Starter,65,6477,12,58289
+2026-06-08,Southeast Asia,Early,Pro,28,2998,6,86942
+2026-06-08,Southeast Asia,Early,Team,9,938,2,74102
+2026-06-09,Japan,Mature,Starter,69,29510,16,265594
+2026-06-09,Japan,Mature,Pro,36,13783,7,399695
+2026-06-09,Japan,Mature,Team,10,4271,3,337409
+2026-06-09,Korea,Growing,Starter,54,14147,13,127323
+2026-06-09,Korea,Growing,Pro,33,6617,6,191880
+2026-06-09,Korea,Growing,Team,9,2063,2,163001
+2026-06-09,India,Scaling,Starter,184,24107,31,216962
+2026-06-09,India,Scaling,Pro,80,11291,15,327446
+2026-06-09,India,Scaling,Team,25,3474,5,274450
+2026-06-09,Southeast Asia,Early,Starter,55,6498,9,58480
+2026-06-09,Southeast Asia,Early,Pro,26,3007,5,87212
+2026-06-09,Southeast Asia,Early,Team,10,941,2,74378
+2026-06-10,Japan,Mature,Starter,74,29533,18,265798
+2026-06-10,Japan,Mature,Pro,39,13794,10,400027
+2026-06-10,Japan,Mature,Team,13,4276,2,337816
+2026-06-10,Korea,Growing,Starter,69,14175,10,127574
+2026-06-10,Korea,Growing,Pro,32,6628,6,192216
+2026-06-10,Korea,Growing,Team,8,2066,2,163190
+2026-06-10,India,Scaling,Starter,158,24164,30,217474
+2026-06-10,India,Scaling,Pro,78,11317,17,328197
+2026-06-10,India,Scaling,Team,26,3483,5,275185
+2026-06-10,Southeast Asia,Early,Starter,61,6521,10,58692
+2026-06-10,Southeast Asia,Early,Pro,28,3017,6,87484
+2026-06-10,Southeast Asia,Early,Team,8,944,2,74568
+2026-06-11,Japan,Mature,Starter,76,29559,16,266030
+2026-06-11,Japan,Mature,Pro,36,13806,8,400370
+2026-06-11,Japan,Mature,Team,11,4279,3,338057
+2026-06-11,Korea,Growing,Starter,59,14196,11,127767
+2026-06-11,Korea,Growing,Pro,30,6640,5,192550
+2026-06-11,Korea,Growing,Team,9,2070,1,163502
+2026-06-11,India,Scaling,Starter,186,24238,28,218143
+2026-06-11,India,Scaling,Pro,77,11345,14,329019
+2026-06-11,India,Scaling,Team,23,3491,5,275789
+2026-06-11,Southeast Asia,Early,Starter,61,6544,11,58895
+2026-06-11,Southeast Asia,Early,Pro,25,3025,5,87738
+2026-06-11,Southeast Asia,Early,Team,9,948,1,74880
+2026-06-12,Japan,Mature,Starter,71,29578,20,266202
+2026-06-12,Japan,Mature,Pro,31,13815,8,400632
+2026-06-12,Japan,Mature,Team,13,4284,2,338464
+2026-06-12,Korea,Growing,Starter,69,14222,12,128001
+2026-06-12,Korea,Growing,Pro,25,6647,6,192775
+2026-06-12,Korea,Growing,Team,9,2074,1,163814
+2026-06-12,India,Scaling,Starter,183,24308,31,218770
+2026-06-12,India,Scaling,Pro,88,11375,19,329872
+2026-06-12,India,Scaling,Team,27,3500,6,276488
+2026-06-12,Southeast Asia,Early,Starter,64,6569,10,59122
+2026-06-12,Southeast Asia,Early,Pro,26,3034,6,87979
+2026-06-12,Southeast Asia,Early,Team,10,952,1,75236
+2026-06-13,Japan,Mature,Starter,58,29595,15,266354
+2026-06-13,Japan,Mature,Pro,24,13819,9,400754
+2026-06-13,Japan,Mature,Team,7,4286,2,338610
+2026-06-13,Korea,Growing,Starter,40,14234,10,128109
+2026-06-13,Korea,Growing,Pro,19,6652,6,192904
+2026-06-13,Korea,Growing,Team,7,2076,1,164040
+2026-06-13,India,Scaling,Starter,120,24347,27,219121
+2026-06-13,India,Scaling,Pro,57,11391,15,330346
+2026-06-13,India,Scaling,Team,17,3505,4,276911
+2026-06-13,Southeast Asia,Early,Starter,47,6586,9,59274
+2026-06-13,Southeast Asia,Early,Pro,18,3038,6,88092
+2026-06-13,Southeast Asia,Early,Team,7,955,1,75461
+2026-06-14,Japan,Mature,Starter,54,29607,18,266459
+2026-06-14,Japan,Mature,Pro,26,13825,8,400937
+2026-06-14,Japan,Mature,Team,7,4287,3,338677
+2026-06-14,Korea,Growing,Starter,49,14248,13,128234
+2026-06-14,Korea,Growing,Pro,18,6656,6,193017
+2026-06-14,Korea,Growing,Team,6,2078,2,164142
+2026-06-14,India,Scaling,Starter,124,24382,33,219438
+2026-06-14,India,Scaling,Pro,57,11406,17,330762
+2026-06-14,India,Scaling,Team,16,3508,6,277132
+2026-06-14,Southeast Asia,Early,Starter,41,6598,11,59378
+2026-06-14,Southeast Asia,Early,Pro,20,3044,5,88266
+2026-06-14,Southeast Asia,Early,Team,7,957,2,75607
+2026-06-15,Japan,Mature,Starter,85,29633,20,266700
+2026-06-15,Japan,Mature,Pro,41,13839,9,401330
+2026-06-15,Japan,Mature,Team,11,4291,2,338997
+2026-06-15,Korea,Growing,Starter,63,14270,13,128429
+2026-06-15,Korea,Growing,Pro,26,6664,6,193257
+2026-06-15,Korea,Growing,Team,10,2081,2,164419
+2026-06-15,India,Scaling,Starter,159,24442,27,219982
+2026-06-15,India,Scaling,Pro,92,11438,18,331708
+2026-06-15,India,Scaling,Team,29,3519,5,277997
+2026-06-15,Southeast Asia,Early,Starter,63,6620,12,59581
+2026-06-15,Southeast Asia,Early,Pro,31,3055,6,88586
+2026-06-15,Southeast Asia,Early,Team,10,962,1,75962
+2026-06-16,Japan,Mature,Starter,83,29659,20,266931
+2026-06-16,Japan,Mature,Pro,33,13850,7,401653
+2026-06-16,Japan,Mature,Team,10,4295,2,339273
+2026-06-16,Korea,Growing,Starter,57,14288,13,128594
+2026-06-16,Korea,Growing,Pro,27,6674,5,193543
+2026-06-16,Korea,Growing,Team,10,2085,2,164695
+2026-06-16,India,Scaling,Starter,154,24498,29,220483
+2026-06-16,India,Scaling,Pro,87,11470,16,332631
+2026-06-16,India,Scaling,Team,25,3528,5,278688
+2026-06-16,Southeast Asia,Early,Starter,60,6644,9,59797
+2026-06-16,Southeast Asia,Early,Pro,24,3063,5,88824
+2026-06-16,Southeast Asia,Early,Team,10,966,1,76318
+2026-06-17,Japan,Mature,Starter,76,29680,21,267118
+2026-06-17,Japan,Mature,Pro,31,13860,7,401944
+2026-06-17,Japan,Mature,Team,13,4299,3,339601
+2026-06-17,Korea,Growing,Starter,53,14306,11,128758
+2026-06-17,Korea,Growing,Pro,26,6682,6,193784
+2026-06-17,Korea,Growing,Team,9,2088,2,164928
+2026-06-17,India,Scaling,Starter,177,24565,30,221089
+2026-06-17,India,Scaling,Pro,79,11496,17,333398
+2026-06-17,India,Scaling,Team,26,3537,5,279423
+2026-06-17,Southeast Asia,Early,Starter,56,6663,12,59967
+2026-06-17,Southeast Asia,Early,Pro,30,3073,6,89129
+2026-06-17,Southeast Asia,Early,Team,9,969,2,76551
+2026-06-18,Japan,Mature,Starter,75,29703,18,267327
+2026-06-18,Japan,Mature,Pro,32,13870,8,402223
+2026-06-18,Japan,Mature,Team,13,4303,3,339929
+2026-06-18,Korea,Growing,Starter,55,14324,13,128913
+2026-06-18,Korea,Growing,Pro,28,6693,5,194085
+2026-06-18,Korea,Growing,Team,10,2092,1,165284
+2026-06-18,India,Scaling,Starter,161,24614,40,221526
+2026-06-18,India,Scaling,Pro,81,11526,15,334255
+2026-06-18,India,Scaling,Team,23,3544,6,279948
+2026-06-18,Southeast Asia,Early,Starter,58,6685,10,60164
+2026-06-18,Southeast Asia,Early,Pro,29,3084,5,89446
+2026-06-18,Southeast Asia,Early,Team,9,972,2,76784
+2026-06-19,Japan,Mature,Starter,70,29727,15,267539
+2026-06-19,Japan,Mature,Pro,32,13878,9,402472
+2026-06-19,Japan,Mature,Team,10,4306,2,340206
+2026-06-19,Korea,Growing,Starter,62,14348,10,129130
+2026-06-19,Korea,Growing,Pro,29,6704,5,194403
+2026-06-19,Korea,Growing,Team,8,2096,1,165552
+2026-06-19,India,Scaling,Starter,185,24683,33,222145
+2026-06-19,India,Scaling,Pro,78,11553,16,335036
+2026-06-19,India,Scaling,Team,23,3551,5,280553
+2026-06-19,Southeast Asia,Early,Starter,66,6711,10,60400
+2026-06-19,Southeast Asia,Early,Pro,29,3094,6,89735
+2026-06-19,Southeast Asia,Early,Team,10,975,2,77061
+2026-06-20,Japan,Mature,Starter,57,29743,15,267686
+2026-06-20,Japan,Mature,Pro,22,13881,9,402562
+2026-06-20,Japan,Mature,Team,8,4308,3,340316
+2026-06-20,Korea,Growing,Starter,41,14359,11,129234
+2026-06-20,Korea,Growing,Pro,18,6707,6,194516
+2026-06-20,Korea,Growing,Team,6,2097,2,165655
+2026-06-20,India,Scaling,Starter,137,24729,29,222562
+2026-06-20,India,Scaling,Pro,70,11575,16,335688
+2026-06-20,India,Scaling,Team,21,3559,4,281149
+2026-06-20,Southeast Asia,Early,Starter,41,6723,11,60504
+2026-06-20,Southeast Asia,Early,Pro,24,3102,5,89972
+2026-06-20,Southeast Asia,Early,Team,7,977,2,77207
+2026-06-21,Japan,Mature,Starter,50,29754,16,267789
+2026-06-21,Japan,Mature,Pro,26,13888,8,402745
+2026-06-21,Japan,Mature,Team,8,4309,3,340427
+2026-06-21,Korea,Growing,Starter,50,14377,10,129391
+2026-06-21,Korea,Growing,Pro,24,6716,5,194754
+2026-06-21,Korea,Growing,Team,6,2098,2,165758
+2026-06-21,India,Scaling,Starter,138,24768,37,222912
+2026-06-21,India,Scaling,Pro,52,11585,19,335966
+2026-06-21,India,Scaling,Team,22,3565,6,281631
+2026-06-21,Southeast Asia,Early,Starter,40,6732,13,60585
+2026-06-21,Southeast Asia,Early,Pro,20,3107,6,90117
+2026-06-21,Southeast Asia,Early,Team,6,979,2,77309
+2026-06-22,Japan,Mature,Starter,81,29783,16,268046
+2026-06-22,Japan,Mature,Pro,32,13898,7,403052
+2026-06-22,Japan,Mature,Team,11,4312,3,340668
+2026-06-22,Korea,Growing,Starter,61,14398,12,129585
+2026-06-22,Korea,Growing,Pro,26,6725,5,195024
+2026-06-22,Korea,Growing,Team,8,2101,2,165947
+2026-06-22,India,Scaling,Starter,190,24835,38,223511
+2026-06-22,India,Scaling,Pro,85,11617,15,336887
+2026-06-22,India,Scaling,Team,26,3574,5,282366
+2026-06-22,Southeast Asia,Early,Starter,55,6748,14,60732
+2026-06-22,Southeast Asia,Early,Pro,27,3117,5,90403
+2026-06-22,Southeast Asia,Early,Team,9,982,2,77542
+2026-06-23,Japan,Mature,Starter,77,29806,19,268256
+2026-06-23,Japan,Mature,Pro,35,13908,10,403320
+2026-06-23,Japan,Mature,Team,11,4316,2,340988
+2026-06-23,Korea,Growing,Starter,66,14422,13,129795
+2026-06-23,Korea,Growing,Pro,33,6738,5,195405
+2026-06-23,Korea,Growing,Team,9,2104,2,166180
+2026-06-23,India,Scaling,Starter,175,24898,33,224080
+2026-06-23,India,Scaling,Pro,83,11646,16,337747
+2026-06-23,India,Scaling,Team,25,3583,5,283057
+2026-06-23,Southeast Asia,Early,Starter,63,6770,13,60926
+2026-06-23,Southeast Asia,Early,Pro,25,3126,5,90657
+2026-06-23,Southeast Asia,Early,Team,9,984,2,77775
+2026-06-24,Japan,Mature,Starter,81,29836,15,268522
+2026-06-24,Japan,Mature,Pro,41,13921,9,403713
+2026-06-24,Japan,Mature,Team,13,4320,3,341316
+2026-06-24,Korea,Growing,Starter,70,14448,12,130033
+2026-06-24,Korea,Growing,Pro,25,6747,5,195659
+2026-06-24,Korea,Growing,Team,9,2107,2,166414
+2026-06-24,India,Scaling,Starter,169,24963,28,224664
+2026-06-24,India,Scaling,Pro,80,11675,15,338588
+2026-06-24,India,Scaling,Team,26,3592,5,283792
+2026-06-24,Southeast Asia,Early,Starter,59,6789,13,61101
+2026-06-24,Southeast Asia,Early,Pro,26,3135,5,90927
+2026-06-24,Southeast Asia,Early,Team,9,987,2,78009
+2026-06-25,Japan,Mature,Starter,73,29855,21,268695
+2026-06-25,Japan,Mature,Pro,32,13930,9,403963
+2026-06-25,Japan,Mature,Team,12,4324,3,341600
+2026-06-25,Korea,Growing,Starter,62,14470,12,130232
+2026-06-25,Korea,Growing,Pro,27,6756,6,195915
+2026-06-25,Korea,Growing,Team,10,2110,2,166690
+2026-06-25,India,Scaling,Starter,186,25037,28,225333
+2026-06-25,India,Scaling,Pro,82,11705,16,339432
+2026-06-25,India,Scaling,Team,24,3601,5,284440
+2026-06-25,Southeast Asia,Early,Starter,55,6808,11,61275
+2026-06-25,Southeast Asia,Early,Pro,27,3144,6,91183
+2026-06-25,Southeast Asia,Early,Team,9,991,1,78321
+2026-06-26,Japan,Mature,Starter,83,29881,20,268925
+2026-06-26,Japan,Mature,Pro,35,13942,7,404318
+2026-06-26,Japan,Mature,Team,12,4329,2,341963
+2026-06-26,Korea,Growing,Starter,67,14496,11,130465
+2026-06-26,Korea,Growing,Pro,32,6768,5,196281
+2026-06-26,Korea,Growing,Team,8,2112,2,166880
+2026-06-26,India,Scaling,Starter,191,25110,32,225990
+2026-06-26,India,Scaling,Pro,93,11739,17,340422
+2026-06-26,India,Scaling,Team,27,3610,5,285218
+2026-06-26,Southeast Asia,Early,Starter,70,6836,11,61522
+2026-06-26,Southeast Asia,Early,Pro,27,3154,5,91469
+2026-06-26,Southeast Asia,Early,Team,9,994,2,78554
+2026-06-27,Japan,Mature,Starter,63,29898,17,269084
+2026-06-27,Japan,Mature,Pro,28,13949,8,404533
+2026-06-27,Japan,Mature,Team,8,4330,3,342074
+2026-06-27,Korea,Growing,Starter,42,14509,10,130583
+2026-06-27,Korea,Growing,Pro,21,6775,5,196471
+2026-06-27,Korea,Growing,Team,7,2114,2,167026
+2026-06-27,India,Scaling,Starter,149,25152,40,226368
+2026-06-27,India,Scaling,Pro,58,11755,16,340883
+2026-06-27,India,Scaling,Team,19,3615,6,285569
+2026-06-27,Southeast Asia,Early,Starter,48,6852,10,61670
+2026-06-27,Southeast Asia,Early,Pro,20,3160,5,91643
+2026-06-27,Southeast Asia,Early,Team,6,996,2,78656
+2026-06-28,Japan,Mature,Starter,58,29915,15,269236
+2026-06-28,Japan,Mature,Pro,28,13958,7,404776
+2026-06-28,Japan,Mature,Team,8,4331,3,342185
+2026-06-28,Korea,Growing,Starter,50,14526,11,130731
+2026-06-28,Korea,Growing,Pro,23,6782,5,196692
+2026-06-28,Korea,Growing,Team,6,2116,2,167128
+2026-06-28,India,Scaling,Starter,127,25186,36,226673
+2026-06-28,India,Scaling,Pro,58,11771,15,341373
+2026-06-28,India,Scaling,Team,21,3622,4,286166
+2026-06-28,Southeast Asia,Early,Starter,49,6867,12,61804
+2026-06-28,Southeast Asia,Early,Pro,23,3167,6,91836
+2026-06-28,Southeast Asia,Early,Team,7,997,2,78802
+2026-06-29,Japan,Mature,Starter,68,29937,16,269429
+2026-06-29,Japan,Mature,Pro,33,13968,8,405071
+2026-06-29,Japan,Mature,Team,12,4335,3,342469
+2026-06-29,Korea,Growing,Starter,69,14552,12,130965
+2026-06-29,Korea,Growing,Pro,33,6795,6,197045
+2026-06-29,Korea,Growing,Team,10,2120,1,167484
+2026-06-29,India,Scaling,Starter,185,25259,29,227327
+2026-06-29,India,Scaling,Pro,81,11800,16,342201
+2026-06-29,India,Scaling,Team,23,3630,5,286770
+2026-06-29,Southeast Asia,Early,Starter,69,6893,12,62038
+2026-06-29,Southeast Asia,Early,Pro,27,3176,6,92092
+2026-06-29,Southeast Asia,Early,Team,9,1000,2,79036
+2026-06-30,Japan,Mature,Starter,74,29958,19,269624
+2026-06-30,Japan,Mature,Pro,39,13979,10,405403
+2026-06-30,Japan,Mature,Team,11,4338,3,342710
+2026-06-30,Korea,Growing,Starter,58,14572,12,131144
+2026-06-30,Korea,Growing,Pro,28,6805,5,197346
+2026-06-30,Korea,Growing,Team,10,2124,2,167760
+2026-06-30,India,Scaling,Starter,206,25340,32,228059
+2026-06-30,India,Scaling,Pro,85,11829,18,343035
+2026-06-30,India,Scaling,Team,26,3639,5,287505
+2026-06-30,Southeast Asia,Early,Starter,65,6919,10,62270
+2026-06-30,Southeast Asia,Early,Pro,29,3188,4,92439
+2026-06-30,Southeast Asia,Early,Team,10,1004,2,79312
+2026-07-01,Japan,Mature,Starter,85,29987,18,269883
+2026-07-01,Japan,Mature,Pro,33,13989,9,405668
+2026-07-01,Japan,Mature,Team,12,4342,3,342994
+2026-07-01,Korea,Growing,Starter,59,14593,11,131337
+2026-07-01,Korea,Growing,Pro,30,6818,4,197709
+2026-07-01,Korea,Growing,Team,8,2126,2,167950
+2026-07-01,India,Scaling,Starter,170,25404,29,228640
+2026-07-01,India,Scaling,Pro,80,11857,16,343847
+2026-07-01,India,Scaling,Team,27,3650,4,288362
+2026-07-01,Southeast Asia,Early,Starter,56,6938,12,62439
+2026-07-01,Southeast Asia,Early,Pro,27,3196,6,92696
+2026-07-01,Southeast Asia,Early,Team,9,1007,2,79545
+2026-07-02,Japan,Mature,Starter,69,30010,15,270090
+2026-07-02,Japan,Mature,Pro,38,14000,9,406013
+2026-07-02,Japan,Mature,Team,10,4344,3,343192
+2026-07-02,Korea,Growing,Starter,70,14622,10,131594
+2026-07-02,Korea,Growing,Pro,32,6830,5,198074
+2026-07-02,Korea,Growing,Team,8,2128,2,168140
+2026-07-02,India,Scaling,Starter,192,25469,41,229221
+2026-07-02,India,Scaling,Pro,86,11885,19,344668
+2026-07-02,India,Scaling,Team,23,3658,5,288966
+2026-07-02,Southeast Asia,Early,Starter,63,6959,13,62634
+2026-07-02,Southeast Asia,Early,Pro,27,3207,4,93010
+2026-07-02,Southeast Asia,Early,Team,8,1009,2,79735
+2026-07-03,Japan,Mature,Starter,75,30031,20,270281
+2026-07-03,Japan,Mature,Pro,32,14009,9,406262
+2026-07-03,Japan,Mature,Team,13,4349,2,343599
+2026-07-03,Korea,Growing,Starter,61,14642,13,131778
+2026-07-03,Korea,Growing,Pro,32,6842,6,198411
+2026-07-03,Korea,Growing,Team,9,2131,2,168373
+2026-07-03,India,Scaling,Starter,205,25543,39,229885
+2026-07-03,India,Scaling,Pro,78,11909,19,345361
+2026-07-03,India,Scaling,Team,28,3668,5,289788
+2026-07-03,Southeast Asia,Early,Starter,63,6983,11,62847
+2026-07-03,Southeast Asia,Early,Pro,33,3219,6,93363
+2026-07-03,Southeast Asia,Early,Team,10,1013,2,80011
+2026-07-04,Japan,Mature,Starter,60,30045,19,270407
+2026-07-04,Japan,Mature,Pro,27,14016,8,406461
+2026-07-04,Japan,Mature,Team,8,4352,2,343788
+2026-07-04,Korea,Growing,Starter,44,14655,11,131897
+2026-07-04,Korea,Growing,Pro,19,6847,5,198569
+2026-07-04,Korea,Growing,Team,7,2134,1,168598
+2026-07-04,India,Scaling,Starter,135,25583,34,230247
+2026-07-04,India,Scaling,Pro,71,11932,16,346029
+2026-07-04,India,Scaling,Team,22,3675,5,290349
+2026-07-04,Southeast Asia,Early,Starter,47,6999,10,62989
+2026-07-04,Southeast Asia,Early,Pro,23,3227,5,93584
+2026-07-04,Southeast Asia,Early,Team,7,1016,1,80236
+2026-07-05,Japan,Mature,Starter,49,30058,14,270523
+2026-07-05,Japan,Mature,Pro,28,14021,10,406618
+2026-07-05,Japan,Mature,Team,7,4353,3,343855
+2026-07-05,Korea,Growing,Starter,40,14667,10,132005
+2026-07-05,Korea,Growing,Pro,21,6854,5,198759
+2026-07-05,Korea,Growing,Team,6,2136,1,168780
+2026-07-05,India,Scaling,Starter,144,25626,36,230636
+2026-07-05,India,Scaling,Pro,59,11945,19,346419
+2026-07-05,India,Scaling,Team,17,3681,4,290771
+2026-07-05,Southeast Asia,Early,Starter,40,7009,12,63079
+2026-07-05,Southeast Asia,Early,Pro,21,3233,6,93745
+2026-07-05,Southeast Asia,Early,Team,8,1018,2,80426
+2026-07-06,Japan,Mature,Starter,68,30080,16,270716
+2026-07-06,Japan,Mature,Pro,41,14036,8,407040
+2026-07-06,Japan,Mature,Team,11,4357,2,344175
+2026-07-06,Korea,Growing,Starter,71,14695,11,132258
+2026-07-06,Korea,Growing,Pro,27,6864,5,199044
+2026-07-06,Korea,Growing,Team,8,2139,2,168969
+2026-07-06,India,Scaling,Starter,178,25695,29,231256
+2026-07-06,India,Scaling,Pro,81,11973,17,347218
+2026-07-06,India,Scaling,Team,28,3691,5,291593
+2026-07-06,Southeast Asia,Early,Starter,70,7036,11,63327
+2026-07-06,Southeast Asia,Early,Pro,32,3243,7,94053
+2026-07-06,Southeast Asia,Early,Team,9,1021,2,80659
+2026-07-07,Japan,Mature,Starter,89,30114,15,271022
+2026-07-07,Japan,Mature,Pro,39,14048,9,407401
+2026-07-07,Japan,Mature,Team,11,4360,3,344416
+2026-07-07,Korea,Growing,Starter,59,14714,14,132424
+2026-07-07,Korea,Growing,Pro,31,6876,5,199394
+2026-07-07,Korea,Growing,Team,9,2142,2,169202
+2026-07-07,India,Scaling,Starter,213,25781,31,232031
+2026-07-07,India,Scaling,Pro,82,12000,18,348004
+2026-07-07,India,Scaling,Team,28,3700,6,292336
+2026-07-07,Southeast Asia,Early,Starter,68,7061,13,63546
+2026-07-07,Southeast Asia,Early,Pro,34,3256,6,94421
+2026-07-07,Southeast Asia,Early,Team,10,1024,2,80935
+2026-07-08,Japan,Mature,Starter,84,30141,19,271266
+2026-07-08,Japan,Mature,Pro,38,14060,9,407746
+2026-07-08,Japan,Mature,Team,12,4364,2,344780
+2026-07-08,Korea,Growing,Starter,67,14741,10,132665
+2026-07-08,Korea,Growing,Pro,31,6887,6,199714
+2026-07-08,Korea,Growing,Team,9,2145,2,169435
+2026-07-08,India,Scaling,Starter,187,25844,40,232597
+2026-07-08,India,Scaling,Pro,84,12029,17,348851
+2026-07-08,India,Scaling,Team,27,3711,4,293193
+2026-07-08,Southeast Asia,Early,Starter,63,7083,12,63750
+2026-07-08,Southeast Asia,Early,Pro,32,3267,6,94757
+2026-07-08,Southeast Asia,Early,Team,10,1028,2,81212
+2026-07-09,Japan,Mature,Starter,76,30162,21,271454
+2026-07-09,Japan,Mature,Pro,39,14075,7,408165
+2026-07-09,Japan,Mature,Team,12,4368,3,345064
+2026-07-09,Korea,Growing,Starter,72,14769,11,132923
+2026-07-09,Korea,Growing,Pro,31,6898,6,200035
+2026-07-09,Korea,Growing,Team,9,2148,2,169668
+2026-07-09,India,Scaling,Starter,162,25901,32,233111
+2026-07-09,India,Scaling,Pro,87,12058,19,349688
+2026-07-09,India,Scaling,Team,31,3723,5,294145
+2026-07-09,Southeast Asia,Early,Starter,59,7103,13,63925
+2026-07-09,Southeast Asia,Early,Pro,34,3280,6,95126
+2026-07-09,Southeast Asia,Early,Team,9,1031,2,81445
+2026-07-10,Japan,Mature,Starter,88,30191,19,271718
+2026-07-10,Japan,Mature,Pro,38,14088,8,408539
+2026-07-10,Japan,Mature,Team,11,4372,2,345384
+2026-07-10,Korea,Growing,Starter,63,14794,10,133145
+2026-07-10,Korea,Growing,Pro,31,6910,5,200384
+2026-07-10,Korea,Growing,Team,9,2151,2,169901
+2026-07-10,India,Scaling,Starter,165,25960,32,233640
+2026-07-10,India,Scaling,Pro,94,12093,17,350694
+2026-07-10,India,Scaling,Team,25,3732,5,294836
+2026-07-10,Southeast Asia,Early,Starter,40,7114,11,64024
+2026-07-10,Southeast Asia,Early,Pro,18,3284,6,95239
+2026-07-10,Southeast Asia,Early,Team,6,1032,2,81548
+2026-07-11,Japan,Mature,Starter,57,30207,15,271865
+2026-07-11,Japan,Mature,Pro,24,14091,10,408632
+2026-07-11,Japan,Mature,Team,8,4374,2,345574
+2026-07-11,Korea,Growing,Starter,47,14808,12,133269
+2026-07-11,Korea,Growing,Pro,24,6918,5,200622
+2026-07-11,Korea,Growing,Team,7,2153,2,170048
+2026-07-11,India,Scaling,Starter,142,26004,34,234036
+2026-07-11,India,Scaling,Pro,58,12112,13,351242
+2026-07-11,India,Scaling,Team,17,3737,4,295259
+2026-07-11,Southeast Asia,Early,Starter,29,7115,15,64033
+2026-07-11,Southeast Asia,Early,Pro,14,3287,5,95317
+2026-07-11,Southeast Asia,Early,Team,5,1034,1,81686
+2026-07-12,Japan,Mature,Starter,53,30217,19,271957
+2026-07-12,Japan,Mature,Pro,23,14095,8,408767
+2026-07-12,Japan,Mature,Team,8,4376,3,345684
+2026-07-12,Korea,Growing,Starter,50,14824,11,133418
+2026-07-12,Korea,Growing,Pro,20,6923,6,200767
+2026-07-12,Korea,Growing,Team,7,2154,2,170194
+2026-07-12,India,Scaling,Starter,149,26054,32,234486
+2026-07-12,India,Scaling,Pro,54,12122,19,351552
+2026-07-12,India,Scaling,Team,21,3744,5,295776
+2026-07-12,Southeast Asia,Early,Starter,30,7119,12,64073
+2026-07-12,Southeast Asia,Early,Pro,15,3288,7,95353
+2026-07-12,Southeast Asia,Early,Team,5,1035,2,81745
+2026-07-13,Japan,Mature,Starter,82,30247,16,272219
+2026-07-13,Japan,Mature,Pro,41,14109,9,409160
+2026-07-13,Japan,Mature,Team,10,4378,3,345882
+2026-07-13,Korea,Growing,Starter,67,14848,13,133632
+2026-07-13,Korea,Growing,Pro,33,6935,6,201119
+2026-07-13,Korea,Growing,Team,10,2159,1,170549
+2026-07-13,India,Scaling,Starter,213,26142,29,235279
+2026-07-13,India,Scaling,Pro,85,12155,14,352502
+2026-07-13,India,Scaling,Team,29,3755,5,296641
+2026-07-13,Southeast Asia,Early,Starter,46,7134,11,64202
+2026-07-13,Southeast Asia,Early,Pro,21,3295,5,95543
+2026-07-13,Southeast Asia,Early,Team,7,1037,2,81891
+2026-07-14,Japan,Mature,Starter,88,30274,21,272465
+2026-07-14,Japan,Mature,Pro,32,14119,8,409438
+2026-07-14,Japan,Mature,Team,10,4382,2,346158
+2026-07-14,Korea,Growing,Starter,60,14867,14,133803
+2026-07-14,Korea,Growing,Pro,31,6947,5,201469
+2026-07-14,Korea,Growing,Team,10,2163,1,170905
+2026-07-14,India,Scaling,Starter,194,26207,42,235862
+2026-07-14,India,Scaling,Pro,94,12191,16,353538
+2026-07-14,India,Scaling,Team,28,3766,4,297542
+2026-07-14,Southeast Asia,Early,Starter,48,7149,11,64341
+2026-07-14,Southeast Asia,Early,Pro,22,3302,5,95749
+2026-07-14,Southeast Asia,Early,Team,7,1038,2,82038
+2026-07-15,Japan,Mature,Starter,79,30298,19,272685
+2026-07-15,Japan,Mature,Pro,35,14131,7,409793
+2026-07-15,Japan,Mature,Team,11,4385,3,346399
+2026-07-15,Korea,Growing,Starter,64,14890,12,134012
+2026-07-15,Korea,Growing,Pro,31,6959,5,201818
+2026-07-15,Korea,Growing,Team,9,2166,2,171138
+2026-07-15,India,Scaling,Starter,214,26284,41,236552
+2026-07-15,India,Scaling,Pro,98,12230,15,354666
+2026-07-15,India,Scaling,Team,25,3774,6,298154
+2026-07-15,Southeast Asia,Early,Starter,46,7159,15,64433
+2026-07-15,Southeast Asia,Early,Pro,22,3308,6,95926
+2026-07-15,Southeast Asia,Early,Team,7,1040,2,82184
+2026-07-16,Japan,Mature,Starter,80,30320,22,272883
+2026-07-16,Japan,Mature,Pro,36,14143,8,410135
+2026-07-16,Japan,Mature,Team,10,4388,2,346676
+2026-07-16,Korea,Growing,Starter,60,14911,12,134201
+2026-07-16,Korea,Growing,Pro,34,6973,5,202216
+2026-07-16,Korea,Growing,Team,10,2170,2,171414
+2026-07-16,India,Scaling,Starter,166,26339,36,237050
+2026-07-16,India,Scaling,Pro,81,12257,17,355465
+2026-07-16,India,Scaling,Team,29,3785,5,299019
+2026-07-16,Southeast Asia,Early,Starter,52,7173,15,64556
+2026-07-16,Southeast Asia,Early,Pro,25,3315,7,96122
+2026-07-16,Southeast Asia,Early,Team,6,1042,2,82286
+2026-07-17,Japan,Mature,Starter,85,30350,17,273151
+2026-07-17,Japan,Mature,Pro,36,14154,8,410478
+2026-07-17,Japan,Mature,Team,12,4392,3,346960
+2026-07-17,Korea,Growing,Starter,59,14932,12,134385
+2026-07-17,Korea,Growing,Pro,32,6986,5,202581
+2026-07-17,Korea,Growing,Team,8,2172,2,171604
+2026-07-17,India,Scaling,Starter,193,26406,39,237654
+2026-07-17,India,Scaling,Pro,101,12298,15,356641
+2026-07-17,India,Scaling,Team,29,3796,5,299884
+2026-07-17,Southeast Asia,Early,Starter,50,7187,13,64686
+2026-07-17,Southeast Asia,Early,Pro,23,3321,6,96315
+2026-07-17,Southeast Asia,Early,Team,8,1044,2,82476
+2026-07-18,Japan,Mature,Starter,61,30367,17,273300
+2026-07-18,Japan,Mature,Pro,27,14161,8,410676
+2026-07-18,Japan,Mature,Team,8,4393,3,347071
+2026-07-18,Korea,Growing,Starter,40,14942,12,134475
+2026-07-18,Korea,Growing,Pro,24,6992,7,202761
+2026-07-18,Korea,Growing,Team,6,2174,2,171707
+2026-07-18,India,Scaling,Starter,121,26439,34,237947
+2026-07-18,India,Scaling,Pro,61,12317,14,357207
+2026-07-18,India,Scaling,Team,17,3799,6,300149
+2026-07-18,Southeast Asia,Early,Starter,35,7194,13,64742
+2026-07-18,Southeast Asia,Early,Pro,15,3324,5,96409
+2026-07-18,Southeast Asia,Early,Team,5,1045,2,82535
+2026-07-19,Japan,Mature,Starter,48,30374,19,273366
+2026-07-19,Japan,Mature,Pro,24,14165,9,410798
+2026-07-19,Japan,Mature,Team,8,4395,3,347181
+2026-07-19,Korea,Growing,Starter,43,14954,11,134589
+2026-07-19,Korea,Growing,Pro,20,6997,6,202906
+2026-07-19,Korea,Growing,Team,6,2175,2,171809
+2026-07-19,India,Scaling,Starter,140,26473,43,238253
+2026-07-19,India,Scaling,Pro,60,12335,15,357729
+2026-07-19,India,Scaling,Team,22,3806,5,300710
+2026-07-19,Southeast Asia,Early,Starter,36,7200,13,64804
+2026-07-19,Southeast Asia,Early,Pro,18,3328,6,96522
+2026-07-19,Southeast Asia,Early,Team,5,1045,2,82594
+2026-07-20,Japan,Mature,Starter,84,30401,19,273611
+2026-07-20,Japan,Mature,Pro,38,14177,9,411143
+2026-07-20,Japan,Mature,Team,12,4399,2,347545
+2026-07-20,Korea,Growing,Starter,60,14977,10,134796
+2026-07-20,Korea,Growing,Pro,30,7008,5,203239
+2026-07-20,Korea,Growing,Team,11,2180,1,172208
+2026-07-20,India,Scaling,Starter,202,26541,43,238866
+2026-07-20,India,Scaling,Pro,87,12368,15,358682
+2026-07-20,India,Scaling,Team,25,3816,4,301480
+2026-07-20,Southeast Asia,Early,Starter,55,7221,10,64986
+2026-07-20,Southeast Asia,Early,Pro,25,3337,5,96776
+2026-07-20,Southeast Asia,Early,Team,7,1047,2,82741
+2026-07-21,Japan,Mature,Starter,76,30424,19,273816
+2026-07-21,Japan,Mature,Pro,41,14193,7,411594
+2026-07-21,Japan,Mature,Team,11,4402,3,347786
+2026-07-21,Korea,Growing,Starter,67,15000,14,135002
+2026-07-21,Korea,Growing,Pro,28,7019,5,203541
+2026-07-21,Korea,Growing,Team,8,2182,2,172398
+2026-07-21,India,Scaling,Starter,206,26613,41,239517
+2026-07-21,India,Scaling,Pro,89,12403,14,359696
+2026-07-21,India,Scaling,Team,29,3827,5,302345
+2026-07-21,Southeast Asia,Early,Starter,51,7236,13,65121
+2026-07-21,Southeast Asia,Early,Pro,25,3345,6,97001
+2026-07-21,Southeast Asia,Early,Team,6,1049,2,82843
+2026-07-22,Japan,Mature,Starter,67,30439,22,273950
+2026-07-22,Japan,Mature,Pro,32,14203,7,411901
+2026-07-22,Japan,Mature,Team,11,4405,3,348027
+2026-07-22,Korea,Growing,Starter,55,15019,11,135175
+2026-07-22,Korea,Growing,Pro,31,7031,5,203890
+2026-07-22,Korea,Growing,Team,8,2186,1,172666
+2026-07-22,India,Scaling,Starter,194,26683,37,240144
+2026-07-22,India,Scaling,Pro,77,12431,15,360489
+2026-07-22,India,Scaling,Team,29,3837,6,303131
+2026-07-22,Southeast Asia,Early,Starter,45,7250,10,65254
+2026-07-22,Southeast Asia,Early,Pro,23,3351,6,97193
+2026-07-22,Southeast Asia,Early,Team,7,1050,2,82989
+2026-07-23,Japan,Mature,Starter,67,30456,20,274102
+2026-07-23,Japan,Mature,Pro,36,14214,9,412215
+2026-07-23,Japan,Mature,Team,12,4410,2,348390
+2026-07-23,Korea,Growing,Starter,70,15048,10,135432
+2026-07-23,Korea,Growing,Pro,28,7040,6,204163
+2026-07-23,Korea,Growing,Team,10,2189,2,172943
+2026-07-23,India,Scaling,Starter,169,26733,43,240593
+2026-07-23,India,Scaling,Pro,90,12464,16,361460
+2026-07-23,India,Scaling,Team,30,3849,5,304039
+2026-07-23,Southeast Asia,Early,Starter,47,7265,11,65388
+2026-07-23,Southeast Asia,Early,Pro,19,3356,6,97323
+2026-07-23,Southeast Asia,Early,Team,7,1052,2,83136
+2026-07-24,Japan,Mature,Starter,67,30475,18,274271
+2026-07-24,Japan,Mature,Pro,41,14228,9,412608
+2026-07-24,Japan,Mature,Team,10,4413,3,348588
+2026-07-24,Korea,Growing,Starter,55,15068,10,135614
+2026-07-24,Korea,Growing,Pro,30,7052,5,204496
+2026-07-24,Korea,Growing,Team,9,2193,1,173255
+2026-07-24,India,Scaling,Starter,164,26791,32,241117
+2026-07-24,India,Scaling,Pro,89,12498,15,362445
+2026-07-24,India,Scaling,Team,27,3858,5,304818
+2026-07-24,Southeast Asia,Early,Starter,44,7276,14,65480
+2026-07-24,Southeast Asia,Early,Pro,19,3361,5,97481
+2026-07-24,Southeast Asia,Early,Team,7,1054,2,83282
+2026-07-25,Japan,Mature,Starter,62,30491,18,274416
+2026-07-25,Japan,Mature,Pro,24,14233,8,412758
+2026-07-25,Japan,Mature,Team,7,4414,2,348734
+2026-07-25,Korea,Growing,Starter,44,15079,13,135715
+2026-07-25,Korea,Growing,Pro,21,7057,6,204657
+2026-07-25,Korea,Growing,Team,7,2196,1,173480
+2026-07-25,India,Scaling,Starter,123,26820,38,241384
+2026-07-25,India,Scaling,Pro,74,12523,16,363161
+2026-07-25,India,Scaling,Team,17,3863,5,305161
+2026-07-25,Southeast Asia,Early,Starter,54,7293,12,65639
+2026-07-25,Southeast Asia,Early,Pro,24,3369,6,97689
+2026-07-25,Southeast Asia,Early,Team,7,1056,2,83428
+2026-07-26,Japan,Mature,Starter,55,30500,21,274500
+2026-07-26,Japan,Mature,Pro,26,14237,10,412883
+2026-07-26,Japan,Mature,Team,8,4417,2,348923
+2026-07-26,Korea,Growing,Starter,50,15096,11,135863
+2026-07-26,Korea,Growing,Pro,24,7065,5,204895
+2026-07-26,Korea,Growing,Team,7,2198,2,173626
+2026-07-26,India,Scaling,Starter,121,26845,42,241605
+2026-07-26,India,Scaling,Pro,60,12541,15,363683
+2026-07-26,India,Scaling,Team,20,3869,5,305635
+2026-07-26,Southeast Asia,Early,Starter,43,7304,13,65735
+2026-07-26,Southeast Asia,Early,Pro,21,3373,7,97821
+2026-07-26,Southeast Asia,Early,Team,7,1058,2,83574
+2026-07-27,Japan,Mature,Starter,86,30531,16,274781
+2026-07-27,Japan,Mature,Pro,37,14250,8,413241
+2026-07-27,Japan,Mature,Team,12,4420,3,349208
+2026-07-27,Korea,Growing,Starter,66,15118,14,136064
+2026-07-27,Korea,Growing,Pro,29,7076,5,205213
+2026-07-27,Korea,Growing,Team,10,2201,2,173903
+2026-07-27,India,Scaling,Starter,206,26922,36,242301
+2026-07-27,India,Scaling,Pro,82,12569,17,364498
+2026-07-27,India,Scaling,Team,24,3877,5,306283
+2026-07-27,Southeast Asia,Early,Starter,61,7322,15,65902
+2026-07-27,Southeast Asia,Early,Pro,32,3385,6,98158
+2026-07-27,Southeast Asia,Early,Team,10,1061,2,83851
+2026-07-28,Japan,Mature,Starter,74,30550,22,274950
+2026-07-28,Japan,Mature,Pro,37,14261,9,413570
+2026-07-28,Japan,Mature,Team,11,4424,2,349528
+2026-07-28,Korea,Growing,Starter,64,15142,11,136282
+2026-07-28,Korea,Growing,Pro,28,7087,5,205514
+2026-07-28,Korea,Growing,Team,10,2205,2,174179
+2026-07-28,India,Scaling,Starter,190,26997,30,242971
+2026-07-28,India,Scaling,Pro,104,12612,14,365751
+2026-07-28,India,Scaling,Team,26,3886,5,307018
+2026-07-28,Southeast Asia,Early,Starter,77,7353,12,66175
+2026-07-28,Southeast Asia,Early,Pro,29,3396,5,98475
+2026-07-28,Southeast Asia,Early,Team,11,1065,2,84171
+2026-07-29,Japan,Mature,Starter,69,30568,20,275111
+2026-07-29,Japan,Mature,Pro,40,14275,8,413976
+2026-07-29,Japan,Mature,Team,11,4428,2,349848
+2026-07-29,Korea,Growing,Starter,59,15161,14,136448
+2026-07-29,Korea,Growing,Pro,28,7097,5,205816
+2026-07-29,Korea,Growing,Team,11,2209,2,174499
+2026-07-29,India,Scaling,Starter,175,27053,40,243477
+2026-07-29,India,Scaling,Pro,93,12644,19,366683
+2026-07-29,India,Scaling,Team,30,3897,6,307847
+2026-07-29,Southeast Asia,Early,Starter,72,7377,15,66396
+2026-07-29,Southeast Asia,Early,Pro,35,3410,5,98889
+2026-07-29,Southeast Asia,Early,Team,11,1069,2,84490
+2026-07-30,Japan,Mature,Starter,72,30588,20,275288
+2026-07-30,Japan,Mature,Pro,38,14288,8,414351
+2026-07-30,Japan,Mature,Team,11,4432,3,350089
+2026-07-30,Korea,Growing,Starter,72,15188,12,136696
+2026-07-30,Korea,Growing,Pro,29,7107,6,206104
+2026-07-30,Korea,Growing,Team,8,2211,2,174689
+2026-07-30,India,Scaling,Starter,217,27137,35,244237
+2026-07-30,India,Scaling,Pro,105,12683,19,367807
+2026-07-30,India,Scaling,Team,26,3906,5,308582
+2026-07-30,Southeast Asia,Early,Starter,60,7398,12,66585
+2026-07-30,Southeast Asia,Early,Pro,37,3425,5,99334
+2026-07-30,Southeast Asia,Early,Team,11,1074,2,84810
+2026-07-31,Japan,Mature,Starter,72,30607,20,275464
+2026-07-31,Japan,Mature,Pro,42,14302,9,414759
+2026-07-31,Japan,Mature,Team,12,4436,2,350452
+2026-07-31,Korea,Growing,Starter,60,15211,10,136903
+2026-07-31,Korea,Growing,Pro,29,7116,7,206364
+2026-07-31,Korea,Growing,Team,10,2215,2,174965
+2026-07-31,India,Scaling,Starter,187,27207,33,244865
+2026-07-31,India,Scaling,Pro,99,12717,20,368806
+2026-07-31,India,Scaling,Team,32,3918,6,309498
+2026-07-31,Southeast Asia,Early,Starter,67,7422,13,66800
+2026-07-31,Southeast Asia,Early,Pro,32,3436,7,99641
+2026-07-31,Southeast Asia,Early,Team,10,1077,2,85087
+2026-08-01,Japan,Mature,Starter,49,30617,17,275553
+2026-08-01,Japan,Mature,Pro,30,14310,9,414977
+2026-08-01,Japan,Mature,Team,8,4438,3,350563
+2026-08-01,Korea,Growing,Starter,53,15230,11,137066
+2026-08-01,Korea,Growing,Pro,23,7123,6,206557
+2026-08-01,Korea,Growing,Team,7,2217,2,175111
+2026-08-01,India,Scaling,Starter,131,27243,36,245190
+2026-08-01,India,Scaling,Pro,64,12738,15,369392
+2026-08-01,India,Scaling,Team,23,3925,5,310103
+2026-08-01,Southeast Asia,Early,Starter,50,7438,12,66939
+2026-08-01,Southeast Asia,Early,Pro,21,3442,5,99831
+2026-08-01,Southeast Asia,Early,Team,8,1079,2,85277
+2026-08-02,Japan,Mature,Starter,48,30627,16,275647
+2026-08-02,Japan,Mature,Pro,28,14315,10,415134
+2026-08-02,Japan,Mature,Team,9,4439,3,350717
+2026-08-02,Korea,Growing,Starter,50,15244,13,137197
+2026-08-02,Korea,Growing,Pro,22,7129,6,206734
+2026-08-02,Korea,Growing,Team,8,2219,2,175301
+2026-08-02,India,Scaling,Starter,140,27278,42,245505
+2026-08-02,India,Scaling,Pro,61,12751,20,369785
+2026-08-02,India,Scaling,Team,19,3930,6,310454
+2026-08-02,Southeast Asia,Early,Starter,57,7458,11,67122
+2026-08-02,Southeast Asia,Early,Pro,23,3449,6,100024
+2026-08-02,Southeast Asia,Early,Team,8,1082,2,85466
+2026-08-03,Japan,Mature,Starter,70,30651,15,275859
+2026-08-03,Japan,Mature,Pro,35,14325,9,415431
+2026-08-03,Japan,Mature,Team,10,4442,3,350914
+2026-08-03,Korea,Growing,Starter,62,15264,14,137378
+2026-08-03,Korea,Growing,Pro,28,7138,6,207006
+2026-08-03,Korea,Growing,Team,10,2223,2,175578
+2026-08-03,India,Scaling,Starter,195,27356,30,246200
+2026-08-03,India,Scaling,Pro,97,12791,14,370926
+2026-08-03,India,Scaling,Team,30,3941,5,311363
+2026-08-03,Southeast Asia,Early,Starter,76,7486,14,67373
+2026-08-03,Southeast Asia,Early,Pro,35,3462,6,100408
+2026-08-03,Southeast Asia,Early,Team,10,1085,2,85743
+2026-08-04,Japan,Mature,Starter,78,30676,18,276083
+2026-08-04,Japan,Mature,Pro,36,14335,10,415715
+2026-08-04,Japan,Mature,Team,11,4445,3,351155
+2026-08-04,Korea,Growing,Starter,58,15282,14,137539
+2026-08-04,Korea,Growing,Pro,34,7151,6,207375
+2026-08-04,Korea,Growing,Team,10,2226,2,175854
+2026-08-04,India,Scaling,Starter,181,27419,36,246772
+2026-08-04,India,Scaling,Pro,80,12817,18,371680
+2026-08-04,India,Scaling,Team,27,3951,5,312141
+2026-08-04,Southeast Asia,Early,Starter,67,7512,11,67605
+2026-08-04,Southeast Asia,Early,Pro,32,3474,6,100745
+2026-08-04,Southeast Asia,Early,Team,10,1089,2,86019
+2026-08-05,Japan,Mature,Starter,86,30706,17,276355
+2026-08-05,Japan,Mature,Pro,35,14347,7,416070
+2026-08-05,Japan,Mature,Team,12,4450,2,351518
+2026-08-05,Korea,Growing,Starter,67,15306,13,137754
+2026-08-05,Korea,Growing,Pro,28,7161,5,207676
+2026-08-05,Korea,Growing,Team,10,2230,2,176131
+2026-08-05,India,Scaling,Starter,189,27489,34,247401
+2026-08-05,India,Scaling,Pro,104,12860,14,372933
+2026-08-05,India,Scaling,Team,33,3965,4,313259
+2026-08-05,Southeast Asia,Early,Starter,78,7542,13,67874
+2026-08-05,Southeast Asia,Early,Pro,37,3487,7,101132
+2026-08-05,Southeast Asia,Early,Team,10,1092,2,86296
+2026-08-06,Japan,Mature,Starter,79,30734,16,276602
+2026-08-06,Japan,Mature,Pro,33,14357,8,416365
+2026-08-06,Japan,Mature,Team,10,4453,2,351795
+2026-08-06,Korea,Growing,Starter,72,15333,13,137993
+2026-08-06,Korea,Growing,Pro,33,7173,6,208029
+2026-08-06,Korea,Growing,Team,10,2233,2,176407
+2026-08-06,India,Scaling,Starter,216,27573,35,248156
+2026-08-06,India,Scaling,Pro,88,12889,19,373785
+2026-08-06,India,Scaling,Team,25,3974,5,313950
+2026-08-06,Southeast Asia,Early,Starter,77,7573,11,68157
+2026-08-06,Southeast Asia,Early,Pro,38,3502,6,101564
+2026-08-06,Southeast Asia,Early,Team,9,1095,2,86529
+2026-08-07,Japan,Mature,Starter,89,30767,16,276899
+2026-08-07,Japan,Mature,Pro,42,14372,8,416802
+2026-08-07,Japan,Mature,Team,11,4456,3,352036
+2026-08-07,Korea,Growing,Starter,61,15352,14,138169
+2026-08-07,Korea,Growing,Pro,30,7185,5,208362
+2026-08-07,Korea,Growing,Team,8,2235,2,176597
+2026-08-07,India,Scaling,Starter,170,27621,45,248592
+2026-08-07,India,Scaling,Pro,91,12920,19,374686
+2026-08-07,India,Scaling,Team,26,3982,6,314606
+2026-08-07,Southeast Asia,Early,Starter,75,7603,11,68429
+2026-08-07,Southeast Asia,Early,Pro,31,3512,7,101855
+2026-08-07,Southeast Asia,Early,Team,9,1098,2,86762
+2026-08-08,Japan,Mature,Starter,49,30773,21,276953
+2026-08-08,Japan,Mature,Pro,26,14377,10,416927
+2026-08-08,Japan,Mature,Team,8,4459,2,352225
+2026-08-08,Korea,Growing,Starter,47,15364,14,138276
+2026-08-08,Korea,Growing,Pro,24,7192,6,208571
+2026-08-08,Korea,Growing,Team,7,2237,2,176743
+2026-08-08,India,Scaling,Starter,140,27668,30,249015
+2026-08-08,India,Scaling,Pro,61,12940,14,375253
+2026-08-08,India,Scaling,Team,18,3986,6,314914
+2026-08-08,Southeast Asia,Early,Starter,58,7621,14,68590
+2026-08-08,Southeast Asia,Early,Pro,26,3521,6,102096
+2026-08-08,Southeast Asia,Early,Team,8,1101,2,86951
+2026-08-09,Japan,Mature,Starter,57,30787,17,277082
+2026-08-09,Japan,Mature,Pro,24,14381,9,417049
+2026-08-09,Japan,Mature,Team,8,4461,2,352415
+2026-08-09,Korea,Growing,Starter,51,15380,12,138420
+2026-08-09,Korea,Growing,Pro,20,7197,6,208716
+2026-08-09,Korea,Growing,Team,6,2239,2,176845
+2026-08-09,India,Scaling,Starter,128,27702,37,249316
+2026-08-09,India,Scaling,Pro,71,12961,18,375863
+2026-08-09,India,Scaling,Team,21,3992,6,315352
+2026-08-09,Southeast Asia,Early,Starter,48,7635,13,68711
+2026-08-09,Southeast Asia,Early,Pro,22,3526,7,102244
+2026-08-09,Southeast Asia,Early,Team,8,1103,2,87141
+2026-08-10,Japan,Mature,Starter,87,30820,15,277377
+2026-08-10,Japan,Mature,Pro,32,14391,8,417327
+2026-08-10,Japan,Mature,Team,12,4465,3,352699
+2026-08-10,Korea,Growing,Starter,56,15400,11,138598
+2026-08-10,Korea,Growing,Pro,33,7209,6,209068
+2026-08-10,Korea,Growing,Team,10,2242,2,177122
+2026-08-10,India,Scaling,Starter,197,27771,39,249940
+2026-08-10,India,Scaling,Pro,101,12995,21,376865
+2026-08-10,India,Scaling,Team,31,4004,5,316304
+2026-08-10,Southeast Asia,Early,Starter,72,7662,12,68959
+2026-08-10,Southeast Asia,Early,Pro,37,3539,7,102631
+2026-08-10,Southeast Asia,Early,Team,11,1107,2,87461
+2026-08-11,Japan,Mature,Starter,82,30848,17,277630
+2026-08-11,Japan,Mature,Pro,36,14402,8,417670
+2026-08-11,Japan,Mature,Team,11,4468,3,352940
+2026-08-11,Korea,Growing,Starter,62,15421,13,138788
+2026-08-11,Korea,Growing,Pro,31,7221,5,209418
+2026-08-11,Korea,Growing,Team,8,2245,1,177391
+2026-08-11,India,Scaling,Starter,216,27851,39,250658
+2026-08-11,India,Scaling,Pro,97,13033,16,377948
+2026-08-11,India,Scaling,Team,31,4015,6,317177
+2026-08-11,Southeast Asia,Early,Starter,67,7685,14,69165
+2026-08-11,Southeast Asia,Early,Pro,35,3552,6,103015
+2026-08-11,Southeast Asia,Early,Team,9,1110,2,87694
+2026-08-12,Japan,Mature,Starter,84,30878,16,277902
+2026-08-12,Japan,Mature,Pro,32,14410,10,417890
+2026-08-12,Japan,Mature,Team,10,4471,2,353217
+2026-08-12,Korea,Growing,Starter,60,15443,11,138986
+2026-08-12,Korea,Growing,Pro,32,7233,6,209754
+2026-08-12,Korea,Growing,Team,9,2248,2,177624
+2026-08-12,India,Scaling,Starter,171,27910,35,251190
+2026-08-12,India,Scaling,Pro,88,13066,15,378917
+2026-08-12,India,Scaling,Team,28,4024,6,317920
+2026-08-12,Southeast Asia,Early,Starter,78,7716,12,69443
+2026-08-12,Southeast Asia,Early,Pro,34,3564,7,103355
+2026-08-12,Southeast Asia,Early,Team,9,1113,2,87927
+2026-08-13,Japan,Mature,Starter,70,30899,18,278087
+2026-08-13,Japan,Mature,Pro,40,14424,8,418296
+2026-08-13,Japan,Mature,Team,11,4475,2,353537
+2026-08-13,Korea,Growing,Starter,62,15465,12,139185
+2026-08-13,Korea,Growing,Pro,29,7244,5,210072
+2026-08-13,Korea,Growing,Team,9,2251,2,177857
+2026-08-13,India,Scaling,Starter,225,27997,37,251970
+2026-08-13,India,Scaling,Pro,105,13106,18,380070
+2026-08-13,India,Scaling,Team,31,4035,6,318793
+2026-08-13,Southeast Asia,Early,Starter,75,7742,15,69679
+2026-08-13,Southeast Asia,Early,Pro,31,3574,7,103646
+2026-08-13,Southeast Asia,Early,Team,11,1117,2,88247
+2026-08-14,Japan,Mature,Starter,89,30930,17,278374
+2026-08-14,Japan,Mature,Pro,32,14434,8,418574
+2026-08-14,Japan,Mature,Team,12,4479,3,353821
+2026-08-14,Korea,Growing,Starter,69,15492,11,139428
+2026-08-14,Korea,Growing,Pro,32,7256,5,210437
+2026-08-14,Korea,Growing,Team,10,2255,2,178133
+2026-08-14,India,Scaling,Starter,204,28068,41,252611
+2026-08-14,India,Scaling,Pro,101,13144,17,381188
+2026-08-14,India,Scaling,Team,27,4045,5,319571
+2026-08-14,Southeast Asia,Early,Starter,69,7769,11,69921
+2026-08-14,Southeast Asia,Early,Pro,35,3587,6,104030
+2026-08-14,Southeast Asia,Early,Team,10,1121,2,88523
+2026-08-15,Japan,Mature,Starter,48,30937,20,278432
+2026-08-15,Japan,Mature,Pro,24,14440,7,418754
+2026-08-15,Japan,Mature,Team,8,4480,3,353932
+2026-08-15,Korea,Growing,Starter,43,15501,15,139505
+2026-08-15,Korea,Growing,Pro,19,7260,7,210537
+2026-08-15,Korea,Growing,Team,7,2257,2,178279
+2026-08-15,India,Scaling,Starter,150,28115,35,253039
+2026-08-15,India,Scaling,Pro,64,13161,19,381657
+2026-08-15,India,Scaling,Team,22,4051,6,320053
+2026-08-15,Southeast Asia,Early,Starter,61,7789,14,70097
+2026-08-15,Southeast Asia,Early,Pro,27,3597,5,104316
+2026-08-15,Southeast Asia,Early,Team,9,1123,2,88756
+2026-08-16,Japan,Mature,Starter,57,30947,21,278525
+2026-08-16,Japan,Mature,Pro,28,14445,10,418911
+2026-08-16,Japan,Mature,Team,9,4482,3,354086
+2026-08-16,Korea,Growing,Starter,53,15517,13,139651
+2026-08-16,Korea,Growing,Pro,22,7266,6,210714
+2026-08-16,Korea,Growing,Team,6,2258,2,178382
+2026-08-16,India,Scaling,Starter,149,28160,37,253443
+2026-08-16,India,Scaling,Pro,58,13172,20,382002
+2026-08-16,India,Scaling,Team,19,4056,6,320404
+2026-08-16,Southeast Asia,Early,Starter,54,7806,12,70257
+2026-08-16,Southeast Asia,Early,Pro,28,3606,6,104588
+2026-08-16,Southeast Asia,Early,Team,9,1126,2,88990
+2026-08-17,Japan,Mature,Starter,84,30978,15,278806
+2026-08-17,Japan,Mature,Pro,39,14459,8,419301
+2026-08-17,Japan,Mature,Team,10,4485,3,354283
+2026-08-17,Korea,Growing,Starter,56,15534,14,139802
+2026-08-17,Korea,Growing,Pro,33,7278,6,211066
+2026-08-17,Korea,Growing,Team,10,2262,2,178659
+2026-08-17,India,Scaling,Starter,195,28224,44,254012
+2026-08-17,India,Scaling,Pro,105,13212,18,383155
+2026-08-17,India,Scaling,Team,30,4066,6,321234
+2026-08-17,Southeast Asia,Early,Starter,68,7831,13,70476
+2026-08-17,Southeast Asia,Early,Pro,31,3617,7,104880
+2026-08-17,Southeast Asia,Early,Team,12,1131,2,89353
+2026-08-18,Japan,Mature,Starter,75,31003,17,279024
+2026-08-18,Japan,Mature,Pro,33,14470,7,419624
+2026-08-18,Japan,Mature,Team,12,4488,3,354568
+2026-08-18,Korea,Growing,Starter,74,15559,15,140033
+2026-08-18,Korea,Growing,Pro,30,7290,5,211400
+2026-08-18,Korea,Growing,Team,11,2267,1,179057
+2026-08-18,India,Scaling,Starter,222,28303,43,254724
+2026-08-18,India,Scaling,Pro,94,13250,14,384249
+2026-08-18,India,Scaling,Team,29,4077,5,322099
+2026-08-18,Southeast Asia,Early,Starter,71,7855,15,70693
+2026-08-18,Southeast Asia,Early,Pro,39,3632,6,105328
+2026-08-18,Southeast Asia,Early,Team,10,1135,2,89629
+2026-08-19,Japan,Mature,Starter,87,31031,20,279275
+2026-08-19,Japan,Mature,Pro,33,14479,9,419890
+2026-08-19,Japan,Mature,Team,12,4493,2,354931
+2026-08-19,Korea,Growing,Starter,63,15580,14,140219
+2026-08-19,Korea,Growing,Pro,31,7301,6,211720
+2026-08-19,Korea,Growing,Team,10,2271,1,179413
+2026-08-19,India,Scaling,Starter,189,28364,43,255273
+2026-08-19,India,Scaling,Pro,97,13288,15,385361
+2026-08-19,India,Scaling,Team,30,4088,6,322928
+2026-08-19,Southeast Asia,Early,Starter,82,7885,15,70964
+2026-08-19,Southeast Asia,Early,Pro,38,3647,6,105760
+2026-08-19,Southeast Asia,Early,Team,10,1138,2,89906
+2026-08-20,Japan,Mature,Starter,68,31049,19,279440
+2026-08-20,Japan,Mature,Pro,39,14492,8,420280
+2026-08-20,Japan,Mature,Team,11,4496,3,355172
+2026-08-20,Korea,Growing,Starter,61,15602,11,140422
+2026-08-20,Korea,Growing,Pro,28,7310,6,211993
+2026-08-20,Korea,Growing,Team,10,2275,2,179689
+2026-08-20,India,Scaling,Starter,225,28455,32,256099
+2026-08-20,India,Scaling,Pro,81,13316,17,386160
+2026-08-20,India,Scaling,Team,32,4100,5,323924
+2026-08-20,Southeast Asia,Early,Starter,82,7919,11,71271
+2026-08-20,Southeast Asia,Early,Pro,35,3660,6,106144
+2026-08-20,Southeast Asia,Early,Team,10,1142,2,90182
+2026-08-21,Japan,Mature,Starter,70,31066,21,279598
+2026-08-21,Japan,Mature,Pro,40,14504,10,420628
+2026-08-21,Japan,Mature,Team,10,4498,3,355370
+2026-08-21,Korea,Growing,Starter,58,15623,11,140610
+2026-08-21,Korea,Growing,Pro,27,7318,7,212221
+2026-08-21,Korea,Growing,Team,9,2278,2,179923
+2026-08-21,India,Scaling,Starter,225,28533,46,256798
+2026-08-21,India,Scaling,Pro,91,13346,20,387031
+2026-08-21,India,Scaling,Team,25,4109,5,324615
+2026-08-21,Southeast Asia,Early,Starter,65,7941,14,71466
+2026-08-21,Southeast Asia,Early,Pro,37,3673,7,106531
+2026-08-21,Southeast Asia,Early,Team,12,1146,2,90546
+2026-08-22,Japan,Mature,Starter,49,31074,19,279669
+2026-08-22,Japan,Mature,Pro,29,14511,9,420829
+2026-08-22,Japan,Mature,Team,8,4500,3,355480
+2026-08-22,Korea,Growing,Starter,41,15634,12,140705
+2026-08-22,Korea,Growing,Pro,23,7324,7,212384
+2026-08-22,Korea,Growing,Team,6,2279,2,180025
+2026-08-22,India,Scaling,Starter,155,28580,38,257224
+2026-08-22,India,Scaling,Pro,59,13363,15,387537
+2026-08-22,India,Scaling,Team,19,4114,6,324967
+2026-08-22,Southeast Asia,Early,Starter,56,7960,12,71636
+2026-08-22,Southeast Asia,Early,Pro,22,3679,7,106679
+2026-08-22,Southeast Asia,Early,Team,7,1148,2,90692
+2026-08-23,Japan,Mature,Starter,53,31085,19,279761
+2026-08-23,Japan,Mature,Pro,26,14518,8,421012
+2026-08-23,Japan,Mature,Team,7,4501,3,355547
+2026-08-23,Korea,Growing,Starter,41,15643,13,140791
+2026-08-23,Korea,Growing,Pro,25,7332,5,212638
+2026-08-23,Korea,Growing,Team,7,2281,2,180171
+2026-08-23,India,Scaling,Starter,147,28617,44,257555
+2026-08-23,India,Scaling,Pro,70,13382,20,388074
+2026-08-23,India,Scaling,Team,19,4119,5,325397
+2026-08-23,Southeast Asia,Early,Starter,52,7976,12,71785
+2026-08-23,Southeast Asia,Early,Pro,24,3687,5,106917
+2026-08-23,Southeast Asia,Early,Team,8,1150,2,90882
+2026-08-24,Japan,Mature,Starter,84,31112,19,280005
+2026-08-24,Japan,Mature,Pro,34,14526,10,421264
+2026-08-24,Japan,Mature,Team,10,4503,3,355745
+2026-08-24,Korea,Growing,Starter,70,15670,12,141030
+2026-08-24,Korea,Growing,Pro,28,7341,7,212882
+2026-08-24,Korea,Growing,Team,9,2284,2,180404
+2026-08-24,India,Scaling,Starter,228,28710,33,258387
+2026-08-24,India,Scaling,Pro,97,13414,21,389012
+2026-08-24,India,Scaling,Team,32,4131,6,326313
+2026-08-24,Southeast Asia,Early,Starter,79,8008,12,72068
+2026-08-24,Southeast Asia,Early,Pro,33,3697,8,107212
+2026-08-24,Southeast Asia,Early,Team,9,1153,2,91115
+2026-08-25,Japan,Mature,Starter,86,31141,18,280269
+2026-08-25,Japan,Mature,Pro,33,14537,7,421587
+2026-08-25,Japan,Mature,Team,10,4506,3,355942
+2026-08-25,Korea,Growing,Starter,57,15687,14,141186
+2026-08-25,Korea,Growing,Pro,32,7353,5,213247
+2026-08-25,Korea,Growing,Team,8,2286,2,180594
+2026-08-25,India,Scaling,Starter,195,28781,36,259028
+2026-08-25,India,Scaling,Pro,107,13452,21,390109
+2026-08-25,India,Scaling,Team,26,4139,6,326969
+2026-08-25,Southeast Asia,Early,Starter,74,8036,12,72326
+2026-08-25,Southeast Asia,Early,Pro,34,3709,7,107551
+2026-08-25,Southeast Asia,Early,Team,12,1158,2,91478
+2026-08-26,Japan,Mature,Starter,70,31158,22,280418
+2026-08-26,Japan,Mature,Pro,41,14551,9,421980
+2026-08-26,Japan,Mature,Team,12,4509,3,356227
+2026-08-26,Korea,Growing,Starter,69,15714,11,141428
+2026-08-26,Korea,Growing,Pro,29,7364,5,213565
+2026-08-26,Korea,Growing,Team,9,2289,2,180827
+2026-08-26,India,Scaling,Starter,197,28854,35,259688
+2026-08-26,India,Scaling,Pro,106,13491,19,391249
+2026-08-26,India,Scaling,Team,26,4148,5,327704
+2026-08-26,Southeast Asia,Early,Starter,83,8071,11,72638
+2026-08-26,Southeast Asia,Early,Pro,36,3722,6,107951
+2026-08-26,Southeast Asia,Early,Team,10,1161,2,91755
+2026-08-27,Japan,Mature,Starter,76,31177,22,280596
+2026-08-27,Japan,Mature,Pro,41,14564,10,422344
+2026-08-27,Japan,Mature,Team,10,4512,3,356424
+2026-08-27,Korea,Growing,Starter,63,15738,11,141641
+2026-08-27,Korea,Growing,Pro,30,7376,5,213898
+2026-08-27,Korea,Growing,Team,8,2291,2,181017
+2026-08-27,India,Scaling,Starter,234,28948,35,260532
+2026-08-27,India,Scaling,Pro,106,13533,17,392447
+2026-08-27,India,Scaling,Team,30,4159,6,328533
+2026-08-27,Southeast Asia,Early,Starter,73,8096,15,72864
+2026-08-27,Southeast Asia,Early,Pro,31,3733,6,108271
+2026-08-27,Southeast Asia,Early,Team,11,1165,2,92074
+2026-08-28,Japan,Mature,Starter,79,31205,16,280843
+2026-08-28,Japan,Mature,Pro,35,14575,8,422671
+2026-08-28,Japan,Mature,Team,13,4516,3,356752
+2026-08-28,Korea,Growing,Starter,59,15759,11,141834
+2026-08-28,Korea,Growing,Pro,27,7386,5,214184
+2026-08-28,Korea,Growing,Team,10,2295,2,181293
+2026-08-28,India,Scaling,Starter,188,29007,44,261066
+2026-08-28,India,Scaling,Pro,86,13564,16,393355
+2026-08-28,India,Scaling,Team,28,4169,5,329355
+2026-08-28,Southeast Asia,Early,Starter,81,8130,11,73166
+2026-08-28,Southeast Asia,Early,Pro,32,3745,6,108608
+2026-08-28,Southeast Asia,Early,Team,11,1170,2,92394
+2026-08-29,Japan,Mature,Starter,53,31214,20,280925
+2026-08-29,Japan,Mature,Pro,27,14580,10,422811
+2026-08-29,Japan,Mature,Team,8,4518,2,356942
+2026-08-29,Korea,Growing,Starter,55,15776,14,141980
+2026-08-29,Korea,Growing,Pro,24,7393,6,214393
+2026-08-29,Korea,Growing,Team,7,2297,2,181439
+2026-08-29,India,Scaling,Starter,153,29060,32,261536
+2026-08-29,India,Scaling,Pro,78,13588,19,394048
+2026-08-29,India,Scaling,Team,22,4176,5,329916
+2026-08-29,Southeast Asia,Early,Starter,51,8146,12,73311
+2026-08-29,Southeast Asia,Early,Pro,27,3754,6,108865
+2026-08-29,Southeast Asia,Early,Team,7,1171,2,92541
+2026-08-30,Japan,Mature,Starter,62,31228,20,281052
+2026-08-30,Japan,Mature,Pro,27,14586,9,422981
+2026-08-30,Japan,Mature,Team,9,4520,3,357096
+2026-08-30,Korea,Growing,Starter,47,15786,15,142078
+2026-08-30,Korea,Growing,Pro,24,7400,6,214601
+2026-08-30,Korea,Growing,Team,7,2299,2,181585
+2026-08-30,India,Scaling,Starter,127,29082,47,261741
+2026-08-30,India,Scaling,Pro,76,13614,16,394796
+2026-08-30,India,Scaling,Team,21,4182,6,330354
+2026-08-30,Southeast Asia,Early,Starter,62,8168,12,73510
+2026-08-30,Southeast Asia,Early,Pro,24,3760,7,109044
+2026-08-30,Southeast Asia,Early,Team,9,1174,2,92774
+2026-08-31,Japan,Mature,Starter,74,31248,21,281229
+2026-08-31,Japan,Mature,Pro,39,14600,7,423400
+2026-08-31,Japan,Mature,Team,11,4523,3,357337
+2026-08-31,Korea,Growing,Starter,71,15812,14,142304
+2026-08-31,Korea,Growing,Pro,29,7410,6,214890
+2026-08-31,Korea,Growing,Team,10,2302,2,181862
+2026-08-31,India,Scaling,Starter,225,29160,46,262441
+2026-08-31,India,Scaling,Pro,88,13642,20,395619
+2026-08-31,India,Scaling,Team,26,4190,6,331010
+2026-08-31,Southeast Asia,Early,Starter,76,8194,16,73742
+2026-08-31,Southeast Asia,Early,Pro,37,3775,5,109489
+2026-08-31,Southeast Asia,Early,Team,12,1179,2,93137
+2026-09-01,Japan,Mature,Starter,75,31268,21,281412
+2026-09-01,Japan,Mature,Pro,32,14609,9,423649
+2026-09-01,Japan,Mature,Team,12,4527,3,357621
+2026-09-01,Korea,Growing,Starter,61,15831,14,142479
+2026-09-01,Korea,Growing,Pro,32,7423,5,215255
+2026-09-01,Korea,Growing,Team,9,2305,2,182095
+2026-09-01,India,Scaling,Starter,317,29296,38,263668
+2026-09-01,India,Scaling,Pro,142,13705,15,397449
+2026-09-01,India,Scaling,Team,41,4206,7,332238
+2026-09-01,Southeast Asia,Early,Starter,74,8221,13,73991
+2026-09-01,Southeast Asia,Early,Pro,36,3790,5,109919
+2026-09-01,Southeast Asia,Early,Team,12,1184,2,93500
+2026-09-02,Japan,Mature,Starter,71,31287,20,281583
+2026-09-02,Japan,Mature,Pro,31,14617,9,423883
+2026-09-02,Japan,Mature,Team,12,4530,3,357906
+2026-09-02,Korea,Growing,Starter,69,15858,11,142722
+2026-09-02,Korea,Growing,Pro,35,7437,5,215669
+2026-09-02,Korea,Growing,Team,11,2309,2,182415
+2026-09-02,India,Scaling,Starter,312,29433,35,264897
+2026-09-02,India,Scaling,Pro,150,13770,18,399320
+2026-09-02,India,Scaling,Team,41,4223,5,333625
+2026-09-02,Southeast Asia,Early,Starter,74,8247,15,74223
+2026-09-02,Southeast Asia,Early,Pro,37,3805,6,110335
+2026-09-02,Southeast Asia,Early,Team,10,1187,2,93777
+2026-09-03,Japan,Mature,Starter,87,31314,21,281825
+2026-09-03,Japan,Mature,Pro,35,14628,8,424209
+2026-09-03,Japan,Mature,Team,12,4534,3,358190
+2026-09-03,Korea,Growing,Starter,70,15885,12,142961
+2026-09-03,Korea,Growing,Pro,30,7448,5,216002
+2026-09-03,Korea,Growing,Team,9,2312,2,182648
+2026-09-03,India,Scaling,Starter,320,29574,35,266166
+2026-09-03,India,Scaling,Pro,135,13825,19,400922
+2026-09-03,India,Scaling,Team,40,4239,6,334889
+2026-09-03,Southeast Asia,Early,Starter,75,8274,14,74468
+2026-09-03,Southeast Asia,Early,Pro,39,3820,6,110783
+2026-09-03,Southeast Asia,Early,Team,12,1192,2,94140
+2026-09-04,Japan,Mature,Starter,72,31338,15,282046
+2026-09-04,Japan,Mature,Pro,35,14637,10,424477
+2026-09-04,Japan,Mature,Team,11,4537,3,358431
+2026-09-04,Korea,Growing,Starter,75,15913,13,143215
+2026-09-04,Korea,Growing,Pro,35,7463,5,216415
+2026-09-04,Korea,Growing,Team,10,2316,2,182925
+2026-09-04,India,Scaling,Starter,295,29694,42,267249
+2026-09-04,India,Scaling,Pro,150,13890,17,402822
+2026-09-04,India,Scaling,Team,46,4258,6,336414
+2026-09-04,Southeast Asia,Early,Starter,76,8300,16,74700
+2026-09-04,Southeast Asia,Early,Pro,40,3835,7,111218
+2026-09-04,Southeast Asia,Early,Team,12,1196,2,94504
+2026-09-05,Japan,Mature,Starter,54,31352,16,282169
+2026-09-05,Japan,Mature,Pro,28,14645,8,424692
+2026-09-05,Japan,Mature,Team,8,4540,2,358621
+2026-09-05,Korea,Growing,Starter,42,15922,14,143297
+2026-09-05,Korea,Growing,Pro,22,7468,7,216563
+2026-09-05,Korea,Growing,Team,6,2317,2,183027
+2026-09-05,India,Scaling,Starter,187,29762,35,267859
+2026-09-05,India,Scaling,Pro,83,13919,17,403652
+2026-09-05,India,Scaling,Team,26,4267,6,337069
+2026-09-05,Southeast Asia,Early,Starter,61,8319,15,74867
+2026-09-05,Southeast Asia,Early,Pro,30,3845,7,111493
+2026-09-05,Southeast Asia,Early,Team,7,1198,2,94650
+2026-09-06,Japan,Mature,Starter,53,31361,20,282252
+2026-09-06,Japan,Mature,Pro,26,14651,8,424875
+2026-09-06,Japan,Mature,Team,9,4542,2,358854
+2026-09-06,Korea,Growing,Starter,53,15938,13,143442
+2026-09-06,Korea,Growing,Pro,21,7473,6,216724
+2026-09-06,Korea,Growing,Team,6,2318,2,183130
+2026-09-06,India,Scaling,Starter,218,29842,40,268578
+2026-09-06,India,Scaling,Pro,94,13952,19,404601
+2026-09-06,India,Scaling,Team,33,4279,6,338029
+2026-09-06,Southeast Asia,Early,Starter,57,8335,15,75014
+2026-09-06,Southeast Asia,Early,Pro,24,3850,8,111644
+2026-09-06,Southeast Asia,Early,Team,7,1200,2,94796
+2026-09-07,Japan,Mature,Starter,84,31391,17,282515
+2026-09-07,Japan,Mature,Pro,33,14659,10,425111
+2026-09-07,Japan,Mature,Team,13,4548,2,359260
+2026-09-07,Korea,Growing,Starter,61,15958,14,143618
+2026-09-07,Korea,Growing,Pro,32,7484,7,217032
+2026-09-07,Korea,Growing,Team,9,2321,2,183363
+2026-09-07,India,Scaling,Starter,263,29952,35,269565
+2026-09-07,India,Scaling,Pro,117,13999,17,405974
+2026-09-07,India,Scaling,Team,42,4297,5,339459
+2026-09-07,Southeast Asia,Early,Starter,74,8363,13,75263
+2026-09-07,Southeast Asia,Early,Pro,40,3866,6,112108
+2026-09-07,Southeast Asia,Early,Team,11,1204,2,95116
+2026-09-08,Japan,Mature,Starter,90,31418,22,282762
+2026-09-08,Japan,Mature,Pro,42,14675,7,425578
+2026-09-08,Japan,Mature,Team,11,4552,2,359580
+2026-09-08,Korea,Growing,Starter,61,15978,13,143803
+2026-09-08,Korea,Growing,Pro,32,7496,5,217397
+2026-09-08,Korea,Growing,Team,11,2325,2,183683
+2026-09-08,India,Scaling,Starter,247,30045,43,270401
+2026-09-08,India,Scaling,Pro,123,14047,20,407356
+2026-09-08,India,Scaling,Team,35,4311,5,340585
+2026-09-08,Southeast Asia,Early,Starter,82,8394,14,75543
+2026-09-08,Southeast Asia,Early,Pro,36,3878,8,112450
+2026-09-08,Southeast Asia,Early,Team,13,1209,2,95523
+2026-09-09,Japan,Mature,Starter,87,31451,15,283058
+2026-09-09,Japan,Mature,Pro,32,14684,9,425827
+2026-09-09,Japan,Mature,Team,13,4557,2,359987
+2026-09-09,Korea,Growing,Starter,67,16002,13,144018
+2026-09-09,Korea,Growing,Pro,30,7507,6,217702
+2026-09-09,Korea,Growing,Team,11,2330,1,184082
+2026-09-09,India,Scaling,Starter,319,30187,33,271683
+2026-09-09,India,Scaling,Pro,118,14091,21,408629
+2026-09-09,India,Scaling,Team,44,4328,7,341944
+2026-09-09,Southeast Asia,Early,Starter,84,8426,14,75833
+2026-09-09,Southeast Asia,Early,Pro,40,3893,7,112885
+2026-09-09,Southeast Asia,Early,Team,10,1213,2,95799
+2026-09-10,Japan,Mature,Starter,89,31478,22,283300
+2026-09-10,Japan,Mature,Pro,35,14695,8,426154
+2026-09-10,Japan,Mature,Team,11,4561,2,360307
+2026-09-10,Korea,Growing,Starter,58,16021,13,144188
+2026-09-10,Korea,Growing,Pro,33,7520,5,218083
+2026-09-10,Korea,Growing,Team,11,2334,2,184402
+2026-09-10,India,Scaling,Starter,313,30312,47,272809
+2026-09-10,India,Scaling,Pro,126,14142,18,410117
+2026-09-10,India,Scaling,Team,44,4346,7,343302
+2026-09-10,Southeast Asia,Early,Starter,86,8460,13,76142
+2026-09-10,Southeast Asia,Early,Pro,36,3906,6,113286
+2026-09-10,Southeast Asia,Early,Team,11,1217,2,96119
+2026-09-11,Japan,Mature,Starter,90,31508,19,283575
+2026-09-11,Japan,Mature,Pro,34,14705,9,426435
+2026-09-11,Japan,Mature,Team,11,4564,3,360548
+2026-09-11,Korea,Growing,Starter,59,16042,11,144381
+2026-09-11,Korea,Growing,Pro,30,7531,6,218387
+2026-09-11,Korea,Growing,Team,10,2338,2,184678
+2026-09-11,India,Scaling,Starter,255,30411,41,273703
+2026-09-11,India,Scaling,Pro,114,14186,19,411384
+2026-09-11,India,Scaling,Team,43,4362,7,344618
+2026-09-11,Southeast Asia,Early,Starter,85,8494,13,76446
+2026-09-11,Southeast Asia,Early,Pro,32,3917,7,113593
+2026-09-11,Southeast Asia,Early,Team,11,1221,2,96439
+2026-09-12,Japan,Mature,Starter,62,31523,19,283711
+2026-09-12,Japan,Mature,Pro,27,14709,10,426575
+2026-09-12,Japan,Mature,Team,8,4565,3,360659
+2026-09-12,Korea,Growing,Starter,54,16059,13,144531
+2026-09-12,Korea,Growing,Pro,20,7535,7,218503
+2026-09-12,Korea,Growing,Team,6,2339,2,184781
+2026-09-12,India,Scaling,Starter,213,30495,34,274451
+2026-09-12,India,Scaling,Pro,89,14217,18,412281
+2026-09-12,India,Scaling,Team,34,4374,7,345542
+2026-09-12,Southeast Asia,Early,Starter,49,8508,13,76571
+2026-09-12,Southeast Asia,Early,Pro,27,3925,7,113821
+2026-09-12,Southeast Asia,Early,Team,7,1223,2,96585
+2026-09-13,Japan,Mature,Starter,61,31537,20,283833
+2026-09-13,Japan,Mature,Pro,28,14717,8,426790
+2026-09-13,Japan,Mature,Team,8,4567,3,360769
+2026-09-13,Korea,Growing,Starter,51,16075,12,144675
+2026-09-13,Korea,Growing,Pro,25,7543,5,218757
+2026-09-13,Korea,Growing,Team,6,2340,2,184884
+2026-09-13,India,Scaling,Starter,181,30550,44,274951
+2026-09-13,India,Scaling,Pro,95,14246,23,413130
+2026-09-13,India,Scaling,Team,30,4384,6,346372
+2026-09-13,Southeast Asia,Early,Starter,62,8525,17,76725
+2026-09-13,Southeast Asia,Early,Pro,26,3934,5,114090
+2026-09-13,Southeast Asia,Early,Team,9,1226,2,96818
+2026-09-14,Japan,Mature,Starter,88,31570,15,284133
+2026-09-14,Japan,Mature,Pro,31,14725,9,427024
+2026-09-14,Japan,Mature,Team,11,4571,2,361089
+2026-09-14,Korea,Growing,Starter,68,16101,11,144913
+2026-09-14,Korea,Growing,Pro,32,7554,7,219065
+2026-09-14,Korea,Growing,Team,11,2344,2,185204
+2026-09-14,India,Scaling,Starter,247,30636,50,275724
+2026-09-14,India,Scaling,Pro,132,14301,17,414742
+2026-09-14,India,Scaling,Team,44,4402,7,347730
+2026-09-14,Southeast Asia,Early,Starter,75,8553,13,76979
+2026-09-14,Southeast Asia,Early,Pro,35,3948,5,114504
+2026-09-14,Southeast Asia,Early,Team,11,1230,2,97138
+2026-09-15,Japan,Mature,Starter,84,31600,17,284396
+2026-09-15,Japan,Mature,Pro,42,14738,10,427403
+2026-09-15,Japan,Mature,Team,10,4573,3,361287
+2026-09-15,Korea,Growing,Starter,75,16132,11,145185
+2026-09-15,Korea,Growing,Pro,30,7565,5,219398
+2026-09-15,Korea,Growing,Team,9,2347,2,185437
+2026-09-15,India,Scaling,Starter,247,30731,41,276577
+2026-09-15,India,Scaling,Pro,125,14352,18,416214
+2026-09-15,India,Scaling,Team,36,4416,5,348900
+2026-09-15,Southeast Asia,Early,Starter,85,8588,12,77292
+2026-09-15,Southeast Asia,Early,Pro,34,3960,7,114843
+2026-09-15,Southeast Asia,Early,Team,13,1235,2,97545
+2026-09-16,Japan,Mature,Starter,71,31619,20,284567
+2026-09-16,Japan,Mature,Pro,32,14747,9,427653
+2026-09-16,Japan,Mature,Team,11,4576,3,361528
+2026-09-16,Korea,Growing,Starter,66,16154,14,145386
+2026-09-16,Korea,Growing,Pro,34,7577,7,219737
+2026-09-16,Korea,Growing,Team,10,2351,2,185713
+2026-09-16,India,Scaling,Starter,308,30858,42,277724
+2026-09-16,India,Scaling,Pro,121,14400,19,417593
+2026-09-16,India,Scaling,Team,38,4431,6,350077
+2026-09-16,Southeast Asia,Early,Starter,74,8616,13,77541
+2026-09-16,Southeast Asia,Early,Pro,43,3978,6,115355
+2026-09-16,Southeast Asia,Early,Team,12,1239,2,97909
+2026-09-17,Japan,Mature,Starter,73,31641,18,284767
+2026-09-17,Japan,Mature,Pro,37,14759,8,428011
+2026-09-17,Japan,Mature,Team,10,4579,3,361725
+2026-09-17,Korea,Growing,Starter,65,16176,14,145582
+2026-09-17,Korea,Growing,Pro,32,7589,6,220074
+2026-09-17,Korea,Growing,Team,11,2355,2,186033
+2026-09-17,India,Scaling,Starter,255,30951,47,278563
+2026-09-17,India,Scaling,Pro,123,14447,20,418975
+2026-09-17,India,Scaling,Team,38,4445,7,351175
+2026-09-17,Southeast Asia,Early,Starter,93,8652,15,77867
+2026-09-17,Southeast Asia,Early,Pro,41,3993,7,115806
+2026-09-17,Southeast Asia,Early,Team,12,1244,2,98272
+2026-09-18,Japan,Mature,Starter,74,31663,18,284971
+2026-09-18,Japan,Mature,Pro,35,14769,9,428308
+2026-09-18,Japan,Mature,Team,11,4583,2,362045
+2026-09-18,Korea,Growing,Starter,58,16193,15,145734
+2026-09-18,Korea,Growing,Pro,33,7601,6,220426
+2026-09-18,Korea,Growing,Team,8,2357,2,186223
+2026-09-18,India,Scaling,Starter,270,31055,45,279495
+2026-09-18,India,Scaling,Pro,151,14508,22,420745
+2026-09-18,India,Scaling,Team,44,4464,5,352692
+2026-09-18,Southeast Asia,Early,Starter,92,8687,15,78187
+2026-09-18,Southeast Asia,Early,Pro,39,4008,7,116225
+2026-09-18,Southeast Asia,Early,Team,11,1248,2,98592
+2026-09-19,Japan,Mature,Starter,59,31674,22,285065
+2026-09-19,Japan,Mature,Pro,30,14776,10,428497
+2026-09-19,Japan,Mature,Team,9,4585,3,362199
+2026-09-19,Korea,Growing,Starter,44,16203,14,145826
+2026-09-19,Korea,Growing,Pro,21,7605,7,220558
+2026-09-19,Korea,Growing,Team,8,2360,2,186412
+2026-09-19,India,Scaling,Starter,201,31131,35,280175
+2026-09-19,India,Scaling,Pro,104,14543,23,421737
+2026-09-19,India,Scaling,Team,29,4474,6,353478
+2026-09-19,Southeast Asia,Early,Starter,56,8700,18,78302
+2026-09-19,Southeast Asia,Early,Pro,25,4014,7,116420
+2026-09-19,Southeast Asia,Early,Team,9,1250,3,98746
+2026-09-20,Japan,Mature,Starter,59,31686,20,285177
+2026-09-20,Japan,Mature,Pro,24,14779,10,428590
+2026-09-20,Japan,Mature,Team,8,4586,3,362310
+2026-09-20,Korea,Growing,Starter,54,16221,12,145985
+2026-09-20,Korea,Growing,Pro,21,7611,6,220719
+2026-09-20,Korea,Growing,Team,7,2362,2,186559
+2026-09-20,India,Scaling,Starter,185,31193,39,280739
+2026-09-20,India,Scaling,Pro,97,14575,21,422675
+2026-09-20,India,Scaling,Team,26,4482,7,354054
+2026-09-20,Southeast Asia,Early,Starter,55,8713,18,78413
+2026-09-20,Southeast Asia,Early,Pro,25,4022,6,116645
+2026-09-20,Southeast Asia,Early,Team,9,1252,3,98900
+2026-09-21,Japan,Mature,Starter,80,31712,18,285411
+2026-09-21,Japan,Mature,Pro,33,14787,10,428826
+2026-09-21,Japan,Mature,Team,11,4589,3,362551
+2026-09-21,Korea,Growing,Starter,69,16248,11,146228
+2026-09-21,Korea,Growing,Pro,30,7620,7,220994
+2026-09-21,Korea,Growing,Team,10,2365,2,186835
+2026-09-21,India,Scaling,Starter,321,31333,37,281995
+2026-09-21,India,Scaling,Pro,152,14643,16,424635
+2026-09-21,India,Scaling,Team,41,4498,6,355362
+2026-09-21,Southeast Asia,Early,Starter,84,8744,15,78693
+2026-09-21,Southeast Asia,Early,Pro,35,4034,7,117000
+2026-09-21,Southeast Asia,Early,Team,11,1256,2,99220
+2026-09-22,Japan,Mature,Starter,73,31737,16,285629
+2026-09-22,Japan,Mature,Pro,40,14799,10,429174
+2026-09-22,Japan,Mature,Team,11,4593,2,362871
+2026-09-22,Korea,Growing,Starter,77,16279,11,146510
+2026-09-22,Korea,Growing,Pro,35,7634,6,221379
+2026-09-22,Korea,Growing,Team,11,2369,2,187155
+2026-09-22,India,Scaling,Starter,212,31401,48,282613
+2026-09-22,India,Scaling,Pro,93,14674,20,425539
+2026-09-22,India,Scaling,Team,28,4507,7,356025
+2026-09-22,Southeast Asia,Early,Starter,89,8777,16,78990
+2026-09-22,Southeast Asia,Early,Pro,44,4052,7,117499
+2026-09-22,Southeast Asia,Early,Team,13,1260,3,99548
+2026-09-23,Japan,Mature,Starter,77,31758,21,285821
+2026-09-23,Japan,Mature,Pro,40,14814,7,429609
+2026-09-23,Japan,Mature,Team,12,4597,3,363155
+2026-09-23,Korea,Growing,Starter,59,16297,14,146676
+2026-09-23,Korea,Growing,Pro,36,7649,5,221808
+2026-09-23,Korea,Growing,Team,11,2373,2,187475
+2026-09-23,India,Scaling,Starter,226,31481,45,283326
+2026-09-23,India,Scaling,Pro,103,14710,20,426602
+2026-09-23,India,Scaling,Team,34,4520,5,357108
+2026-09-23,Southeast Asia,Early,Starter,90,8811,15,79300
+2026-09-23,Southeast Asia,Early,Pro,41,4068,6,117979
+2026-09-23,Southeast Asia,Early,Team,14,1266,2,99998
+2026-09-24,Japan,Mature,Starter,76,31781,19,286026
+2026-09-24,Japan,Mature,Pro,36,14824,10,429893
+2026-09-24,Japan,Mature,Team,10,4599,3,363353
+2026-09-24,Korea,Growing,Starter,63,16319,13,146871
+2026-09-24,Korea,Growing,Pro,27,7656,7,222036
+2026-09-24,Korea,Growing,Team,8,2376,2,187665
+2026-09-24,India,Scaling,Starter,189,31542,43,283875
+2026-09-24,India,Scaling,Pro,88,14738,21,427396
+2026-09-24,India,Scaling,Team,32,4532,6,358024
+2026-09-24,Southeast Asia,Early,Starter,89,8845,15,79606
+2026-09-24,Southeast Asia,Early,Pro,43,4084,8,118433
+2026-09-24,Southeast Asia,Early,Team,12,1270,2,100362
+2026-09-25,Japan,Mature,Starter,84,31805,22,286244
+2026-09-25,Japan,Mature,Pro,36,14837,7,430264
+2026-09-25,Japan,Mature,Team,13,4604,3,363680
+2026-09-25,Korea,Growing,Starter,66,16340,15,147062
+2026-09-25,Korea,Growing,Pro,34,7668,7,222375
+2026-09-25,Korea,Growing,Team,11,2380,2,187984
+2026-09-25,India,Scaling,Starter,233,31630,40,284668
+2026-09-25,India,Scaling,Pro,90,14763,24,428136
+2026-09-25,India,Scaling,Team,28,4541,6,358767
+2026-09-25,Southeast Asia,Early,Starter,83,8878,13,79900
+2026-09-25,Southeast Asia,Early,Pro,43,4101,7,118916
+2026-09-25,Southeast Asia,Early,Team,12,1274,3,100646
+2026-09-26,Japan,Mature,Starter,49,31811,21,286297
+2026-09-26,Japan,Mature,Pro,25,14842,8,430431
+2026-09-26,Japan,Mature,Team,9,4606,3,363835
+2026-09-26,Korea,Growing,Starter,53,16356,13,147208
+2026-09-26,Korea,Growing,Pro,22,7674,6,222552
+2026-09-26,Korea,Growing,Team,7,2381,2,188131
+2026-09-26,India,Scaling,Starter,158,31675,42,285072
+2026-09-26,India,Scaling,Pro,70,14784,18,428730
+2026-09-26,India,Scaling,Team,26,4551,5,359501
+2026-09-26,Southeast Asia,Early,Starter,66,8900,14,80100
+2026-09-26,Southeast Asia,Early,Pro,27,4108,7,119144
+2026-09-26,Southeast Asia,Early,Team,8,1275,3,100757
+2026-09-27,Japan,Mature,Starter,60,31823,21,286405
+2026-09-27,Japan,Mature,Pro,24,14846,10,430524
+2026-09-27,Japan,Mature,Team,9,4608,2,364068
+2026-09-27,Korea,Growing,Starter,47,16367,15,147305
+2026-09-27,Korea,Growing,Pro,20,7678,7,222668
+2026-09-27,Korea,Growing,Team,6,2383,2,188233
+2026-09-27,India,Scaling,Starter,148,31718,38,285463
+2026-09-27,India,Scaling,Pro,83,14813,16,429590
+2026-09-27,India,Scaling,Team,23,4557,6,360027
+2026-09-27,Southeast Asia,Early,Starter,60,8915,18,80235
+2026-09-27,Southeast Asia,Early,Pro,30,4118,7,119419
+2026-09-27,Southeast Asia,Early,Team,7,1276,3,100824
+2026-09-28,Japan,Mature,Starter,88,31851,20,286661
+2026-09-28,Japan,Mature,Pro,38,14859,8,430898
+2026-09-28,Japan,Mature,Team,11,4612,3,364309
+2026-09-28,Korea,Growing,Starter,58,16385,14,147466
+2026-09-28,Korea,Growing,Pro,36,7693,5,223097
+2026-09-28,Korea,Growing,Team,11,2387,2,188553
+2026-09-28,India,Scaling,Starter,202,31789,40,286103
+2026-09-28,India,Scaling,Pro,114,14859,17,430915
+2026-09-28,India,Scaling,Team,36,4570,7,361038
+2026-09-28,Southeast Asia,Early,Starter,72,8941,14,80466
+2026-09-28,Southeast Asia,Early,Pro,43,4135,7,119902
+2026-09-28,Southeast Asia,Early,Team,13,1280,3,101152
+2026-09-29,Japan,Mature,Starter,69,31870,19,286831
+2026-09-29,Japan,Mature,Pro,38,14871,8,431272
+2026-09-29,Japan,Mature,Team,13,4616,3,364636
+2026-09-29,Korea,Growing,Starter,66,16406,15,147658
+2026-09-29,Korea,Growing,Pro,30,7704,6,223402
+2026-09-29,Korea,Growing,Team,11,2391,2,188873
+2026-09-29,India,Scaling,Starter,211,31856,49,286706
+2026-09-29,India,Scaling,Pro,92,14891,19,431832
+2026-09-29,India,Scaling,Team,27,4579,6,361737
+2026-09-29,Southeast Asia,Early,Starter,78,8969,15,80717
+2026-09-29,Southeast Asia,Early,Pro,37,4149,6,120318
+2026-09-29,Southeast Asia,Early,Team,12,1285,2,101515
+2026-09-30,Japan,Mature,Starter,71,31891,18,287021
+2026-09-30,Japan,Mature,Pro,35,14884,7,431627
+2026-09-30,Japan,Mature,Team,11,4619,3,364877
+2026-09-30,Korea,Growing,Starter,67,16430,13,147873
+2026-09-30,Korea,Growing,Pro,33,7715,7,223725
+2026-09-30,Korea,Growing,Team,10,2394,2,189150
+2026-09-30,India,Scaling,Starter,207,31923,47,287308
+2026-09-30,India,Scaling,Pro,104,14927,21,432882
+2026-09-30,India,Scaling,Team,31,4590,6,362610
+2026-09-30,Southeast Asia,Early,Starter,91,9004,15,81032
+2026-09-30,Southeast Asia,Early,Pro,37,4163,6,120734
+2026-09-30,Southeast Asia,Early,Team,11,1289,2,101835
+2026-10-01,Japan,Mature,Starter,72,31911,20,287197
+2026-10-01,Japan,Mature,Pro,35,14892,11,431867
+2026-10-01,Japan,Mature,Team,12,4622,3,365162
+2026-10-01,Korea,Growing,Starter,78,16462,11,148160
+2026-10-01,Korea,Growing,Pro,34,7728,5,224122
+2026-10-01,Korea,Growing,Team,11,2398,2,189470
+2026-10-01,India,Scaling,Starter,252,32013,49,288114
+2026-10-01,India,Scaling,Pro,103,14968,16,434060
+2026-10-01,India,Scaling,Team,28,4598,7,363274
+2026-10-01,Southeast Asia,Early,Starter,79,9030,17,81270
+2026-10-01,Southeast Asia,Early,Pro,37,4176,8,121092
+2026-10-01,Southeast Asia,Early,Team,11,1293,2,102155
+2026-10-02,Japan,Mature,Starter,78,31937,17,287430
+2026-10-02,Japan,Mature,Pro,40,14905,9,432244
+2026-10-02,Japan,Mature,Team,10,4625,3,365359
+2026-10-02,Korea,Growing,Starter,60,16482,13,148340
+2026-10-02,Korea,Growing,Pro,31,7738,7,224414
+2026-10-02,Korea,Growing,Team,8,2401,2,189659
+2026-10-02,India,Scaling,Starter,193,32069,50,288620
+2026-10-02,India,Scaling,Pro,93,14996,23,434877
+2026-10-02,India,Scaling,Team,35,4612,6,364320
+2026-10-02,Southeast Asia,Early,Starter,81,9059,16,81527
+2026-10-02,Southeast Asia,Early,Pro,38,4190,6,121524
+2026-10-02,Southeast Asia,Early,Team,13,1298,2,102562
+2026-10-03,Japan,Mature,Starter,57,31946,22,287514
+2026-10-03,Japan,Mature,Pro,23,14907,11,432291
+2026-10-03,Japan,Mature,Team,8,4626,3,365470
+2026-10-03,Korea,Growing,Starter,49,16495,14,148456
+2026-10-03,Korea,Growing,Pro,23,7746,5,224635
+2026-10-03,Korea,Growing,Team,7,2403,2,189805
+2026-10-03,India,Scaling,Starter,175,32128,37,289153
+2026-10-03,India,Scaling,Pro,74,15014,22,435419
+2026-10-03,India,Scaling,Team,22,4617,7,364723
+2026-10-03,Southeast Asia,Early,Starter,58,9077,14,81689
+2026-10-03,Southeast Asia,Early,Pro,26,4196,9,121678
+2026-10-03,Southeast Asia,Early,Team,8,1301,2,102751
+2026-10-04,Japan,Mature,Starter,59,31956,23,287600
+2026-10-04,Japan,Mature,Pro,24,14910,10,432384
+2026-10-04,Japan,Mature,Team,9,4628,3,365624
+2026-10-04,Korea,Growing,Starter,53,16512,12,148611
+2026-10-04,Korea,Growing,Pro,21,7751,7,224767
+2026-10-04,Korea,Growing,Team,7,2404,2,189952
+2026-10-04,India,Scaling,Starter,150,32173,38,289553
+2026-10-04,India,Scaling,Pro,85,15041,20,436195
+2026-10-04,India,Scaling,Team,23,4624,5,365328
+2026-10-04,Southeast Asia,Early,Starter,66,9098,15,81880
+2026-10-04,Southeast Asia,Early,Pro,30,4203,9,121896
+2026-10-04,Southeast Asia,Early,Team,10,1304,2,103028
+2026-10-05,Japan,Mature,Starter,86,31984,19,287854
+2026-10-05,Japan,Mature,Pro,40,14923,9,432761
+2026-10-05,Japan,Mature,Team,13,4633,2,366031
+2026-10-05,Korea,Growing,Starter,62,16530,16,148774
+2026-10-05,Korea,Growing,Pro,32,7763,5,225133
+2026-10-05,Korea,Growing,Team,11,2409,2,190272
+2026-10-05,India,Scaling,Starter,216,32239,52,290155
+2026-10-05,India,Scaling,Pro,108,15084,17,437424
+2026-10-05,India,Scaling,Team,34,4637,6,366331
+2026-10-05,Southeast Asia,Early,Starter,90,9129,18,82164
+2026-10-05,Southeast Asia,Early,Pro,41,4220,6,122376
+2026-10-05,Southeast Asia,Early,Team,11,1308,2,103348
+2026-10-06,Japan,Mature,Starter,76,32005,21,288041
+2026-10-06,Japan,Mature,Pro,41,14935,10,433125
+2026-10-06,Japan,Mature,Team,11,4636,3,366272
+2026-10-06,Korea,Growing,Starter,76,16559,13,149033
+2026-10-06,Korea,Growing,Pro,35,7776,6,225517
+2026-10-06,Korea,Growing,Team,10,2412,2,190548
+2026-10-06,India,Scaling,Starter,231,32318,48,290866
+2026-10-06,India,Scaling,Pro,103,15121,19,438516
+2026-10-06,India,Scaling,Team,35,4650,6,367378
+2026-10-06,Southeast Asia,Early,Starter,74,9154,16,82386
+2026-10-06,Southeast Asia,Early,Pro,36,4232,8,122718
+2026-10-06,Southeast Asia,Early,Team,12,1312,3,103632
+2026-10-07,Japan,Mature,Starter,88,32036,17,288324
+2026-10-07,Japan,Mature,Pro,42,14948,10,433505
+2026-10-07,Japan,Mature,Team,12,4641,2,366635
+2026-10-07,Korea,Growing,Starter,68,16585,12,149261
+2026-10-07,Korea,Growing,Pro,32,7788,6,225853
+2026-10-07,Korea,Growing,Team,11,2416,2,190868
+2026-10-07,India,Scaling,Starter,222,32391,50,291515
+2026-10-07,India,Scaling,Pro,102,15152,25,439418
+2026-10-07,India,Scaling,Team,37,4666,5,368590
+2026-10-07,Southeast Asia,Early,Starter,87,9184,18,82655
+2026-10-07,Southeast Asia,Early,Pro,39,4247,6,123166
+2026-10-07,Southeast Asia,Early,Team,12,1316,2,103996
+2026-10-08,Japan,Mature,Starter,75,32055,22,288497
+2026-10-08,Japan,Mature,Pro,41,14962,9,433898
+2026-10-08,Japan,Mature,Team,11,4645,2,366955
+2026-10-08,Korea,Growing,Starter,63,16606,13,149456
+2026-10-08,Korea,Growing,Pro,28,7797,6,226126
+2026-10-08,Korea,Growing,Team,10,2420,2,191144
+2026-10-08,India,Scaling,Starter,243,32472,52,292250
+2026-10-08,India,Scaling,Pro,89,15184,17,440345
+2026-10-08,India,Scaling,Team,29,4675,7,369297
+2026-10-08,Southeast Asia,Early,Starter,85,9217,14,82949
+2026-10-08,Southeast Asia,Early,Pro,40,4261,8,123572
+2026-10-08,Southeast Asia,Early,Team,12,1320,3,104280
+2026-10-09,Japan,Mature,Starter,84,32084,17,288760
+2026-10-09,Japan,Mature,Pro,42,14975,10,434278
+2026-10-09,Japan,Mature,Team,11,4649,2,367275
+2026-10-09,Korea,Growing,Starter,60,16626,13,149636
+2026-10-09,Korea,Growing,Pro,35,7811,6,226510
+2026-10-09,Korea,Growing,Team,10,2423,2,191421
+2026-10-09,India,Scaling,Starter,190,32536,41,292821
+2026-10-09,India,Scaling,Pro,101,15219,21,441347
+2026-10-09,India,Scaling,Team,35,4687,7,370265
+2026-10-09,Southeast Asia,Early,Starter,95,9256,13,83303
+2026-10-09,Southeast Asia,Early,Pro,41,4276,8,123994
+2026-10-09,Southeast Asia,Early,Team,11,1323,3,104521
+2026-10-10,Japan,Mature,Starter,53,32097,17,288869
+2026-10-10,Japan,Mature,Pro,24,14978,10,434371
+2026-10-10,Japan,Mature,Team,9,4651,3,367429
+2026-10-10,Korea,Growing,Starter,50,16641,13,149767
+2026-10-10,Korea,Growing,Pro,24,7817,7,226690
+2026-10-10,Korea,Growing,Team,7,2425,2,191567
+2026-10-10,India,Scaling,Starter,150,32574,44,293168
+2026-10-10,India,Scaling,Pro,72,15236,22,441857
+2026-10-10,India,Scaling,Team,22,4694,5,370826
+2026-10-10,Southeast Asia,Early,Starter,54,9272,14,83444
+2026-10-10,Southeast Asia,Early,Pro,32,4286,7,124301
+2026-10-10,Southeast Asia,Early,Team,10,1326,3,104718
+2026-10-11,Japan,Mature,Starter,65,32110,22,288993
+2026-10-11,Japan,Mature,Pro,24,14980,11,434434
+2026-10-11,Japan,Mature,Team,8,4652,3,367540
+2026-10-11,Korea,Growing,Starter,51,16656,13,149902
+2026-10-11,Korea,Growing,Pro,20,7822,6,226835
+2026-10-11,Korea,Growing,Team,7,2427,2,191713
+2026-10-11,India,Scaling,Starter,150,32620,37,293577
+2026-10-11,India,Scaling,Pro,77,15256,23,442418
+2026-10-11,India,Scaling,Team,27,4702,7,371446
+2026-10-11,Southeast Asia,Early,Starter,63,9291,15,83621
+2026-10-11,Southeast Asia,Early,Pro,29,4295,7,124561
+2026-10-11,Southeast Asia,Early,Team,9,1327,3,104872
+2026-10-12,Japan,Mature,Starter,81,32139,16,289250
+2026-10-12,Japan,Mature,Pro,36,14993,7,434806
+2026-10-12,Japan,Mature,Team,11,4655,3,367781
+2026-10-12,Korea,Growing,Starter,85,16689,14,150197
+2026-10-12,Korea,Growing,Pro,40,7837,7,227270
+2026-10-12,Korea,Growing,Team,12,2431,2,192077
+2026-10-12,India,Scaling,Starter,213,32694,43,294245
+2026-10-12,India,Scaling,Pro,102,15288,24,443349
+2026-10-12,India,Scaling,Team,35,4714,7,372414
+2026-10-12,Southeast Asia,Early,Starter,99,9331,15,83976
+2026-10-12,Southeast Asia,Early,Pro,42,4309,9,124970
+2026-10-12,Southeast Asia,Early,Team,13,1333,2,105279
+2026-10-13,Japan,Mature,Starter,76,32164,17,289473
+2026-10-13,Japan,Mature,Pro,40,15007,8,435212
+2026-10-13,Japan,Mature,Team,11,4660,2,368101
+2026-10-13,Korea,Growing,Starter,74,16716,13,150446
+2026-10-13,Korea,Growing,Pro,43,7855,6,227782
+2026-10-13,Korea,Growing,Team,12,2436,2,192440
+2026-10-13,India,Scaling,Starter,243,32778,50,294998
+2026-10-13,India,Scaling,Pro,116,15329,23,444532
+2026-10-13,India,Scaling,Team,34,4728,5,373496
+2026-10-13,Southeast Asia,Early,Starter,67,9349,19,84137
+2026-10-13,Southeast Asia,Early,Pro,38,4321,9,125315
+2026-10-13,Southeast Asia,Early,Team,10,1335,3,105477
+2026-10-14,Japan,Mature,Starter,71,32182,21,289636
+2026-10-14,Japan,Mature,Pro,33,15017,8,435506
+2026-10-14,Japan,Mature,Team,13,4664,3,368428
+2026-10-14,Korea,Growing,Starter,93,16753,14,150781
+2026-10-14,Korea,Growing,Pro,37,7868,7,228169
+2026-10-14,Korea,Growing,Team,11,2440,2,192760
+2026-10-14,India,Scaling,Starter,230,32865,39,295785
+2026-10-14,India,Scaling,Pro,94,15360,20,445452
+2026-10-14,India,Scaling,Team,32,4737,8,374255
+2026-10-14,Southeast Asia,Early,Starter,73,9372,17,84345
+2026-10-14,Southeast Asia,Early,Pro,34,4334,6,125683
+2026-10-14,Southeast Asia,Early,Team,9,1338,2,105710
+2026-10-15,Japan,Mature,Starter,72,32205,16,289848
+2026-10-15,Japan,Mature,Pro,33,15027,9,435771
+2026-10-15,Japan,Mature,Team,12,4667,3,368713
+2026-10-15,Korea,Growing,Starter,80,16785,12,151069
+2026-10-15,Korea,Growing,Pro,34,7881,6,228537
+2026-10-15,Korea,Growing,Team,11,2444,2,193080
+2026-10-15,India,Scaling,Starter,219,32932,53,296392
+2026-10-15,India,Scaling,Pro,121,15406,21,446773
+2026-10-15,India,Scaling,Team,31,4748,6,375128
+2026-10-15,Southeast Asia,Early,Starter,63,9387,19,84486
+2026-10-15,Southeast Asia,Early,Pro,29,4343,7,125943
+2026-10-15,Southeast Asia,Early,Team,11,1342,2,106030
+2026-10-16,Japan,Mature,Starter,75,32229,18,290057
+2026-10-16,Japan,Mature,Pro,37,15037,10,436072
+2026-10-16,Japan,Mature,Team,10,4670,3,368910
+2026-10-16,Korea,Growing,Starter,90,16823,12,151406
+2026-10-16,Korea,Growing,Pro,39,7896,6,228985
+2026-10-16,Korea,Growing,Team,12,2449,2,193443
+2026-10-16,India,Scaling,Starter,220,33014,39,297130
+2026-10-16,India,Scaling,Pro,116,15446,24,447927
+2026-10-16,India,Scaling,Team,36,4762,6,376218
+2026-10-16,Southeast Asia,Early,Starter,62,9405,16,84649
+2026-10-16,Southeast Asia,Early,Pro,38,4356,8,126317
+2026-10-16,Southeast Asia,Early,Team,12,1347,2,106393
+2026-10-17,Japan,Mature,Starter,56,32239,20,290155
+2026-10-17,Japan,Mature,Pro,30,15042,11,436231
+2026-10-17,Japan,Mature,Team,9,4673,2,369143
+2026-10-17,Korea,Growing,Starter,67,16846,14,151612
+2026-10-17,Korea,Growing,Pro,25,7903,7,229181
+2026-10-17,Korea,Growing,Team,9,2452,2,193676
+2026-10-17,India,Scaling,Starter,140,33047,44,297427
+2026-10-17,India,Scaling,Pro,79,15468,21,448578
+2026-10-17,India,Scaling,Team,21,4766,8,376498
+2026-10-17,Southeast Asia,Early,Starter,52,9415,19,84735
+2026-10-17,Southeast Asia,Early,Pro,23,4360,8,126452
+2026-10-17,Southeast Asia,Early,Team,9,1350,2,106626
+2026-10-18,Japan,Mature,Starter,58,32254,17,290289
+2026-10-18,Japan,Mature,Pro,29,15050,8,436462
+2026-10-18,Japan,Mature,Team,8,4674,3,369254
+2026-10-18,Korea,Growing,Starter,57,16865,12,151786
+2026-10-18,Korea,Growing,Pro,26,7912,5,229451
+2026-10-18,Korea,Growing,Team,9,2455,2,193909
+2026-10-18,India,Scaling,Starter,186,33113,37,298015
+2026-10-18,India,Scaling,Pro,86,15490,25,449224
+2026-10-18,India,Scaling,Team,21,4771,6,376937
+2026-10-18,Southeast Asia,Early,Starter,45,9424,16,84814
+2026-10-18,Southeast Asia,Early,Pro,23,4365,8,126586
+2026-10-18,Southeast Asia,Early,Team,7,1352,2,106772

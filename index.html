@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Atlas Cloud · Asia Dashboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg: #F6F7F9; --card: #FFFFFF; --text: #14161B; --muted: #6B7280; --border: #E5E7EB;
+    --accent: #3B5BDB; --accent-bg: #EEF2FF;
+    --up: #138A55; --up-bg: #E8F6EF; --down: #C2410C; --down-bg: #FFF1E8;
+    --m1: #3B5BDB; --m2: #0EA5A4; --m3: #E8590C; --m4: #9C36B5;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 14px/1.5 Inter, system-ui, sans-serif; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 24px 16px 48px; }
+  header { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px; margin-bottom: 20px; }
+  h1 { font-size: 22px; margin: 0; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); font-size: 13px; }
+  .badge { display: inline-block; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 99px;
+           background: #FEF3C7; color: #92400E; margin-left: 8px; vertical-align: middle; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 18px; }
+  .summary { border-left: 4px solid var(--accent); margin-bottom: 16px; }
+  .summary .top { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+  .summary h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 6px; }
+  .summary .headline { font-size: 17px; font-weight: 600; margin: 0 0 8px; }
+  .summary ul { margin: 0 0 8px; padding-left: 18px; }
+  .summary .watch { color: var(--muted); margin: 0; }
+  .chip { font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 99px; background: var(--accent-bg); color: var(--accent); white-space: nowrap; height: fit-content; }
+  .filters { display: flex; flex-wrap: wrap; gap: 12px 20px; margin-bottom: 16px; align-items: center; }
+  .seg { display: inline-flex; background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 2px; flex-wrap: wrap; }
+  .seg button { border: 0; background: none; font: inherit; font-size: 13px; padding: 5px 10px; border-radius: 6px; cursor: pointer; color: var(--muted); }
+  .seg button.on { background: var(--accent); color: #fff; }
+  .flabel { font-size: 12px; color: var(--muted); margin-right: 6px; }
+  .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 16px; }
+  .kpi .label { color: var(--muted); font-size: 12px; }
+  .kpi .value { font-size: 24px; font-weight: 700; margin: 2px 0; letter-spacing: -0.01em; }
+  .delta { font-size: 12px; font-weight: 600; padding: 1px 6px; border-radius: 6px; }
+  .delta.up { color: var(--up); background: var(--up-bg); }
+  .delta.down { color: var(--down); background: var(--down-bg); }
+  .delta.flat { color: var(--muted); background: #F3F4F6; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 16px; }
+  .card h3 { font-size: 14px; margin: 0 0 12px; }
+  .chartbox { position: relative; height: 260px; }
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: right; padding: 8px 6px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  th:first-child, td:first-child, th:nth-child(2), td:nth-child(2) { text-align: left; }
+  th { color: var(--muted); font-weight: 500; font-size: 12px; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }
+  .stage { font-size: 11px; color: var(--muted); border: 1px solid var(--border); border-radius: 99px; padding: 1px 7px; }
+  .tablewrap { overflow-x: auto; }
+  footer { color: var(--muted); font-size: 12px; margin-top: 20px; }
+  @media (max-width: 860px) { .kpis { grid-template-columns: repeat(2, 1fr); } .grid2 { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Atlas Cloud · Asia business dashboard <span class="badge">Demo data</span></h1>
+      <div class="sub" id="asof">Loading…</div>
+    </div>
+  </header>
+
+  <section class="card summary" id="summary" hidden>
+    <div class="top">
+      <div>
+        <h2>What changed this week</h2>
+        <p class="headline" id="s-head"></p>
+      </div>
+      <span class="chip" id="s-source"></span>
+    </div>
+    <ul id="s-bullets"></ul>
+    <p class="watch" id="s-watch"></p>
+  </section>
+
+  <div class="filters">
+    <div><span class="flabel">Market</span><div class="seg" id="f-market"></div></div>
+    <div><span class="flabel">Plan</span><div class="seg" id="f-plan"></div></div>
+    <div><span class="flabel">Period</span><div class="seg" id="f-period"></div></div>
+  </div>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="grid2">
+    <div class="card"><h3 id="c1-title">MRR by market (weekly)</h3><div class="chartbox"><canvas id="c1"></canvas></div></div>
+    <div class="card"><h3 id="c2-title">Signups by market (weekly)</h3><div class="chartbox"><canvas id="c2"></canvas></div></div>
+  </div>
+
+  <div class="card">
+    <h3 id="t-title">Market comparison</h3>
+    <div class="tablewrap"><table id="table"></table></div>
+  </div>
+
+  <footer>All numbers are invented for this demo. Refreshed daily by a scheduled job; the summary is rebuilt each run.</footer>
+</div>
+
+<script>
+const MARKETS = ["Japan", "Korea", "India", "Southeast Asia"];
+const PLANS = ["Starter", "Pro", "Team"];
+const COLORS = { Japan: "var(--m1)", Korea: "var(--m2)", India: "var(--m3)", "Southeast Asia": "var(--m4)",
+                 Starter: "var(--m1)", Pro: "var(--m2)", Team: "var(--m3)" };
+const PERIODS = { "1 wk": 7, "4 wks": 28, "12 wks": 84, "YTD": null };
+const state = { market: "All", plan: "All", period: "12 wks" };
+let rows = [], lastDay, charts = {};
+
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v.slice(4, -1)).trim();
+const color = k => css(COLORS[k]);
+const fmt = n => n >= 1e6 ? (n / 1e6).toFixed(2) + "M" : n >= 1e4 ? (n / 1e3).toFixed(1) + "k" : Math.round(n).toLocaleString();
+const money = n => "$" + fmt(n);
+const iso = d => d.toISOString().slice(0, 10);
+const addDays = (d, n) => { const x = new Date(d); x.setUTCDate(x.getUTCDate() + n); return x; };
+
+function parseCSV(text) {
+  const [head, ...lines] = text.trim().split(/\r?\n/);
+  const keys = head.split(",");
+  return lines.map(l => {
+    const v = l.split(","), o = {};
+    keys.forEach((k, i) => o[k] = isNaN(v[i]) || k === "date" ? v[i] : +v[i]);
+    return o;
+  });
+}
+
+function seg(id, options, key) {
+  const el = document.getElementById(id);
+  el.innerHTML = options.map(o => `<button data-v="${o}">${o}</button>`).join("");
+  el.onclick = e => { if (e.target.dataset.v) { state[key] = e.target.dataset.v; render(); } };
+}
+
+function range() {
+  const days = PERIODS[state.period];
+  const end = lastDay;
+  const start = days ? addDays(end, -(days - 1)) : new Date(Date.UTC(end.getUTCFullYear(), 0, 1));
+  const len = Math.round((end - start) / 864e5) + 1;
+  return { start, end, prevStart: addDays(start, -len), prevEnd: addDays(start, -1), len };
+}
+
+function pick(r) {
+  return (state.market === "All" || r.market === state.market) && (state.plan === "All" || r.plan === state.plan);
+}
+
+function stats(list, start, end) {
+  const s = iso(start), e = iso(end);
+  let signups = 0, churned = 0, activeSum = 0, mrrEnd = 0, activeEnd = 0;
+  const days = new Set();
+  for (const r of list) {
+    if (r.date < s || r.date > e) continue;
+    signups += r.signups; churned += r.churned_users; activeSum += r.active_users; days.add(r.date);
+    if (r.date === e) { mrrEnd += r.mrr_usd; activeEnd += r.active_users; }
+  }
+  const avgActive = days.size ? activeSum / days.size : 0;
+  const churnMonthly = avgActive ? churned / avgActive * (30 / Math.max(days.size, 1)) : 0;
+  return { signups, mrr: mrrEnd, active: activeEnd, churn: churnMonthly };
+}
+
+function delta(a, b, invert = false, points = false) {
+  if (!b) return `<span class="delta flat">n/a</span>`;
+  const v = points ? (a - b) * 100 : (a - b) / b * 100;
+  const good = invert ? v < 0 : v > 0;
+  const cls = Math.abs(v) < 0.5 ? "flat" : good ? "up" : "down";
+  const txt = points ? `${v >= 0 ? "+" : ""}${v.toFixed(2)} pts` : `${v >= 0 ? "+" : ""}${v.toFixed(1)}%`;
+  return `<span class="delta ${cls}">${txt}</span>`;
+}
+
+function weekly(list, key, groupBy, mode) {
+  // mode "sum" adds up the week; mode "last" takes the last day of each week (point-in-time metrics)
+  const { start, end } = range();
+  const s = iso(start), e = iso(end);
+  const weeks = [], idx = {};
+  for (let d = new Date(start); d <= end; d = addDays(d, 7)) { idx[iso(d)] = weeks.length; weeks.push(iso(d)); }
+  const series = {};
+  for (const r of list) {
+    if (r.date < s || r.date > e) continue;
+    const off = Math.floor((new Date(r.date + "T00:00:00Z") - start) / (7 * 864e5));
+    const g = r[groupBy];
+    series[g] = series[g] || {};
+    const cell = series[g][off] = series[g][off] || { v: 0, day: "" };
+    if (mode === "sum") cell.v += r[key];
+    else if (r.date > cell.day) { cell.day = r.date; cell.v = r[key]; cell.parts = {}; cell.parts[r.plan + r.market] = r[key]; }
+    else if (r.date === cell.day) { cell.parts[r.plan + r.market] = r[key]; cell.v = Object.values(cell.parts).reduce((a, b) => a + b, 0); }
+  }
+  return { labels: weeks.map(w => new Date(w + "T00:00:00Z").toLocaleDateString("en-GB", { day: "numeric", month: "short", timeZone: "UTC" })), series };
+}
+
+function drawChart(id, type, data, groups, money_) {
+  const ds = groups.filter(g => data.series[g]).map(g => ({
+    label: g, data: data.labels.map((_, i) => data.series[g][i] ? data.series[g][i].v : null),
+    borderColor: color(g), backgroundColor: color(g), borderWidth: 2, pointRadius: 0, tension: 0.25,
+    stack: type === "bar" ? "s" : undefined,
+  }));
+  if (charts[id]) charts[id].destroy();
+  charts[id] = new Chart(document.getElementById(id), {
+    type, data: { labels: data.labels, datasets: ds },
+    options: {
+      maintainAspectRatio: false, interaction: { mode: "index", intersect: false },
+      plugins: { legend: { position: "bottom", labels: { boxWidth: 10, usePointStyle: true } },
+                 tooltip: { callbacks: { label: c => `${c.dataset.label}: ${money_ ? money(c.raw) : fmt(c.raw)}` } } },
+      scales: { x: { grid: { display: false }, stacked: type === "bar" },
+                y: { stacked: type === "bar", ticks: { callback: v => money_ ? money(v) : fmt(v) }, grid: { color: "#EEF0F3" } } },
+    },
+  });
+}
+
+function render() {
+  for (const [id, key] of [["f-market", "market"], ["f-plan", "plan"], ["f-period", "period"]])
+    document.querySelectorAll(`#${id} button`).forEach(b => b.classList.toggle("on", b.dataset.v === state[key]));
+
+  const r = range();
+  const list = rows.filter(pick);
+  const now = stats(list, r.start, r.end), prev = stats(list, r.prevStart, r.prevEnd);
+  const vs = `vs previous ${r.len} days`;
+  document.getElementById("kpis").innerHTML = [
+    ["Signups", fmt(now.signups), delta(now.signups, prev.signups)],
+    ["Active users", fmt(now.active), delta(now.active, prev.active)],
+    ["Churn (monthly rate)", (now.churn * 100).toFixed(2) + "%", delta(now.churn, prev.churn, true, true)],
+    ["MRR", money(now.mrr), delta(now.mrr, prev.mrr)],
+  ].map(([l, v, d]) => `<div class="card kpi"><div class="label">${l}</div><div class="value">${v}</div>${d} <span class="sub">${vs}</span></div>`).join("");
+
+  const byPlan = state.market !== "All";
+  const groupBy = byPlan ? "plan" : "market", groups = byPlan ? PLANS : MARKETS;
+  const what = byPlan ? `in ${state.market}, by plan` : "by market";
+  document.getElementById("c1-title").textContent = `MRR ${what} (weekly)`;
+  document.getElementById("c2-title").textContent = `Signups ${what} (weekly)`;
+  drawChart("c1", "line", weekly(list, "mrr_usd", groupBy, "last"), groups, true);
+  drawChart("c2", "bar", weekly(list, "signups", groupBy, "sum"), groups, false);
+
+  const planRows = rows.filter(x => state.plan === "All" || x.plan === state.plan);
+  const stage = Object.fromEntries(rows.map(x => [x.market, x.stage]));
+  document.getElementById("t-title").textContent = `Market comparison · last ${r.len} days` + (state.plan === "All" ? "" : ` · ${state.plan} plan`);
+  document.getElementById("table").innerHTML =
+    `<tr><th>Market</th><th>Stage</th><th>Signups</th><th>Change</th><th>Active users</th><th>Churn / mo</th><th>MRR</th><th>Change</th></tr>` +
+    MARKETS.map(m => {
+      const l = planRows.filter(x => x.market === m), a = stats(l, r.start, r.end), b = stats(l, r.prevStart, r.prevEnd);
+      return `<tr><td><span class="dot" style="background:${color(m)}"></span>${m}</td><td><span class="stage">${stage[m]}</span></td>
+        <td>${fmt(a.signups)}</td><td>${delta(a.signups, b.signups)}</td><td>${fmt(a.active)}</td>
+        <td>${(a.churn * 100).toFixed(2)}%</td><td>${money(a.mrr)}</td><td>${delta(a.mrr, b.mrr)}</td></tr>`;
+    }).join("");
+}
+
+function renderSummary(s) {
+  document.getElementById("s-head").textContent = s.headline;
+  document.getElementById("s-bullets").innerHTML = s.bullets.map(b => `<li>${b.replace(/</g, "&lt;")}</li>`).join("");
+  document.getElementById("s-watch").textContent = "Look into next: " + s.watch;
+  document.getElementById("s-source").textContent = s.source === "ai" ? "Written by AI from the numbers" : "Rules-based summary";
+  document.getElementById("summary").hidden = false;
+}
+
+async function init() {
+  seg("f-market", ["All", ...MARKETS], "market");
+  seg("f-plan", ["All", ...PLANS], "plan");
+  seg("f-period", Object.keys(PERIODS), "period");
+  rows = parseCSV(await (await fetch("data.csv", { cache: "no-store" })).text());
+  lastDay = new Date(rows.reduce((m, r) => r.date > m ? r.date : m, "") + "T00:00:00Z");
+  document.getElementById("asof").textContent =
+    `Data through ${lastDay.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })} · refreshes every morning`;
+  try { renderSummary(await (await fetch("summary.json", { cache: "no-store" })).json()); } catch (e) { /* summary is optional */ }
+  render();
+}
+init();
+</script>
+</body>
+</html>

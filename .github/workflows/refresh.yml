@@ -1,0 +1,50 @@
+name: Daily refresh
+
+# Every morning: pull the latest data, rebuild the weekly summary,
+# commit both. The site redeploys on its own when the commit lands.
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 02:00 UTC
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Rebuild all history instead of the last 14 days"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Refresh data
+        run: python scripts/refresh.py ${{ github.event.inputs.full == 'true' && '--full' || '' }}
+
+      - name: Write weekly summary
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # optional; without it a rules-based summary is used
+        run: python scripts/weekly_summary.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.csv summary.json
+          if git diff --staged --quiet; then
+            echo "No changes today."
+          else
+            git commit -m "Daily refresh $(date -u +%F)"
+            git push
+          fi
