@@ -1,53 +1,53 @@
 {
-  "headline": "MRR is $3,129,610. The biggest mover is Southeast Asia (-16% signups).",
+  "headline": "MRR is $3,135,176. The biggest mover is Korea (+11% signups).",
   "bullets": [
-    "Southeast Asia: signups down 16% week over week, MRR +1.6%.",
-    "Korea: signups up 12% week over week, MRR +1.2%."
+    "Korea: signups up 11% week over week, MRR +1.2%.",
+    "Southeast Asia: signups down 11% week over week, MRR +1.6%."
   ],
   "watch": "Check whether the biggest move is a one-off (campaign, outage, pricing) before planning around it.",
-  "week_ending": "2026-10-21",
+  "week_ending": "2026-10-22",
   "source": "rules",
-  "generated_at": "2026-10-22 07:26 UTC",
+  "generated_at": "2026-10-23 07:20 UTC",
   "facts": [
     {
       "market": "India",
       "stage": "Scaling",
-      "signups": 2372,
-      "signups_wow": 0.039,
-      "mrr": 1132037,
+      "signups": 2382,
+      "signups_wow": 0.038,
+      "mrr": 1134780,
       "mrr_wow": 0.015,
-      "weekly_churn_rate": 0.0098,
-      "churn_change_pts": 0.03
+      "weekly_churn_rate": 0.0097,
+      "churn_change_pts": 0.02
     },
     {
       "market": "Japan",
       "stage": "Mature",
-      "signups": 818,
-      "signups_wow": -0.001,
-      "mrr": 1098369,
+      "signups": 835,
+      "signups_wow": 0.032,
+      "mrr": 1099200,
       "mrr_wow": 0.004,
       "weekly_churn_rate": 0.0043,
-      "churn_change_pts": 0.02
+      "churn_change_pts": 0.03
     },
     {
       "market": "Korea",
       "stage": "Growing",
-      "signups": 863,
-      "signups_wow": 0.118,
-      "mrr": 578544,
+      "signups": 887,
+      "signups_wow": 0.114,
+      "mrr": 579767,
       "mrr_wow": 0.012,
-      "weekly_churn_rate": 0.0056,
-      "churn_change_pts": -0.0
+      "weekly_churn_rate": 0.0057,
+      "churn_change_pts": 0.01
     },
     {
       "market": "Southeast Asia",
       "stage": "Early",
-      "signups": 732,
-      "signups_wow": -0.155,
-      "mrr": 320660,
+      "signups": 739,
+      "signups_wow": -0.112,
+      "mrr": 321429,
       "mrr_wow": 0.016,
-      "weekly_churn_rate": 0.0125,
-      "churn_change_pts": 0.05
+      "weekly_churn_rate": 0.0122,
+      "churn_change_pts": 0.01
     }
   ]
 }
