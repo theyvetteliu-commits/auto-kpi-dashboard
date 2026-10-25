@@ -1,39 +1,39 @@
 {
-  "headline": "A steady week. MRR is $3,140,503 and no market moved more than 8%.",
+  "headline": "A steady week. MRR is $3,143,631 and no market moved more than 8%.",
   "bullets": [
     "No market moved more than 8% this week. A steady week."
   ],
   "watch": "Check whether the biggest move is a one-off (campaign, outage, pricing) before planning around it.",
-  "week_ending": "2026-10-23",
+  "week_ending": "2026-10-24",
   "source": "rules",
-  "generated_at": "2026-10-24 07:09 UTC",
+  "generated_at": "2026-10-25 07:31 UTC",
   "facts": [
     {
       "market": "India",
       "stage": "Scaling",
-      "signups": 2362,
-      "signups_wow": 0.009,
-      "mrr": 1137257,
-      "mrr_wow": 0.014,
-      "weekly_churn_rate": 0.01,
-      "churn_change_pts": 0.05
+      "signups": 2397,
+      "signups_wow": 0.026,
+      "mrr": 1138970,
+      "mrr_wow": 0.015,
+      "weekly_churn_rate": 0.0099,
+      "churn_change_pts": 0.04
     },
     {
       "market": "Japan",
       "stage": "Mature",
-      "signups": 847,
-      "signups_wow": 0.067,
-      "mrr": 1100175,
-      "mrr_wow": 0.005,
-      "weekly_churn_rate": 0.0042,
+      "signups": 835,
+      "signups_wow": 0.04,
+      "mrr": 1100412,
+      "mrr_wow": 0.004,
+      "weekly_churn_rate": 0.0043,
       "churn_change_pts": 0.02
     },
     {
       "market": "Korea",
       "stage": "Growing",
-      "signups": 896,
-      "signups_wow": 0.077,
-      "mrr": 580990,
+      "signups": 885,
+      "signups_wow": 0.039,
+      "mrr": 581620,
       "mrr_wow": 0.012,
       "weekly_churn_rate": 0.0057,
       "churn_change_pts": 0.02
@@ -41,12 +41,12 @@
     {
       "market": "Southeast Asia",
       "stage": "Early",
-      "signups": 737,
-      "signups_wow": -0.075,
-      "mrr": 322081,
+      "signups": 739,
+      "signups_wow": -0.059,
+      "mrr": 322629,
       "mrr_wow": 0.015,
-      "weekly_churn_rate": 0.0124,
-      "churn_change_pts": 0.02
+      "weekly_churn_rate": 0.0121,
+      "churn_change_pts": -0.04
     }
   ]
 }
