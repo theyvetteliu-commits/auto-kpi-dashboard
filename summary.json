@@ -1,52 +1,52 @@
 {
-  "headline": "A steady week. MRR is $3,169,388 and no market moved more than 8%.",
+  "headline": "A steady week. MRR is $3,175,235 and no market moved more than 8%.",
   "bullets": [
     "No market moved more than 8% this week. A steady week."
   ],
   "watch": "Check whether the biggest move is a one-off (campaign, outage, pricing) before planning around it.",
-  "week_ending": "2026-10-29",
+  "week_ending": "2026-10-30",
   "source": "rules",
-  "generated_at": "2026-10-30 08:28 UTC",
+  "generated_at": "2026-10-31 08:18 UTC",
   "facts": [
     {
       "market": "India",
       "stage": "Scaling",
-      "signups": 2437,
-      "signups_wow": 0.023,
-      "mrr": 1151725,
+      "signups": 2468,
+      "signups_wow": 0.045,
+      "mrr": 1154453,
       "mrr_wow": 0.015,
-      "weekly_churn_rate": 0.0101,
-      "churn_change_pts": 0.03
+      "weekly_churn_rate": 0.0099,
+      "churn_change_pts": -0.01
     },
     {
       "market": "Japan",
       "stage": "Mature",
-      "signups": 833,
-      "signups_wow": -0.002,
-      "mrr": 1103988,
+      "signups": 839,
+      "signups_wow": -0.009,
+      "mrr": 1104956,
       "mrr_wow": 0.004,
       "weekly_churn_rate": 0.0045,
-      "churn_change_pts": 0.02
+      "churn_change_pts": 0.03
     },
     {
       "market": "Korea",
       "stage": "Growing",
-      "signups": 926,
-      "signups_wow": 0.044,
-      "mrr": 587046,
+      "signups": 913,
+      "signups_wow": 0.019,
+      "mrr": 588284,
       "mrr_wow": 0.013,
-      "weekly_churn_rate": 0.0059,
-      "churn_change_pts": 0.02
+      "weekly_churn_rate": 0.0058,
+      "churn_change_pts": 0.01
     },
     {
       "market": "Southeast Asia",
       "stage": "Early",
-      "signups": 767,
-      "signups_wow": 0.038,
-      "mrr": 326629,
-      "mrr_wow": 0.016,
-      "weekly_churn_rate": 0.0117,
-      "churn_change_pts": -0.05
+      "signups": 776,
+      "signups_wow": 0.053,
+      "mrr": 327542,
+      "mrr_wow": 0.017,
+      "weekly_churn_rate": 0.0114,
+      "churn_change_pts": -0.1
     }
   ]
 }
