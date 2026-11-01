@@ -3635,3 +3635,15 @@ date,market,stage,plan,signups,active_users,churned_users,mrr_usd
 2026-10-30,Southeast Asia,Early,Starter,72,9685,15,87164
 2026-10-30,Southeast Asia,Early,Pro,36,4496,7,130378
 2026-10-30,Southeast Asia,Early,Team,11,1392,2,110000
+2026-10-31,Japan,Mature,Starter,50,32534,17,292807
+2026-10-31,Japan,Mature,Pro,23,15179,7,440191
+2026-10-31,Japan,Mature,Team,8,4714,2,372406
+2026-10-31,Korea,Growing,Starter,59,17256,14,155303
+2026-10-31,Korea,Growing,Pro,27,8104,6,235003
+2026-10-31,Korea,Growing,Team,9,2514,2,198634
+2026-10-31,India,Scaling,Starter,146,34024,45,306218
+2026-10-31,India,Scaling,Pro,87,15933,25,462064
+2026-10-31,India,Scaling,Team,23,4905,8,387519
+2026-10-31,Southeast Asia,Early,Starter,50,9698,14,87285
+2026-10-31,Southeast Asia,Early,Pro,27,4503,8,130577
+2026-10-31,Southeast Asia,Early,Team,7,1394,2,110146

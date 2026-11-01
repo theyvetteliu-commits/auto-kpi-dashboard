@@ -1,39 +1,39 @@
 {
-  "headline": "A steady week. MRR is $3,175,235 and no market moved more than 8%.",
+  "headline": "A steady week. MRR is $3,178,153 and no market moved more than 8%.",
   "bullets": [
     "No market moved more than 8% this week. A steady week."
   ],
   "watch": "Check whether the biggest move is a one-off (campaign, outage, pricing) before planning around it.",
-  "week_ending": "2026-10-30",
+  "week_ending": "2026-10-31",
   "source": "rules",
-  "generated_at": "2026-10-31 08:18 UTC",
+  "generated_at": "2026-11-01 09:02 UTC",
   "facts": [
     {
       "market": "India",
       "stage": "Scaling",
-      "signups": 2468,
-      "signups_wow": 0.045,
-      "mrr": 1154453,
+      "signups": 2449,
+      "signups_wow": 0.022,
+      "mrr": 1155801,
       "mrr_wow": 0.015,
-      "weekly_churn_rate": 0.0099,
-      "churn_change_pts": -0.01
+      "weekly_churn_rate": 0.01,
+      "churn_change_pts": 0.0
     },
     {
       "market": "Japan",
       "stage": "Mature",
-      "signups": 839,
-      "signups_wow": -0.009,
-      "mrr": 1104956,
-      "mrr_wow": 0.004,
-      "weekly_churn_rate": 0.0045,
-      "churn_change_pts": 0.03
+      "signups": 837,
+      "signups_wow": 0.002,
+      "mrr": 1105404,
+      "mrr_wow": 0.005,
+      "weekly_churn_rate": 0.0043,
+      "churn_change_pts": 0.0
     },
     {
       "market": "Korea",
       "stage": "Growing",
-      "signups": 913,
-      "signups_wow": 0.019,
-      "mrr": 588284,
+      "signups": 918,
+      "signups_wow": 0.037,
+      "mrr": 588940,
       "mrr_wow": 0.013,
       "weekly_churn_rate": 0.0058,
       "churn_change_pts": 0.01
@@ -41,12 +41,12 @@
     {
       "market": "Southeast Asia",
       "stage": "Early",
-      "signups": 776,
-      "signups_wow": 0.053,
-      "mrr": 327542,
+      "signups": 774,
+      "signups_wow": 0.047,
+      "mrr": 328008,
       "mrr_wow": 0.017,
-      "weekly_churn_rate": 0.0114,
-      "churn_change_pts": -0.1
+      "weekly_churn_rate": 0.0113,
+      "churn_change_pts": -0.08
     }
   ]
 }
