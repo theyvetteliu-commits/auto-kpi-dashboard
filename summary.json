@@ -1,52 +1,52 @@
 {
-  "headline": "A steady week. MRR is $3,178,153 and no market moved more than 8%.",
+  "headline": "A steady week. MRR is $3,181,827 and no market moved more than 8%.",
   "bullets": [
     "No market moved more than 8% this week. A steady week."
   ],
   "watch": "Check whether the biggest move is a one-off (campaign, outage, pricing) before planning around it.",
-  "week_ending": "2026-10-31",
+  "week_ending": "2026-11-01",
   "source": "rules",
-  "generated_at": "2026-11-01 09:02 UTC",
+  "generated_at": "2026-11-02 09:18 UTC",
   "facts": [
     {
       "market": "India",
       "stage": "Scaling",
-      "signups": 2449,
+      "signups": 2456,
       "signups_wow": 0.022,
-      "mrr": 1155801,
+      "mrr": 1157886,
       "mrr_wow": 0.015,
-      "weekly_churn_rate": 0.01,
-      "churn_change_pts": 0.0
+      "weekly_churn_rate": 0.0098,
+      "churn_change_pts": -0.04
     },
     {
       "market": "Japan",
       "stage": "Mature",
       "signups": 837,
-      "signups_wow": 0.002,
-      "mrr": 1105404,
+      "signups_wow": 0.01,
+      "mrr": 1105809,
       "mrr_wow": 0.005,
-      "weekly_churn_rate": 0.0043,
-      "churn_change_pts": 0.0
+      "weekly_churn_rate": 0.0042,
+      "churn_change_pts": -0.02
     },
     {
       "market": "Korea",
       "stage": "Growing",
-      "signups": 918,
-      "signups_wow": 0.037,
-      "mrr": 588940,
+      "signups": 915,
+      "signups_wow": 0.021,
+      "mrr": 589695,
       "mrr_wow": 0.013,
-      "weekly_churn_rate": 0.0058,
-      "churn_change_pts": 0.01
+      "weekly_churn_rate": 0.0057,
+      "churn_change_pts": -0.01
     },
     {
       "market": "Southeast Asia",
       "stage": "Early",
-      "signups": 774,
-      "signups_wow": 0.047,
-      "mrr": 328008,
-      "mrr_wow": 0.017,
-      "weekly_churn_rate": 0.0113,
-      "churn_change_pts": -0.08
+      "signups": 770,
+      "signups_wow": 0.024,
+      "mrr": 328437,
+      "mrr_wow": 0.016,
+      "weekly_churn_rate": 0.0115,
+      "churn_change_pts": -0.05
     }
   ]
 }
