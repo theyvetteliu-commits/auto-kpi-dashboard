@@ -1,52 +1,52 @@
 {
-  "headline": "A steady week. MRR is $3,199,683 and no market moved more than 8%.",
+  "headline": "A steady week. MRR is $3,205,795 and no market moved more than 8%.",
   "bullets": [
     "No market moved more than 8% this week. A steady week."
   ],
   "watch": "Check whether the biggest move is a one-off (campaign, outage, pricing) before planning around it.",
-  "week_ending": "2026-11-04",
+  "week_ending": "2026-11-05",
   "source": "rules",
-  "generated_at": "2026-11-05 09:20 UTC",
+  "generated_at": "2026-11-06 09:13 UTC",
   "facts": [
     {
       "market": "India",
       "stage": "Scaling",
-      "signups": 2462,
-      "signups_wow": 0.012,
-      "mrr": 1166909,
+      "signups": 2455,
+      "signups_wow": 0.007,
+      "mrr": 1169831,
       "mrr_wow": 0.016,
-      "weekly_churn_rate": 0.0093,
-      "churn_change_pts": -0.08
+      "weekly_churn_rate": 0.0092,
+      "churn_change_pts": -0.09
     },
     {
       "market": "Japan",
       "stage": "Mature",
-      "signups": 840,
-      "signups_wow": 0.002,
-      "mrr": 1108355,
+      "signups": 845,
+      "signups_wow": 0.014,
+      "mrr": 1109324,
       "mrr_wow": 0.005,
-      "weekly_churn_rate": 0.0041,
-      "churn_change_pts": -0.02
+      "weekly_churn_rate": 0.0039,
+      "churn_change_pts": -0.06
     },
     {
       "market": "Korea",
       "stage": "Growing",
-      "signups": 910,
-      "signups_wow": -0.016,
-      "mrr": 593295,
+      "signups": 908,
+      "signups_wow": -0.019,
+      "mrr": 594606,
       "mrr_wow": 0.013,
-      "weekly_churn_rate": 0.0056,
-      "churn_change_pts": -0.03
+      "weekly_churn_rate": 0.0055,
+      "churn_change_pts": -0.04
     },
     {
       "market": "Southeast Asia",
       "stage": "Early",
-      "signups": 800,
+      "signups": 814,
       "signups_wow": 0.061,
-      "mrr": 331124,
+      "mrr": 332034,
       "mrr_wow": 0.017,
-      "weekly_churn_rate": 0.0119,
-      "churn_change_pts": 0.05
+      "weekly_churn_rate": 0.0117,
+      "churn_change_pts": -0.0
     }
   ]
 }
