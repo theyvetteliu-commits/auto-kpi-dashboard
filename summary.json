@@ -1,51 +1,51 @@
 {
-  "headline": "A steady week. MRR is $3,246,210 and no market moved more than 8%.",
+  "headline": "A steady week. MRR is $3,249,481 and no market moved more than 8%.",
   "bullets": [
     "No market moved more than 8% this week. A steady week."
   ],
   "watch": "Check whether the biggest move is a one-off (campaign, outage, pricing) before planning around it.",
-  "week_ending": "2026-11-13",
+  "week_ending": "2026-11-14",
   "source": "rules",
-  "generated_at": "2026-11-14 08:51 UTC",
+  "generated_at": "2026-11-15 09:09 UTC",
   "facts": [
     {
       "market": "India",
       "stage": "Scaling",
-      "signups": 2522,
-      "signups_wow": 0.038,
-      "mrr": 1189805,
+      "signups": 2526,
+      "signups_wow": 0.026,
+      "mrr": 1191456,
       "mrr_wow": 0.015,
       "weekly_churn_rate": 0.0096,
-      "churn_change_pts": 0.04
+      "churn_change_pts": 0.03
     },
     {
       "market": "Japan",
       "stage": "Mature",
-      "signups": 825,
-      "signups_wow": 0.005,
-      "mrr": 1114836,
+      "signups": 826,
+      "signups_wow": -0.002,
+      "mrr": 1115269,
       "mrr_wow": 0.004,
       "weekly_churn_rate": 0.0042,
-      "churn_change_pts": 0.03
+      "churn_change_pts": 0.02
     },
     {
       "market": "Korea",
       "stage": "Growing",
       "signups": 948,
-      "signups_wow": 0.025,
-      "mrr": 603607,
+      "signups_wow": 0.016,
+      "mrr": 604291,
       "mrr_wow": 0.013,
       "weekly_churn_rate": 0.0055,
-      "churn_change_pts": -0.01
+      "churn_change_pts": -0.0
     },
     {
       "market": "Southeast Asia",
       "stage": "Early",
-      "signups": 830,
-      "signups_wow": 0.02,
-      "mrr": 337962,
+      "signups": 833,
+      "signups_wow": 0.015,
+      "mrr": 338465,
       "mrr_wow": 0.016,
-      "weekly_churn_rate": 0.0117,
+      "weekly_churn_rate": 0.0119,
       "churn_change_pts": -0.03
     }
   ]
