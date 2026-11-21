@@ -1,52 +1,52 @@
 {
-  "headline": "A steady week. MRR is $3,275,706 and no market moved more than 8%.",
+  "headline": "A steady week. MRR is $3,281,747 and no market moved more than 8%.",
   "bullets": [
     "No market moved more than 8% this week. A steady week."
   ],
   "watch": "Check whether the biggest move is a one-off (campaign, outage, pricing) before planning around it.",
-  "week_ending": "2026-11-19",
+  "week_ending": "2026-11-20",
   "source": "rules",
-  "generated_at": "2026-11-20 09:55 UTC",
+  "generated_at": "2026-11-21 09:33 UTC",
   "facts": [
     {
       "market": "India",
       "stage": "Scaling",
-      "signups": 2526,
-      "signups_wow": 0.02,
-      "mrr": 1204786,
+      "signups": 2543,
+      "signups_wow": 0.008,
+      "mrr": 1207785,
       "mrr_wow": 0.015,
-      "weekly_churn_rate": 0.0094,
-      "churn_change_pts": -0.02
+      "weekly_churn_rate": 0.0093,
+      "churn_change_pts": -0.03
     },
     {
       "market": "Japan",
       "stage": "Mature",
-      "signups": 802,
-      "signups_wow": -0.027,
-      "mrr": 1118864,
+      "signups": 805,
+      "signups_wow": -0.024,
+      "mrr": 1119615,
       "mrr_wow": 0.004,
       "weekly_churn_rate": 0.0043,
-      "churn_change_pts": 0.02
+      "churn_change_pts": 0.01
     },
     {
       "market": "Korea",
       "stage": "Growing",
-      "signups": 929,
-      "signups_wow": -0.021,
-      "mrr": 609537,
+      "signups": 932,
+      "signups_wow": -0.017,
+      "mrr": 610895,
       "mrr_wow": 0.012,
-      "weekly_churn_rate": 0.0058,
-      "churn_change_pts": 0.04
+      "weekly_churn_rate": 0.0056,
+      "churn_change_pts": 0.01
     },
     {
       "market": "Southeast Asia",
       "stage": "Early",
-      "signups": 832,
-      "signups_wow": 0.02,
-      "mrr": 342519,
+      "signups": 836,
+      "signups_wow": 0.007,
+      "mrr": 343452,
       "mrr_wow": 0.016,
-      "weekly_churn_rate": 0.0123,
-      "churn_change_pts": 0.04
+      "weekly_churn_rate": 0.0126,
+      "churn_change_pts": 0.09
     }
   ]
 }
