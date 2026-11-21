@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0c1a1f" />
+  <title>Week — week of the year</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ink: #0c1a1f;
+      --ink-soft: #163038;
+      --mist: #c8d9d6;
+      --mist-dim: rgba(200, 217, 214, 0.55);
+      --paper: #e8f0ee;
+      --flare: #e8ff6b;
+      --flare-soft: rgba(232, 255, 107, 0.18);
+      --line: rgba(200, 217, 214, 0.18);
+      --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+      --ease-soft: cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html, body {
+      min-height: 100%;
+    }
+
+    body {
+      font-family: "Instrument Sans", sans-serif;
+      color: var(--paper);
+      background: var(--ink);
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Atmosphere: layered wash + soft grain, not a flat fill */
+    .sky {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      background:
+        radial-gradient(ellipse 90% 70% at 18% 12%, rgba(62, 110, 118, 0.45), transparent 55%),
+        radial-gradient(ellipse 70% 60% at 88% 78%, rgba(232, 255, 107, 0.08), transparent 50%),
+        radial-gradient(ellipse 50% 40% at 55% 40%, rgba(22, 48, 56, 0.9), transparent 70%),
+        linear-gradient(165deg, #0a1519 0%, #0c1a1f 40%, #12262c 100%);
+      animation: sky-drift 18s var(--ease-soft) infinite alternate;
+    }
+
+    .sky::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      opacity: 0.35;
+      pointer-events: none;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/%3E%3C/svg%3E");
+      background-size: 180px 180px;
+      mix-blend-mode: soft-light;
+    }
+
+    @keyframes sky-drift {
+      from { filter: hue-rotate(0deg) saturate(1); }
+      to { filter: hue-rotate(8deg) saturate(1.08); }
+    }
+
+    .stage {
+      position: relative;
+      z-index: 1;
+      min-height: 100dvh;
+      display: grid;
+      place-items: center;
+      padding: clamp(1.5rem, 4vw, 3rem);
+    }
+
+    .widget {
+      width: min(100%, 28rem);
+      display: flex;
+      flex-direction: column;
+      gap: clamp(1.75rem, 4vw, 2.5rem);
+    }
+
+    /* Brand as hero signal */
+    .brand {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-size: clamp(3.5rem, 12vw, 5.5rem);
+      font-weight: 400;
+      letter-spacing: -0.03em;
+      line-height: 0.9;
+      color: var(--paper);
+      opacity: 0;
+      transform: translateY(18px);
+      animation: rise 0.9s var(--ease-out) 0.05s forwards;
+    }
+
+    .brand em {
+      font-style: italic;
+      color: var(--flare);
+    }
+
+    .lead {
+      margin-top: 0.65rem;
+      max-width: 22ch;
+      font-size: 1.05rem;
+      font-weight: 400;
+      line-height: 1.45;
+      color: var(--mist-dim);
+      opacity: 0;
+      transform: translateY(14px);
+      animation: rise 0.85s var(--ease-out) 0.18s forwards;
+    }
+
+    .week-block {
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+      opacity: 0;
+      transform: translateY(22px);
+      animation: rise 1s var(--ease-out) 0.32s forwards;
+    }
+
+    .week-label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--mist-dim);
+    }
+
+    .week-number {
+      font-family: "Instrument Serif", Georgia, serif;
+      font-size: clamp(6.5rem, 22vw, 9rem);
+      font-weight: 400;
+      line-height: 0.85;
+      letter-spacing: -0.04em;
+      color: var(--flare);
+      font-variant-numeric: tabular-nums;
+      text-shadow: 0 0 60px var(--flare-soft);
+    }
+
+    .week-number .digit {
+      display: inline-block;
+      animation: digit-settle 1.1s var(--ease-out) both;
+    }
+
+    .week-number .digit:nth-child(2) {
+      animation-delay: 0.08s;
+    }
+
+    .range {
+      font-size: 1rem;
+      font-weight: 500;
+      color: var(--mist);
+      letter-spacing: 0.01em;
+    }
+
+    /* Visual anchor: the seven-day strip (not a card cluster) */
+    .strip {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 0.35rem;
+      padding-top: 0.25rem;
+      border-top: 1px solid var(--line);
+      opacity: 0;
+      animation: rise 0.9s var(--ease-out) 0.5s forwards;
+    }
+
+    .day {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.55rem;
+      padding: 0.85rem 0 0.35rem;
+      min-width: 0;
+    }
+
+    .day-name {
+      font-size: 0.65rem;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--mist-dim);
+    }
+
+    .day-mark {
+      width: 100%;
+      aspect-ratio: 1;
+      max-width: 2.4rem;
+      border-radius: 2px;
+      background: rgba(200, 217, 214, 0.08);
+      border: 1px solid var(--line);
+      transform: scaleY(0.35);
+      transform-origin: bottom center;
+      opacity: 0;
+      animation: bar-grow 0.7s var(--ease-out) forwards;
+    }
+
+    .day.is-today .day-name {
+      color: var(--flare);
+    }
+
+    .day.is-today .day-mark {
+      background: var(--flare);
+      border-color: transparent;
+      box-shadow: 0 0 24px var(--flare-soft);
+    }
+
+    .day:nth-child(1) .day-mark { animation-delay: 0.55s; }
+    .day:nth-child(2) .day-mark { animation-delay: 0.62s; }
+    .day:nth-child(3) .day-mark { animation-delay: 0.69s; }
+    .day:nth-child(4) .day-mark { animation-delay: 0.76s; }
+    .day:nth-child(5) .day-mark { animation-delay: 0.83s; }
+    .day:nth-child(6) .day-mark { animation-delay: 0.9s; }
+    .day:nth-child(7) .day-mark { animation-delay: 0.97s; }
+
+    .cta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      opacity: 0;
+      animation: rise 0.8s var(--ease-out) 0.7s forwards;
+    }
+
+    .cta button {
+      appearance: none;
+      border: 1px solid var(--line);
+      background: transparent;
+      color: var(--paper);
+      font: inherit;
+      font-size: 0.85rem;
+      font-weight: 500;
+      padding: 0.7rem 1.1rem;
+      border-radius: 2px;
+      cursor: pointer;
+      transition: background 0.25s var(--ease-soft), border-color 0.25s var(--ease-soft), color 0.25s var(--ease-soft);
+    }
+
+    .cta button:hover {
+      background: rgba(232, 255, 107, 0.1);
+      border-color: rgba(232, 255, 107, 0.45);
+      color: var(--flare);
+    }
+
+    .cta button:focus-visible {
+      outline: 2px solid var(--flare);
+      outline-offset: 3px;
+    }
+
+    .hint {
+      margin-top: auto;
+      font-size: 0.75rem;
+      color: var(--mist-dim);
+      opacity: 0;
+      animation: rise 0.8s var(--ease-out) 0.85s forwards;
+    }
+
+    @keyframes rise {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes digit-settle {
+      from {
+        opacity: 0;
+        transform: translateY(0.35em) rotate(-4deg);
+        filter: blur(6px);
+      }
+      to {
+        opacity: 1;
+        transform: none;
+        filter: none;
+      }
+    }
+
+    @keyframes bar-grow {
+      to {
+        opacity: 1;
+        transform: scaleY(1);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .sky,
+      .brand,
+      .lead,
+      .week-block,
+      .strip,
+      .cta,
+      .hint,
+      .week-number .digit,
+      .day-mark {
+        animation: none !important;
+        opacity: 1 !important;
+        transform: none !important;
+        filter: none !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="sky" aria-hidden="true"></div>
+  <main class="stage">
+    <div class="widget">
+      <header>
+        <h1 class="brand">Week<em>.</em></h1>
+        <p class="lead">A quiet glance at where you are in the year.</p>
+      </header>
+
+      <section class="week-block" aria-live="polite">
+        <p class="week-label">ISO week</p>
+        <p class="week-number" id="week-number">—</p>
+        <p class="range" id="week-range">—</p>
+      </section>
+
+      <div class="strip" id="day-strip" aria-label="Days in this week"></div>
+
+      <div class="cta">
+        <button type="button" id="copy-week">Copy week number</button>
+      </div>
+
+      <p class="hint" id="year-line"></p>
+    </div>
+  </main>
+
+  <script>
+    const DAY_NAMES = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
+
+    function isoWeekData(date = new Date()) {
+      const utc = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+      const day = utc.getUTCDay() || 7; // Mon=1 … Sun=7
+      utc.setUTCDate(utc.getUTCDate() + 4 - day);
+      const isoYear = utc.getUTCFullYear();
+      const yearStart = new Date(Date.UTC(isoYear, 0, 1));
+      const week = Math.ceil((((utc - yearStart) / 86400000) + 1) / 7);
+
+      const monday = new Date(utc);
+      monday.setUTCDate(utc.getUTCDate() - 3); // Thursday − 3 = Monday
+      const days = Array.from({ length: 7 }, (_, i) => {
+        const d = new Date(monday);
+        d.setUTCDate(monday.getUTCDate() + i);
+        return d;
+      });
+
+      return { week, isoYear, days, todayIndex: day - 1 };
+    }
+
+    function formatDay(d) {
+      return d.toLocaleDateString(undefined, {
+        month: "short",
+        day: "numeric",
+        timeZone: "UTC",
+      });
+    }
+
+    function padWeek(n) {
+      return String(n).padStart(2, "0");
+    }
+
+    function render() {
+      const { week, isoYear, days, todayIndex } = isoWeekData();
+      const weekStr = padWeek(week);
+
+      const numEl = document.getElementById("week-number");
+      numEl.replaceChildren();
+      [...weekStr].forEach((ch) => {
+        const span = document.createElement("span");
+        span.className = "digit";
+        span.textContent = ch;
+        numEl.appendChild(span);
+      });
+
+      document.getElementById("week-range").textContent =
+        `${formatDay(days[0])} – ${formatDay(days[6])}`;
+
+      document.getElementById("year-line").textContent =
+        `${isoYear} · week ${week} of 52–53`;
+
+      const strip = document.getElementById("day-strip");
+      strip.replaceChildren();
+      days.forEach((d, i) => {
+        const cell = document.createElement("div");
+        cell.className = "day" + (i === todayIndex ? " is-today" : "");
+        cell.innerHTML = `
+          <span class="day-name">${DAY_NAMES[i]}</span>
+          <span class="day-mark" title="${formatDay(d)}"></span>
+        `;
+        strip.appendChild(cell);
+      });
+
+      document.getElementById("copy-week").dataset.week = String(week);
+    }
+
+    document.getElementById("copy-week").addEventListener("click", async (e) => {
+      const btn = e.currentTarget;
+      const week = btn.dataset.week;
+      const label = `Week ${week}`;
+      const flash = (text) => {
+        btn.textContent = text;
+        setTimeout(() => {
+          btn.textContent = "Copy week number";
+        }, 1400);
+      };
+      try {
+        await navigator.clipboard.writeText(label);
+        flash("Copied");
+      } catch {
+        // Fallback when clipboard permission is blocked (some embedded browsers)
+        const ta = document.createElement("textarea");
+        ta.value = label;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "fixed";
+        ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.select();
+        try {
+          document.execCommand("copy");
+          flash("Copied");
+        } catch {
+          flash(label);
+        }
+        document.body.removeChild(ta);
+      }
+    });
+
+    render();
+  </script>
+</body>
+</html>
